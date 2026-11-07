@@ -1,0 +1,10 @@
+field,role,definition
+date,feature,Local calendar date in the TTC record; yyyy-mm-dd.
+day_of_week,feature,Derived weekday. Monday-Friday only; weekday holidays are retained.
+station_id,feature/key,"Teaching identifier S01-S15, not an official TTC identifier."
+station,feature,Standardized historical station name; interchange platforms combined.
+time_window,feature,"Two-hour local window. Start included, end excluded."
+log_entry_count,outcome/audit,"Number of matching log rows, including zero-minute entries. Not unique incidents."
+positive_delay_count,outcome,Number of matching log rows with Min Delay > 0. Identical-looking rows retained.
+has_recorded_delay,PRIMARY TARGET,"1 if positive_delay_count > 0, otherwise 0. Predict this using features only."
+recorded_delay_minutes,outcome,Sum of reported Min Delay. Not passenger delay or deduplicated disruption duration.

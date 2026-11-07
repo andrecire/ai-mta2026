@@ -1,0 +1,16 @@
+.DS_Store
+**/.quarto/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+.venv/
+node_modules
+_site/
+
+# Local reference material and workbook exports are not part of this workshop site.
+actual_case/
+format_slides/
+outputs/
+ttc_case/instructor/previews/
+ttc_case/instructor/workbook_data.json

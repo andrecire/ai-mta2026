@@ -1,0 +1,2971 @@
+date,day_of_week,station_id,station,time_window
+2025-10-01,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-10-01,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-10-01,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-10-01,Wednesday,S02,Union,07:00-09:00
+2025-10-01,Wednesday,S02,Union,12:00-14:00
+2025-10-01,Wednesday,S02,Union,16:00-18:00
+2025-10-01,Wednesday,S03,St George,07:00-09:00
+2025-10-01,Wednesday,S03,St George,12:00-14:00
+2025-10-01,Wednesday,S03,St George,16:00-18:00
+2025-10-01,Wednesday,S04,Kennedy,07:00-09:00
+2025-10-01,Wednesday,S04,Kennedy,12:00-14:00
+2025-10-01,Wednesday,S04,Kennedy,16:00-18:00
+2025-10-01,Wednesday,S05,Finch,07:00-09:00
+2025-10-01,Wednesday,S05,Finch,12:00-14:00
+2025-10-01,Wednesday,S05,Finch,16:00-18:00
+2025-10-01,Wednesday,S06,Kipling,07:00-09:00
+2025-10-01,Wednesday,S06,Kipling,12:00-14:00
+2025-10-01,Wednesday,S06,Kipling,16:00-18:00
+2025-10-01,Wednesday,S07,Eglinton,07:00-09:00
+2025-10-01,Wednesday,S07,Eglinton,12:00-14:00
+2025-10-01,Wednesday,S07,Eglinton,16:00-18:00
+2025-10-01,Wednesday,S08,Dundas,07:00-09:00
+2025-10-01,Wednesday,S08,Dundas,12:00-14:00
+2025-10-01,Wednesday,S08,Dundas,16:00-18:00
+2025-10-01,Wednesday,S09,Warden,07:00-09:00
+2025-10-01,Wednesday,S09,Warden,12:00-14:00
+2025-10-01,Wednesday,S09,Warden,16:00-18:00
+2025-10-01,Wednesday,S10,Victoria Park,07:00-09:00
+2025-10-01,Wednesday,S10,Victoria Park,12:00-14:00
+2025-10-01,Wednesday,S10,Victoria Park,16:00-18:00
+2025-10-01,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-01,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-01,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-01,Wednesday,S12,Don Mills,07:00-09:00
+2025-10-01,Wednesday,S12,Don Mills,12:00-14:00
+2025-10-01,Wednesday,S12,Don Mills,16:00-18:00
+2025-10-01,Wednesday,S13,Islington,07:00-09:00
+2025-10-01,Wednesday,S13,Islington,12:00-14:00
+2025-10-01,Wednesday,S13,Islington,16:00-18:00
+2025-10-01,Wednesday,S14,Spadina,07:00-09:00
+2025-10-01,Wednesday,S14,Spadina,12:00-14:00
+2025-10-01,Wednesday,S14,Spadina,16:00-18:00
+2025-10-01,Wednesday,S15,Wilson,07:00-09:00
+2025-10-01,Wednesday,S15,Wilson,12:00-14:00
+2025-10-01,Wednesday,S15,Wilson,16:00-18:00
+2025-10-02,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-10-02,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-10-02,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-10-02,Thursday,S02,Union,07:00-09:00
+2025-10-02,Thursday,S02,Union,12:00-14:00
+2025-10-02,Thursday,S02,Union,16:00-18:00
+2025-10-02,Thursday,S03,St George,07:00-09:00
+2025-10-02,Thursday,S03,St George,12:00-14:00
+2025-10-02,Thursday,S03,St George,16:00-18:00
+2025-10-02,Thursday,S04,Kennedy,07:00-09:00
+2025-10-02,Thursday,S04,Kennedy,12:00-14:00
+2025-10-02,Thursday,S04,Kennedy,16:00-18:00
+2025-10-02,Thursday,S05,Finch,07:00-09:00
+2025-10-02,Thursday,S05,Finch,12:00-14:00
+2025-10-02,Thursday,S05,Finch,16:00-18:00
+2025-10-02,Thursday,S06,Kipling,07:00-09:00
+2025-10-02,Thursday,S06,Kipling,12:00-14:00
+2025-10-02,Thursday,S06,Kipling,16:00-18:00
+2025-10-02,Thursday,S07,Eglinton,07:00-09:00
+2025-10-02,Thursday,S07,Eglinton,12:00-14:00
+2025-10-02,Thursday,S07,Eglinton,16:00-18:00
+2025-10-02,Thursday,S08,Dundas,07:00-09:00
+2025-10-02,Thursday,S08,Dundas,12:00-14:00
+2025-10-02,Thursday,S08,Dundas,16:00-18:00
+2025-10-02,Thursday,S09,Warden,07:00-09:00
+2025-10-02,Thursday,S09,Warden,12:00-14:00
+2025-10-02,Thursday,S09,Warden,16:00-18:00
+2025-10-02,Thursday,S10,Victoria Park,07:00-09:00
+2025-10-02,Thursday,S10,Victoria Park,12:00-14:00
+2025-10-02,Thursday,S10,Victoria Park,16:00-18:00
+2025-10-02,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-02,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-02,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-02,Thursday,S12,Don Mills,07:00-09:00
+2025-10-02,Thursday,S12,Don Mills,12:00-14:00
+2025-10-02,Thursday,S12,Don Mills,16:00-18:00
+2025-10-02,Thursday,S13,Islington,07:00-09:00
+2025-10-02,Thursday,S13,Islington,12:00-14:00
+2025-10-02,Thursday,S13,Islington,16:00-18:00
+2025-10-02,Thursday,S14,Spadina,07:00-09:00
+2025-10-02,Thursday,S14,Spadina,12:00-14:00
+2025-10-02,Thursday,S14,Spadina,16:00-18:00
+2025-10-02,Thursday,S15,Wilson,07:00-09:00
+2025-10-02,Thursday,S15,Wilson,12:00-14:00
+2025-10-02,Thursday,S15,Wilson,16:00-18:00
+2025-10-03,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-10-03,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-10-03,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-10-03,Friday,S02,Union,07:00-09:00
+2025-10-03,Friday,S02,Union,12:00-14:00
+2025-10-03,Friday,S02,Union,16:00-18:00
+2025-10-03,Friday,S03,St George,07:00-09:00
+2025-10-03,Friday,S03,St George,12:00-14:00
+2025-10-03,Friday,S03,St George,16:00-18:00
+2025-10-03,Friday,S04,Kennedy,07:00-09:00
+2025-10-03,Friday,S04,Kennedy,12:00-14:00
+2025-10-03,Friday,S04,Kennedy,16:00-18:00
+2025-10-03,Friday,S05,Finch,07:00-09:00
+2025-10-03,Friday,S05,Finch,12:00-14:00
+2025-10-03,Friday,S05,Finch,16:00-18:00
+2025-10-03,Friday,S06,Kipling,07:00-09:00
+2025-10-03,Friday,S06,Kipling,12:00-14:00
+2025-10-03,Friday,S06,Kipling,16:00-18:00
+2025-10-03,Friday,S07,Eglinton,07:00-09:00
+2025-10-03,Friday,S07,Eglinton,12:00-14:00
+2025-10-03,Friday,S07,Eglinton,16:00-18:00
+2025-10-03,Friday,S08,Dundas,07:00-09:00
+2025-10-03,Friday,S08,Dundas,12:00-14:00
+2025-10-03,Friday,S08,Dundas,16:00-18:00
+2025-10-03,Friday,S09,Warden,07:00-09:00
+2025-10-03,Friday,S09,Warden,12:00-14:00
+2025-10-03,Friday,S09,Warden,16:00-18:00
+2025-10-03,Friday,S10,Victoria Park,07:00-09:00
+2025-10-03,Friday,S10,Victoria Park,12:00-14:00
+2025-10-03,Friday,S10,Victoria Park,16:00-18:00
+2025-10-03,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-03,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-03,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-03,Friday,S12,Don Mills,07:00-09:00
+2025-10-03,Friday,S12,Don Mills,12:00-14:00
+2025-10-03,Friday,S12,Don Mills,16:00-18:00
+2025-10-03,Friday,S13,Islington,07:00-09:00
+2025-10-03,Friday,S13,Islington,12:00-14:00
+2025-10-03,Friday,S13,Islington,16:00-18:00
+2025-10-03,Friday,S14,Spadina,07:00-09:00
+2025-10-03,Friday,S14,Spadina,12:00-14:00
+2025-10-03,Friday,S14,Spadina,16:00-18:00
+2025-10-03,Friday,S15,Wilson,07:00-09:00
+2025-10-03,Friday,S15,Wilson,12:00-14:00
+2025-10-03,Friday,S15,Wilson,16:00-18:00
+2025-10-06,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-10-06,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-10-06,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-10-06,Monday,S02,Union,07:00-09:00
+2025-10-06,Monday,S02,Union,12:00-14:00
+2025-10-06,Monday,S02,Union,16:00-18:00
+2025-10-06,Monday,S03,St George,07:00-09:00
+2025-10-06,Monday,S03,St George,12:00-14:00
+2025-10-06,Monday,S03,St George,16:00-18:00
+2025-10-06,Monday,S04,Kennedy,07:00-09:00
+2025-10-06,Monday,S04,Kennedy,12:00-14:00
+2025-10-06,Monday,S04,Kennedy,16:00-18:00
+2025-10-06,Monday,S05,Finch,07:00-09:00
+2025-10-06,Monday,S05,Finch,12:00-14:00
+2025-10-06,Monday,S05,Finch,16:00-18:00
+2025-10-06,Monday,S06,Kipling,07:00-09:00
+2025-10-06,Monday,S06,Kipling,12:00-14:00
+2025-10-06,Monday,S06,Kipling,16:00-18:00
+2025-10-06,Monday,S07,Eglinton,07:00-09:00
+2025-10-06,Monday,S07,Eglinton,12:00-14:00
+2025-10-06,Monday,S07,Eglinton,16:00-18:00
+2025-10-06,Monday,S08,Dundas,07:00-09:00
+2025-10-06,Monday,S08,Dundas,12:00-14:00
+2025-10-06,Monday,S08,Dundas,16:00-18:00
+2025-10-06,Monday,S09,Warden,07:00-09:00
+2025-10-06,Monday,S09,Warden,12:00-14:00
+2025-10-06,Monday,S09,Warden,16:00-18:00
+2025-10-06,Monday,S10,Victoria Park,07:00-09:00
+2025-10-06,Monday,S10,Victoria Park,12:00-14:00
+2025-10-06,Monday,S10,Victoria Park,16:00-18:00
+2025-10-06,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-06,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-06,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-06,Monday,S12,Don Mills,07:00-09:00
+2025-10-06,Monday,S12,Don Mills,12:00-14:00
+2025-10-06,Monday,S12,Don Mills,16:00-18:00
+2025-10-06,Monday,S13,Islington,07:00-09:00
+2025-10-06,Monday,S13,Islington,12:00-14:00
+2025-10-06,Monday,S13,Islington,16:00-18:00
+2025-10-06,Monday,S14,Spadina,07:00-09:00
+2025-10-06,Monday,S14,Spadina,12:00-14:00
+2025-10-06,Monday,S14,Spadina,16:00-18:00
+2025-10-06,Monday,S15,Wilson,07:00-09:00
+2025-10-06,Monday,S15,Wilson,12:00-14:00
+2025-10-06,Monday,S15,Wilson,16:00-18:00
+2025-10-07,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-10-07,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-10-07,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-10-07,Tuesday,S02,Union,07:00-09:00
+2025-10-07,Tuesday,S02,Union,12:00-14:00
+2025-10-07,Tuesday,S02,Union,16:00-18:00
+2025-10-07,Tuesday,S03,St George,07:00-09:00
+2025-10-07,Tuesday,S03,St George,12:00-14:00
+2025-10-07,Tuesday,S03,St George,16:00-18:00
+2025-10-07,Tuesday,S04,Kennedy,07:00-09:00
+2025-10-07,Tuesday,S04,Kennedy,12:00-14:00
+2025-10-07,Tuesday,S04,Kennedy,16:00-18:00
+2025-10-07,Tuesday,S05,Finch,07:00-09:00
+2025-10-07,Tuesday,S05,Finch,12:00-14:00
+2025-10-07,Tuesday,S05,Finch,16:00-18:00
+2025-10-07,Tuesday,S06,Kipling,07:00-09:00
+2025-10-07,Tuesday,S06,Kipling,12:00-14:00
+2025-10-07,Tuesday,S06,Kipling,16:00-18:00
+2025-10-07,Tuesday,S07,Eglinton,07:00-09:00
+2025-10-07,Tuesday,S07,Eglinton,12:00-14:00
+2025-10-07,Tuesday,S07,Eglinton,16:00-18:00
+2025-10-07,Tuesday,S08,Dundas,07:00-09:00
+2025-10-07,Tuesday,S08,Dundas,12:00-14:00
+2025-10-07,Tuesday,S08,Dundas,16:00-18:00
+2025-10-07,Tuesday,S09,Warden,07:00-09:00
+2025-10-07,Tuesday,S09,Warden,12:00-14:00
+2025-10-07,Tuesday,S09,Warden,16:00-18:00
+2025-10-07,Tuesday,S10,Victoria Park,07:00-09:00
+2025-10-07,Tuesday,S10,Victoria Park,12:00-14:00
+2025-10-07,Tuesday,S10,Victoria Park,16:00-18:00
+2025-10-07,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-07,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-07,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-07,Tuesday,S12,Don Mills,07:00-09:00
+2025-10-07,Tuesday,S12,Don Mills,12:00-14:00
+2025-10-07,Tuesday,S12,Don Mills,16:00-18:00
+2025-10-07,Tuesday,S13,Islington,07:00-09:00
+2025-10-07,Tuesday,S13,Islington,12:00-14:00
+2025-10-07,Tuesday,S13,Islington,16:00-18:00
+2025-10-07,Tuesday,S14,Spadina,07:00-09:00
+2025-10-07,Tuesday,S14,Spadina,12:00-14:00
+2025-10-07,Tuesday,S14,Spadina,16:00-18:00
+2025-10-07,Tuesday,S15,Wilson,07:00-09:00
+2025-10-07,Tuesday,S15,Wilson,12:00-14:00
+2025-10-07,Tuesday,S15,Wilson,16:00-18:00
+2025-10-08,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-10-08,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-10-08,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-10-08,Wednesday,S02,Union,07:00-09:00
+2025-10-08,Wednesday,S02,Union,12:00-14:00
+2025-10-08,Wednesday,S02,Union,16:00-18:00
+2025-10-08,Wednesday,S03,St George,07:00-09:00
+2025-10-08,Wednesday,S03,St George,12:00-14:00
+2025-10-08,Wednesday,S03,St George,16:00-18:00
+2025-10-08,Wednesday,S04,Kennedy,07:00-09:00
+2025-10-08,Wednesday,S04,Kennedy,12:00-14:00
+2025-10-08,Wednesday,S04,Kennedy,16:00-18:00
+2025-10-08,Wednesday,S05,Finch,07:00-09:00
+2025-10-08,Wednesday,S05,Finch,12:00-14:00
+2025-10-08,Wednesday,S05,Finch,16:00-18:00
+2025-10-08,Wednesday,S06,Kipling,07:00-09:00
+2025-10-08,Wednesday,S06,Kipling,12:00-14:00
+2025-10-08,Wednesday,S06,Kipling,16:00-18:00
+2025-10-08,Wednesday,S07,Eglinton,07:00-09:00
+2025-10-08,Wednesday,S07,Eglinton,12:00-14:00
+2025-10-08,Wednesday,S07,Eglinton,16:00-18:00
+2025-10-08,Wednesday,S08,Dundas,07:00-09:00
+2025-10-08,Wednesday,S08,Dundas,12:00-14:00
+2025-10-08,Wednesday,S08,Dundas,16:00-18:00
+2025-10-08,Wednesday,S09,Warden,07:00-09:00
+2025-10-08,Wednesday,S09,Warden,12:00-14:00
+2025-10-08,Wednesday,S09,Warden,16:00-18:00
+2025-10-08,Wednesday,S10,Victoria Park,07:00-09:00
+2025-10-08,Wednesday,S10,Victoria Park,12:00-14:00
+2025-10-08,Wednesday,S10,Victoria Park,16:00-18:00
+2025-10-08,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-08,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-08,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-08,Wednesday,S12,Don Mills,07:00-09:00
+2025-10-08,Wednesday,S12,Don Mills,12:00-14:00
+2025-10-08,Wednesday,S12,Don Mills,16:00-18:00
+2025-10-08,Wednesday,S13,Islington,07:00-09:00
+2025-10-08,Wednesday,S13,Islington,12:00-14:00
+2025-10-08,Wednesday,S13,Islington,16:00-18:00
+2025-10-08,Wednesday,S14,Spadina,07:00-09:00
+2025-10-08,Wednesday,S14,Spadina,12:00-14:00
+2025-10-08,Wednesday,S14,Spadina,16:00-18:00
+2025-10-08,Wednesday,S15,Wilson,07:00-09:00
+2025-10-08,Wednesday,S15,Wilson,12:00-14:00
+2025-10-08,Wednesday,S15,Wilson,16:00-18:00
+2025-10-09,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-10-09,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-10-09,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-10-09,Thursday,S02,Union,07:00-09:00
+2025-10-09,Thursday,S02,Union,12:00-14:00
+2025-10-09,Thursday,S02,Union,16:00-18:00
+2025-10-09,Thursday,S03,St George,07:00-09:00
+2025-10-09,Thursday,S03,St George,12:00-14:00
+2025-10-09,Thursday,S03,St George,16:00-18:00
+2025-10-09,Thursday,S04,Kennedy,07:00-09:00
+2025-10-09,Thursday,S04,Kennedy,12:00-14:00
+2025-10-09,Thursday,S04,Kennedy,16:00-18:00
+2025-10-09,Thursday,S05,Finch,07:00-09:00
+2025-10-09,Thursday,S05,Finch,12:00-14:00
+2025-10-09,Thursday,S05,Finch,16:00-18:00
+2025-10-09,Thursday,S06,Kipling,07:00-09:00
+2025-10-09,Thursday,S06,Kipling,12:00-14:00
+2025-10-09,Thursday,S06,Kipling,16:00-18:00
+2025-10-09,Thursday,S07,Eglinton,07:00-09:00
+2025-10-09,Thursday,S07,Eglinton,12:00-14:00
+2025-10-09,Thursday,S07,Eglinton,16:00-18:00
+2025-10-09,Thursday,S08,Dundas,07:00-09:00
+2025-10-09,Thursday,S08,Dundas,12:00-14:00
+2025-10-09,Thursday,S08,Dundas,16:00-18:00
+2025-10-09,Thursday,S09,Warden,07:00-09:00
+2025-10-09,Thursday,S09,Warden,12:00-14:00
+2025-10-09,Thursday,S09,Warden,16:00-18:00
+2025-10-09,Thursday,S10,Victoria Park,07:00-09:00
+2025-10-09,Thursday,S10,Victoria Park,12:00-14:00
+2025-10-09,Thursday,S10,Victoria Park,16:00-18:00
+2025-10-09,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-09,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-09,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-09,Thursday,S12,Don Mills,07:00-09:00
+2025-10-09,Thursday,S12,Don Mills,12:00-14:00
+2025-10-09,Thursday,S12,Don Mills,16:00-18:00
+2025-10-09,Thursday,S13,Islington,07:00-09:00
+2025-10-09,Thursday,S13,Islington,12:00-14:00
+2025-10-09,Thursday,S13,Islington,16:00-18:00
+2025-10-09,Thursday,S14,Spadina,07:00-09:00
+2025-10-09,Thursday,S14,Spadina,12:00-14:00
+2025-10-09,Thursday,S14,Spadina,16:00-18:00
+2025-10-09,Thursday,S15,Wilson,07:00-09:00
+2025-10-09,Thursday,S15,Wilson,12:00-14:00
+2025-10-09,Thursday,S15,Wilson,16:00-18:00
+2025-10-10,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-10-10,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-10-10,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-10-10,Friday,S02,Union,07:00-09:00
+2025-10-10,Friday,S02,Union,12:00-14:00
+2025-10-10,Friday,S02,Union,16:00-18:00
+2025-10-10,Friday,S03,St George,07:00-09:00
+2025-10-10,Friday,S03,St George,12:00-14:00
+2025-10-10,Friday,S03,St George,16:00-18:00
+2025-10-10,Friday,S04,Kennedy,07:00-09:00
+2025-10-10,Friday,S04,Kennedy,12:00-14:00
+2025-10-10,Friday,S04,Kennedy,16:00-18:00
+2025-10-10,Friday,S05,Finch,07:00-09:00
+2025-10-10,Friday,S05,Finch,12:00-14:00
+2025-10-10,Friday,S05,Finch,16:00-18:00
+2025-10-10,Friday,S06,Kipling,07:00-09:00
+2025-10-10,Friday,S06,Kipling,12:00-14:00
+2025-10-10,Friday,S06,Kipling,16:00-18:00
+2025-10-10,Friday,S07,Eglinton,07:00-09:00
+2025-10-10,Friday,S07,Eglinton,12:00-14:00
+2025-10-10,Friday,S07,Eglinton,16:00-18:00
+2025-10-10,Friday,S08,Dundas,07:00-09:00
+2025-10-10,Friday,S08,Dundas,12:00-14:00
+2025-10-10,Friday,S08,Dundas,16:00-18:00
+2025-10-10,Friday,S09,Warden,07:00-09:00
+2025-10-10,Friday,S09,Warden,12:00-14:00
+2025-10-10,Friday,S09,Warden,16:00-18:00
+2025-10-10,Friday,S10,Victoria Park,07:00-09:00
+2025-10-10,Friday,S10,Victoria Park,12:00-14:00
+2025-10-10,Friday,S10,Victoria Park,16:00-18:00
+2025-10-10,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-10,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-10,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-10,Friday,S12,Don Mills,07:00-09:00
+2025-10-10,Friday,S12,Don Mills,12:00-14:00
+2025-10-10,Friday,S12,Don Mills,16:00-18:00
+2025-10-10,Friday,S13,Islington,07:00-09:00
+2025-10-10,Friday,S13,Islington,12:00-14:00
+2025-10-10,Friday,S13,Islington,16:00-18:00
+2025-10-10,Friday,S14,Spadina,07:00-09:00
+2025-10-10,Friday,S14,Spadina,12:00-14:00
+2025-10-10,Friday,S14,Spadina,16:00-18:00
+2025-10-10,Friday,S15,Wilson,07:00-09:00
+2025-10-10,Friday,S15,Wilson,12:00-14:00
+2025-10-10,Friday,S15,Wilson,16:00-18:00
+2025-10-13,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-10-13,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-10-13,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-10-13,Monday,S02,Union,07:00-09:00
+2025-10-13,Monday,S02,Union,12:00-14:00
+2025-10-13,Monday,S02,Union,16:00-18:00
+2025-10-13,Monday,S03,St George,07:00-09:00
+2025-10-13,Monday,S03,St George,12:00-14:00
+2025-10-13,Monday,S03,St George,16:00-18:00
+2025-10-13,Monday,S04,Kennedy,07:00-09:00
+2025-10-13,Monday,S04,Kennedy,12:00-14:00
+2025-10-13,Monday,S04,Kennedy,16:00-18:00
+2025-10-13,Monday,S05,Finch,07:00-09:00
+2025-10-13,Monday,S05,Finch,12:00-14:00
+2025-10-13,Monday,S05,Finch,16:00-18:00
+2025-10-13,Monday,S06,Kipling,07:00-09:00
+2025-10-13,Monday,S06,Kipling,12:00-14:00
+2025-10-13,Monday,S06,Kipling,16:00-18:00
+2025-10-13,Monday,S07,Eglinton,07:00-09:00
+2025-10-13,Monday,S07,Eglinton,12:00-14:00
+2025-10-13,Monday,S07,Eglinton,16:00-18:00
+2025-10-13,Monday,S08,Dundas,07:00-09:00
+2025-10-13,Monday,S08,Dundas,12:00-14:00
+2025-10-13,Monday,S08,Dundas,16:00-18:00
+2025-10-13,Monday,S09,Warden,07:00-09:00
+2025-10-13,Monday,S09,Warden,12:00-14:00
+2025-10-13,Monday,S09,Warden,16:00-18:00
+2025-10-13,Monday,S10,Victoria Park,07:00-09:00
+2025-10-13,Monday,S10,Victoria Park,12:00-14:00
+2025-10-13,Monday,S10,Victoria Park,16:00-18:00
+2025-10-13,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-13,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-13,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-13,Monday,S12,Don Mills,07:00-09:00
+2025-10-13,Monday,S12,Don Mills,12:00-14:00
+2025-10-13,Monday,S12,Don Mills,16:00-18:00
+2025-10-13,Monday,S13,Islington,07:00-09:00
+2025-10-13,Monday,S13,Islington,12:00-14:00
+2025-10-13,Monday,S13,Islington,16:00-18:00
+2025-10-13,Monday,S14,Spadina,07:00-09:00
+2025-10-13,Monday,S14,Spadina,12:00-14:00
+2025-10-13,Monday,S14,Spadina,16:00-18:00
+2025-10-13,Monday,S15,Wilson,07:00-09:00
+2025-10-13,Monday,S15,Wilson,12:00-14:00
+2025-10-13,Monday,S15,Wilson,16:00-18:00
+2025-10-14,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-10-14,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-10-14,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-10-14,Tuesday,S02,Union,07:00-09:00
+2025-10-14,Tuesday,S02,Union,12:00-14:00
+2025-10-14,Tuesday,S02,Union,16:00-18:00
+2025-10-14,Tuesday,S03,St George,07:00-09:00
+2025-10-14,Tuesday,S03,St George,12:00-14:00
+2025-10-14,Tuesday,S03,St George,16:00-18:00
+2025-10-14,Tuesday,S04,Kennedy,07:00-09:00
+2025-10-14,Tuesday,S04,Kennedy,12:00-14:00
+2025-10-14,Tuesday,S04,Kennedy,16:00-18:00
+2025-10-14,Tuesday,S05,Finch,07:00-09:00
+2025-10-14,Tuesday,S05,Finch,12:00-14:00
+2025-10-14,Tuesday,S05,Finch,16:00-18:00
+2025-10-14,Tuesday,S06,Kipling,07:00-09:00
+2025-10-14,Tuesday,S06,Kipling,12:00-14:00
+2025-10-14,Tuesday,S06,Kipling,16:00-18:00
+2025-10-14,Tuesday,S07,Eglinton,07:00-09:00
+2025-10-14,Tuesday,S07,Eglinton,12:00-14:00
+2025-10-14,Tuesday,S07,Eglinton,16:00-18:00
+2025-10-14,Tuesday,S08,Dundas,07:00-09:00
+2025-10-14,Tuesday,S08,Dundas,12:00-14:00
+2025-10-14,Tuesday,S08,Dundas,16:00-18:00
+2025-10-14,Tuesday,S09,Warden,07:00-09:00
+2025-10-14,Tuesday,S09,Warden,12:00-14:00
+2025-10-14,Tuesday,S09,Warden,16:00-18:00
+2025-10-14,Tuesday,S10,Victoria Park,07:00-09:00
+2025-10-14,Tuesday,S10,Victoria Park,12:00-14:00
+2025-10-14,Tuesday,S10,Victoria Park,16:00-18:00
+2025-10-14,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-14,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-14,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-14,Tuesday,S12,Don Mills,07:00-09:00
+2025-10-14,Tuesday,S12,Don Mills,12:00-14:00
+2025-10-14,Tuesday,S12,Don Mills,16:00-18:00
+2025-10-14,Tuesday,S13,Islington,07:00-09:00
+2025-10-14,Tuesday,S13,Islington,12:00-14:00
+2025-10-14,Tuesday,S13,Islington,16:00-18:00
+2025-10-14,Tuesday,S14,Spadina,07:00-09:00
+2025-10-14,Tuesday,S14,Spadina,12:00-14:00
+2025-10-14,Tuesday,S14,Spadina,16:00-18:00
+2025-10-14,Tuesday,S15,Wilson,07:00-09:00
+2025-10-14,Tuesday,S15,Wilson,12:00-14:00
+2025-10-14,Tuesday,S15,Wilson,16:00-18:00
+2025-10-15,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-10-15,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-10-15,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-10-15,Wednesday,S02,Union,07:00-09:00
+2025-10-15,Wednesday,S02,Union,12:00-14:00
+2025-10-15,Wednesday,S02,Union,16:00-18:00
+2025-10-15,Wednesday,S03,St George,07:00-09:00
+2025-10-15,Wednesday,S03,St George,12:00-14:00
+2025-10-15,Wednesday,S03,St George,16:00-18:00
+2025-10-15,Wednesday,S04,Kennedy,07:00-09:00
+2025-10-15,Wednesday,S04,Kennedy,12:00-14:00
+2025-10-15,Wednesday,S04,Kennedy,16:00-18:00
+2025-10-15,Wednesday,S05,Finch,07:00-09:00
+2025-10-15,Wednesday,S05,Finch,12:00-14:00
+2025-10-15,Wednesday,S05,Finch,16:00-18:00
+2025-10-15,Wednesday,S06,Kipling,07:00-09:00
+2025-10-15,Wednesday,S06,Kipling,12:00-14:00
+2025-10-15,Wednesday,S06,Kipling,16:00-18:00
+2025-10-15,Wednesday,S07,Eglinton,07:00-09:00
+2025-10-15,Wednesday,S07,Eglinton,12:00-14:00
+2025-10-15,Wednesday,S07,Eglinton,16:00-18:00
+2025-10-15,Wednesday,S08,Dundas,07:00-09:00
+2025-10-15,Wednesday,S08,Dundas,12:00-14:00
+2025-10-15,Wednesday,S08,Dundas,16:00-18:00
+2025-10-15,Wednesday,S09,Warden,07:00-09:00
+2025-10-15,Wednesday,S09,Warden,12:00-14:00
+2025-10-15,Wednesday,S09,Warden,16:00-18:00
+2025-10-15,Wednesday,S10,Victoria Park,07:00-09:00
+2025-10-15,Wednesday,S10,Victoria Park,12:00-14:00
+2025-10-15,Wednesday,S10,Victoria Park,16:00-18:00
+2025-10-15,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-15,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-15,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-15,Wednesday,S12,Don Mills,07:00-09:00
+2025-10-15,Wednesday,S12,Don Mills,12:00-14:00
+2025-10-15,Wednesday,S12,Don Mills,16:00-18:00
+2025-10-15,Wednesday,S13,Islington,07:00-09:00
+2025-10-15,Wednesday,S13,Islington,12:00-14:00
+2025-10-15,Wednesday,S13,Islington,16:00-18:00
+2025-10-15,Wednesday,S14,Spadina,07:00-09:00
+2025-10-15,Wednesday,S14,Spadina,12:00-14:00
+2025-10-15,Wednesday,S14,Spadina,16:00-18:00
+2025-10-15,Wednesday,S15,Wilson,07:00-09:00
+2025-10-15,Wednesday,S15,Wilson,12:00-14:00
+2025-10-15,Wednesday,S15,Wilson,16:00-18:00
+2025-10-16,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-10-16,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-10-16,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-10-16,Thursday,S02,Union,07:00-09:00
+2025-10-16,Thursday,S02,Union,12:00-14:00
+2025-10-16,Thursday,S02,Union,16:00-18:00
+2025-10-16,Thursday,S03,St George,07:00-09:00
+2025-10-16,Thursday,S03,St George,12:00-14:00
+2025-10-16,Thursday,S03,St George,16:00-18:00
+2025-10-16,Thursday,S04,Kennedy,07:00-09:00
+2025-10-16,Thursday,S04,Kennedy,12:00-14:00
+2025-10-16,Thursday,S04,Kennedy,16:00-18:00
+2025-10-16,Thursday,S05,Finch,07:00-09:00
+2025-10-16,Thursday,S05,Finch,12:00-14:00
+2025-10-16,Thursday,S05,Finch,16:00-18:00
+2025-10-16,Thursday,S06,Kipling,07:00-09:00
+2025-10-16,Thursday,S06,Kipling,12:00-14:00
+2025-10-16,Thursday,S06,Kipling,16:00-18:00
+2025-10-16,Thursday,S07,Eglinton,07:00-09:00
+2025-10-16,Thursday,S07,Eglinton,12:00-14:00
+2025-10-16,Thursday,S07,Eglinton,16:00-18:00
+2025-10-16,Thursday,S08,Dundas,07:00-09:00
+2025-10-16,Thursday,S08,Dundas,12:00-14:00
+2025-10-16,Thursday,S08,Dundas,16:00-18:00
+2025-10-16,Thursday,S09,Warden,07:00-09:00
+2025-10-16,Thursday,S09,Warden,12:00-14:00
+2025-10-16,Thursday,S09,Warden,16:00-18:00
+2025-10-16,Thursday,S10,Victoria Park,07:00-09:00
+2025-10-16,Thursday,S10,Victoria Park,12:00-14:00
+2025-10-16,Thursday,S10,Victoria Park,16:00-18:00
+2025-10-16,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-16,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-16,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-16,Thursday,S12,Don Mills,07:00-09:00
+2025-10-16,Thursday,S12,Don Mills,12:00-14:00
+2025-10-16,Thursday,S12,Don Mills,16:00-18:00
+2025-10-16,Thursday,S13,Islington,07:00-09:00
+2025-10-16,Thursday,S13,Islington,12:00-14:00
+2025-10-16,Thursday,S13,Islington,16:00-18:00
+2025-10-16,Thursday,S14,Spadina,07:00-09:00
+2025-10-16,Thursday,S14,Spadina,12:00-14:00
+2025-10-16,Thursday,S14,Spadina,16:00-18:00
+2025-10-16,Thursday,S15,Wilson,07:00-09:00
+2025-10-16,Thursday,S15,Wilson,12:00-14:00
+2025-10-16,Thursday,S15,Wilson,16:00-18:00
+2025-10-17,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-10-17,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-10-17,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-10-17,Friday,S02,Union,07:00-09:00
+2025-10-17,Friday,S02,Union,12:00-14:00
+2025-10-17,Friday,S02,Union,16:00-18:00
+2025-10-17,Friday,S03,St George,07:00-09:00
+2025-10-17,Friday,S03,St George,12:00-14:00
+2025-10-17,Friday,S03,St George,16:00-18:00
+2025-10-17,Friday,S04,Kennedy,07:00-09:00
+2025-10-17,Friday,S04,Kennedy,12:00-14:00
+2025-10-17,Friday,S04,Kennedy,16:00-18:00
+2025-10-17,Friday,S05,Finch,07:00-09:00
+2025-10-17,Friday,S05,Finch,12:00-14:00
+2025-10-17,Friday,S05,Finch,16:00-18:00
+2025-10-17,Friday,S06,Kipling,07:00-09:00
+2025-10-17,Friday,S06,Kipling,12:00-14:00
+2025-10-17,Friday,S06,Kipling,16:00-18:00
+2025-10-17,Friday,S07,Eglinton,07:00-09:00
+2025-10-17,Friday,S07,Eglinton,12:00-14:00
+2025-10-17,Friday,S07,Eglinton,16:00-18:00
+2025-10-17,Friday,S08,Dundas,07:00-09:00
+2025-10-17,Friday,S08,Dundas,12:00-14:00
+2025-10-17,Friday,S08,Dundas,16:00-18:00
+2025-10-17,Friday,S09,Warden,07:00-09:00
+2025-10-17,Friday,S09,Warden,12:00-14:00
+2025-10-17,Friday,S09,Warden,16:00-18:00
+2025-10-17,Friday,S10,Victoria Park,07:00-09:00
+2025-10-17,Friday,S10,Victoria Park,12:00-14:00
+2025-10-17,Friday,S10,Victoria Park,16:00-18:00
+2025-10-17,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-17,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-17,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-17,Friday,S12,Don Mills,07:00-09:00
+2025-10-17,Friday,S12,Don Mills,12:00-14:00
+2025-10-17,Friday,S12,Don Mills,16:00-18:00
+2025-10-17,Friday,S13,Islington,07:00-09:00
+2025-10-17,Friday,S13,Islington,12:00-14:00
+2025-10-17,Friday,S13,Islington,16:00-18:00
+2025-10-17,Friday,S14,Spadina,07:00-09:00
+2025-10-17,Friday,S14,Spadina,12:00-14:00
+2025-10-17,Friday,S14,Spadina,16:00-18:00
+2025-10-17,Friday,S15,Wilson,07:00-09:00
+2025-10-17,Friday,S15,Wilson,12:00-14:00
+2025-10-17,Friday,S15,Wilson,16:00-18:00
+2025-10-20,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-10-20,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-10-20,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-10-20,Monday,S02,Union,07:00-09:00
+2025-10-20,Monday,S02,Union,12:00-14:00
+2025-10-20,Monday,S02,Union,16:00-18:00
+2025-10-20,Monday,S03,St George,07:00-09:00
+2025-10-20,Monday,S03,St George,12:00-14:00
+2025-10-20,Monday,S03,St George,16:00-18:00
+2025-10-20,Monday,S04,Kennedy,07:00-09:00
+2025-10-20,Monday,S04,Kennedy,12:00-14:00
+2025-10-20,Monday,S04,Kennedy,16:00-18:00
+2025-10-20,Monday,S05,Finch,07:00-09:00
+2025-10-20,Monday,S05,Finch,12:00-14:00
+2025-10-20,Monday,S05,Finch,16:00-18:00
+2025-10-20,Monday,S06,Kipling,07:00-09:00
+2025-10-20,Monday,S06,Kipling,12:00-14:00
+2025-10-20,Monday,S06,Kipling,16:00-18:00
+2025-10-20,Monday,S07,Eglinton,07:00-09:00
+2025-10-20,Monday,S07,Eglinton,12:00-14:00
+2025-10-20,Monday,S07,Eglinton,16:00-18:00
+2025-10-20,Monday,S08,Dundas,07:00-09:00
+2025-10-20,Monday,S08,Dundas,12:00-14:00
+2025-10-20,Monday,S08,Dundas,16:00-18:00
+2025-10-20,Monday,S09,Warden,07:00-09:00
+2025-10-20,Monday,S09,Warden,12:00-14:00
+2025-10-20,Monday,S09,Warden,16:00-18:00
+2025-10-20,Monday,S10,Victoria Park,07:00-09:00
+2025-10-20,Monday,S10,Victoria Park,12:00-14:00
+2025-10-20,Monday,S10,Victoria Park,16:00-18:00
+2025-10-20,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-20,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-20,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-20,Monday,S12,Don Mills,07:00-09:00
+2025-10-20,Monday,S12,Don Mills,12:00-14:00
+2025-10-20,Monday,S12,Don Mills,16:00-18:00
+2025-10-20,Monday,S13,Islington,07:00-09:00
+2025-10-20,Monday,S13,Islington,12:00-14:00
+2025-10-20,Monday,S13,Islington,16:00-18:00
+2025-10-20,Monday,S14,Spadina,07:00-09:00
+2025-10-20,Monday,S14,Spadina,12:00-14:00
+2025-10-20,Monday,S14,Spadina,16:00-18:00
+2025-10-20,Monday,S15,Wilson,07:00-09:00
+2025-10-20,Monday,S15,Wilson,12:00-14:00
+2025-10-20,Monday,S15,Wilson,16:00-18:00
+2025-10-21,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-10-21,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-10-21,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-10-21,Tuesday,S02,Union,07:00-09:00
+2025-10-21,Tuesday,S02,Union,12:00-14:00
+2025-10-21,Tuesday,S02,Union,16:00-18:00
+2025-10-21,Tuesday,S03,St George,07:00-09:00
+2025-10-21,Tuesday,S03,St George,12:00-14:00
+2025-10-21,Tuesday,S03,St George,16:00-18:00
+2025-10-21,Tuesday,S04,Kennedy,07:00-09:00
+2025-10-21,Tuesday,S04,Kennedy,12:00-14:00
+2025-10-21,Tuesday,S04,Kennedy,16:00-18:00
+2025-10-21,Tuesday,S05,Finch,07:00-09:00
+2025-10-21,Tuesday,S05,Finch,12:00-14:00
+2025-10-21,Tuesday,S05,Finch,16:00-18:00
+2025-10-21,Tuesday,S06,Kipling,07:00-09:00
+2025-10-21,Tuesday,S06,Kipling,12:00-14:00
+2025-10-21,Tuesday,S06,Kipling,16:00-18:00
+2025-10-21,Tuesday,S07,Eglinton,07:00-09:00
+2025-10-21,Tuesday,S07,Eglinton,12:00-14:00
+2025-10-21,Tuesday,S07,Eglinton,16:00-18:00
+2025-10-21,Tuesday,S08,Dundas,07:00-09:00
+2025-10-21,Tuesday,S08,Dundas,12:00-14:00
+2025-10-21,Tuesday,S08,Dundas,16:00-18:00
+2025-10-21,Tuesday,S09,Warden,07:00-09:00
+2025-10-21,Tuesday,S09,Warden,12:00-14:00
+2025-10-21,Tuesday,S09,Warden,16:00-18:00
+2025-10-21,Tuesday,S10,Victoria Park,07:00-09:00
+2025-10-21,Tuesday,S10,Victoria Park,12:00-14:00
+2025-10-21,Tuesday,S10,Victoria Park,16:00-18:00
+2025-10-21,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-21,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-21,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-21,Tuesday,S12,Don Mills,07:00-09:00
+2025-10-21,Tuesday,S12,Don Mills,12:00-14:00
+2025-10-21,Tuesday,S12,Don Mills,16:00-18:00
+2025-10-21,Tuesday,S13,Islington,07:00-09:00
+2025-10-21,Tuesday,S13,Islington,12:00-14:00
+2025-10-21,Tuesday,S13,Islington,16:00-18:00
+2025-10-21,Tuesday,S14,Spadina,07:00-09:00
+2025-10-21,Tuesday,S14,Spadina,12:00-14:00
+2025-10-21,Tuesday,S14,Spadina,16:00-18:00
+2025-10-21,Tuesday,S15,Wilson,07:00-09:00
+2025-10-21,Tuesday,S15,Wilson,12:00-14:00
+2025-10-21,Tuesday,S15,Wilson,16:00-18:00
+2025-10-22,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-10-22,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-10-22,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-10-22,Wednesday,S02,Union,07:00-09:00
+2025-10-22,Wednesday,S02,Union,12:00-14:00
+2025-10-22,Wednesday,S02,Union,16:00-18:00
+2025-10-22,Wednesday,S03,St George,07:00-09:00
+2025-10-22,Wednesday,S03,St George,12:00-14:00
+2025-10-22,Wednesday,S03,St George,16:00-18:00
+2025-10-22,Wednesday,S04,Kennedy,07:00-09:00
+2025-10-22,Wednesday,S04,Kennedy,12:00-14:00
+2025-10-22,Wednesday,S04,Kennedy,16:00-18:00
+2025-10-22,Wednesday,S05,Finch,07:00-09:00
+2025-10-22,Wednesday,S05,Finch,12:00-14:00
+2025-10-22,Wednesday,S05,Finch,16:00-18:00
+2025-10-22,Wednesday,S06,Kipling,07:00-09:00
+2025-10-22,Wednesday,S06,Kipling,12:00-14:00
+2025-10-22,Wednesday,S06,Kipling,16:00-18:00
+2025-10-22,Wednesday,S07,Eglinton,07:00-09:00
+2025-10-22,Wednesday,S07,Eglinton,12:00-14:00
+2025-10-22,Wednesday,S07,Eglinton,16:00-18:00
+2025-10-22,Wednesday,S08,Dundas,07:00-09:00
+2025-10-22,Wednesday,S08,Dundas,12:00-14:00
+2025-10-22,Wednesday,S08,Dundas,16:00-18:00
+2025-10-22,Wednesday,S09,Warden,07:00-09:00
+2025-10-22,Wednesday,S09,Warden,12:00-14:00
+2025-10-22,Wednesday,S09,Warden,16:00-18:00
+2025-10-22,Wednesday,S10,Victoria Park,07:00-09:00
+2025-10-22,Wednesday,S10,Victoria Park,12:00-14:00
+2025-10-22,Wednesday,S10,Victoria Park,16:00-18:00
+2025-10-22,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-22,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-22,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-22,Wednesday,S12,Don Mills,07:00-09:00
+2025-10-22,Wednesday,S12,Don Mills,12:00-14:00
+2025-10-22,Wednesday,S12,Don Mills,16:00-18:00
+2025-10-22,Wednesday,S13,Islington,07:00-09:00
+2025-10-22,Wednesday,S13,Islington,12:00-14:00
+2025-10-22,Wednesday,S13,Islington,16:00-18:00
+2025-10-22,Wednesday,S14,Spadina,07:00-09:00
+2025-10-22,Wednesday,S14,Spadina,12:00-14:00
+2025-10-22,Wednesday,S14,Spadina,16:00-18:00
+2025-10-22,Wednesday,S15,Wilson,07:00-09:00
+2025-10-22,Wednesday,S15,Wilson,12:00-14:00
+2025-10-22,Wednesday,S15,Wilson,16:00-18:00
+2025-10-23,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-10-23,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-10-23,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-10-23,Thursday,S02,Union,07:00-09:00
+2025-10-23,Thursday,S02,Union,12:00-14:00
+2025-10-23,Thursday,S02,Union,16:00-18:00
+2025-10-23,Thursday,S03,St George,07:00-09:00
+2025-10-23,Thursday,S03,St George,12:00-14:00
+2025-10-23,Thursday,S03,St George,16:00-18:00
+2025-10-23,Thursday,S04,Kennedy,07:00-09:00
+2025-10-23,Thursday,S04,Kennedy,12:00-14:00
+2025-10-23,Thursday,S04,Kennedy,16:00-18:00
+2025-10-23,Thursday,S05,Finch,07:00-09:00
+2025-10-23,Thursday,S05,Finch,12:00-14:00
+2025-10-23,Thursday,S05,Finch,16:00-18:00
+2025-10-23,Thursday,S06,Kipling,07:00-09:00
+2025-10-23,Thursday,S06,Kipling,12:00-14:00
+2025-10-23,Thursday,S06,Kipling,16:00-18:00
+2025-10-23,Thursday,S07,Eglinton,07:00-09:00
+2025-10-23,Thursday,S07,Eglinton,12:00-14:00
+2025-10-23,Thursday,S07,Eglinton,16:00-18:00
+2025-10-23,Thursday,S08,Dundas,07:00-09:00
+2025-10-23,Thursday,S08,Dundas,12:00-14:00
+2025-10-23,Thursday,S08,Dundas,16:00-18:00
+2025-10-23,Thursday,S09,Warden,07:00-09:00
+2025-10-23,Thursday,S09,Warden,12:00-14:00
+2025-10-23,Thursday,S09,Warden,16:00-18:00
+2025-10-23,Thursday,S10,Victoria Park,07:00-09:00
+2025-10-23,Thursday,S10,Victoria Park,12:00-14:00
+2025-10-23,Thursday,S10,Victoria Park,16:00-18:00
+2025-10-23,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-23,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-23,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-23,Thursday,S12,Don Mills,07:00-09:00
+2025-10-23,Thursday,S12,Don Mills,12:00-14:00
+2025-10-23,Thursday,S12,Don Mills,16:00-18:00
+2025-10-23,Thursday,S13,Islington,07:00-09:00
+2025-10-23,Thursday,S13,Islington,12:00-14:00
+2025-10-23,Thursday,S13,Islington,16:00-18:00
+2025-10-23,Thursday,S14,Spadina,07:00-09:00
+2025-10-23,Thursday,S14,Spadina,12:00-14:00
+2025-10-23,Thursday,S14,Spadina,16:00-18:00
+2025-10-23,Thursday,S15,Wilson,07:00-09:00
+2025-10-23,Thursday,S15,Wilson,12:00-14:00
+2025-10-23,Thursday,S15,Wilson,16:00-18:00
+2025-10-24,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-10-24,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-10-24,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-10-24,Friday,S02,Union,07:00-09:00
+2025-10-24,Friday,S02,Union,12:00-14:00
+2025-10-24,Friday,S02,Union,16:00-18:00
+2025-10-24,Friday,S03,St George,07:00-09:00
+2025-10-24,Friday,S03,St George,12:00-14:00
+2025-10-24,Friday,S03,St George,16:00-18:00
+2025-10-24,Friday,S04,Kennedy,07:00-09:00
+2025-10-24,Friday,S04,Kennedy,12:00-14:00
+2025-10-24,Friday,S04,Kennedy,16:00-18:00
+2025-10-24,Friday,S05,Finch,07:00-09:00
+2025-10-24,Friday,S05,Finch,12:00-14:00
+2025-10-24,Friday,S05,Finch,16:00-18:00
+2025-10-24,Friday,S06,Kipling,07:00-09:00
+2025-10-24,Friday,S06,Kipling,12:00-14:00
+2025-10-24,Friday,S06,Kipling,16:00-18:00
+2025-10-24,Friday,S07,Eglinton,07:00-09:00
+2025-10-24,Friday,S07,Eglinton,12:00-14:00
+2025-10-24,Friday,S07,Eglinton,16:00-18:00
+2025-10-24,Friday,S08,Dundas,07:00-09:00
+2025-10-24,Friday,S08,Dundas,12:00-14:00
+2025-10-24,Friday,S08,Dundas,16:00-18:00
+2025-10-24,Friday,S09,Warden,07:00-09:00
+2025-10-24,Friday,S09,Warden,12:00-14:00
+2025-10-24,Friday,S09,Warden,16:00-18:00
+2025-10-24,Friday,S10,Victoria Park,07:00-09:00
+2025-10-24,Friday,S10,Victoria Park,12:00-14:00
+2025-10-24,Friday,S10,Victoria Park,16:00-18:00
+2025-10-24,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-24,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-24,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-24,Friday,S12,Don Mills,07:00-09:00
+2025-10-24,Friday,S12,Don Mills,12:00-14:00
+2025-10-24,Friday,S12,Don Mills,16:00-18:00
+2025-10-24,Friday,S13,Islington,07:00-09:00
+2025-10-24,Friday,S13,Islington,12:00-14:00
+2025-10-24,Friday,S13,Islington,16:00-18:00
+2025-10-24,Friday,S14,Spadina,07:00-09:00
+2025-10-24,Friday,S14,Spadina,12:00-14:00
+2025-10-24,Friday,S14,Spadina,16:00-18:00
+2025-10-24,Friday,S15,Wilson,07:00-09:00
+2025-10-24,Friday,S15,Wilson,12:00-14:00
+2025-10-24,Friday,S15,Wilson,16:00-18:00
+2025-10-27,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-10-27,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-10-27,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-10-27,Monday,S02,Union,07:00-09:00
+2025-10-27,Monday,S02,Union,12:00-14:00
+2025-10-27,Monday,S02,Union,16:00-18:00
+2025-10-27,Monday,S03,St George,07:00-09:00
+2025-10-27,Monday,S03,St George,12:00-14:00
+2025-10-27,Monday,S03,St George,16:00-18:00
+2025-10-27,Monday,S04,Kennedy,07:00-09:00
+2025-10-27,Monday,S04,Kennedy,12:00-14:00
+2025-10-27,Monday,S04,Kennedy,16:00-18:00
+2025-10-27,Monday,S05,Finch,07:00-09:00
+2025-10-27,Monday,S05,Finch,12:00-14:00
+2025-10-27,Monday,S05,Finch,16:00-18:00
+2025-10-27,Monday,S06,Kipling,07:00-09:00
+2025-10-27,Monday,S06,Kipling,12:00-14:00
+2025-10-27,Monday,S06,Kipling,16:00-18:00
+2025-10-27,Monday,S07,Eglinton,07:00-09:00
+2025-10-27,Monday,S07,Eglinton,12:00-14:00
+2025-10-27,Monday,S07,Eglinton,16:00-18:00
+2025-10-27,Monday,S08,Dundas,07:00-09:00
+2025-10-27,Monday,S08,Dundas,12:00-14:00
+2025-10-27,Monday,S08,Dundas,16:00-18:00
+2025-10-27,Monday,S09,Warden,07:00-09:00
+2025-10-27,Monday,S09,Warden,12:00-14:00
+2025-10-27,Monday,S09,Warden,16:00-18:00
+2025-10-27,Monday,S10,Victoria Park,07:00-09:00
+2025-10-27,Monday,S10,Victoria Park,12:00-14:00
+2025-10-27,Monday,S10,Victoria Park,16:00-18:00
+2025-10-27,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-27,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-27,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-27,Monday,S12,Don Mills,07:00-09:00
+2025-10-27,Monday,S12,Don Mills,12:00-14:00
+2025-10-27,Monday,S12,Don Mills,16:00-18:00
+2025-10-27,Monday,S13,Islington,07:00-09:00
+2025-10-27,Monday,S13,Islington,12:00-14:00
+2025-10-27,Monday,S13,Islington,16:00-18:00
+2025-10-27,Monday,S14,Spadina,07:00-09:00
+2025-10-27,Monday,S14,Spadina,12:00-14:00
+2025-10-27,Monday,S14,Spadina,16:00-18:00
+2025-10-27,Monday,S15,Wilson,07:00-09:00
+2025-10-27,Monday,S15,Wilson,12:00-14:00
+2025-10-27,Monday,S15,Wilson,16:00-18:00
+2025-10-28,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-10-28,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-10-28,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-10-28,Tuesday,S02,Union,07:00-09:00
+2025-10-28,Tuesday,S02,Union,12:00-14:00
+2025-10-28,Tuesday,S02,Union,16:00-18:00
+2025-10-28,Tuesday,S03,St George,07:00-09:00
+2025-10-28,Tuesday,S03,St George,12:00-14:00
+2025-10-28,Tuesday,S03,St George,16:00-18:00
+2025-10-28,Tuesday,S04,Kennedy,07:00-09:00
+2025-10-28,Tuesday,S04,Kennedy,12:00-14:00
+2025-10-28,Tuesday,S04,Kennedy,16:00-18:00
+2025-10-28,Tuesday,S05,Finch,07:00-09:00
+2025-10-28,Tuesday,S05,Finch,12:00-14:00
+2025-10-28,Tuesday,S05,Finch,16:00-18:00
+2025-10-28,Tuesday,S06,Kipling,07:00-09:00
+2025-10-28,Tuesday,S06,Kipling,12:00-14:00
+2025-10-28,Tuesday,S06,Kipling,16:00-18:00
+2025-10-28,Tuesday,S07,Eglinton,07:00-09:00
+2025-10-28,Tuesday,S07,Eglinton,12:00-14:00
+2025-10-28,Tuesday,S07,Eglinton,16:00-18:00
+2025-10-28,Tuesday,S08,Dundas,07:00-09:00
+2025-10-28,Tuesday,S08,Dundas,12:00-14:00
+2025-10-28,Tuesday,S08,Dundas,16:00-18:00
+2025-10-28,Tuesday,S09,Warden,07:00-09:00
+2025-10-28,Tuesday,S09,Warden,12:00-14:00
+2025-10-28,Tuesday,S09,Warden,16:00-18:00
+2025-10-28,Tuesday,S10,Victoria Park,07:00-09:00
+2025-10-28,Tuesday,S10,Victoria Park,12:00-14:00
+2025-10-28,Tuesday,S10,Victoria Park,16:00-18:00
+2025-10-28,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-28,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-28,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-28,Tuesday,S12,Don Mills,07:00-09:00
+2025-10-28,Tuesday,S12,Don Mills,12:00-14:00
+2025-10-28,Tuesday,S12,Don Mills,16:00-18:00
+2025-10-28,Tuesday,S13,Islington,07:00-09:00
+2025-10-28,Tuesday,S13,Islington,12:00-14:00
+2025-10-28,Tuesday,S13,Islington,16:00-18:00
+2025-10-28,Tuesday,S14,Spadina,07:00-09:00
+2025-10-28,Tuesday,S14,Spadina,12:00-14:00
+2025-10-28,Tuesday,S14,Spadina,16:00-18:00
+2025-10-28,Tuesday,S15,Wilson,07:00-09:00
+2025-10-28,Tuesday,S15,Wilson,12:00-14:00
+2025-10-28,Tuesday,S15,Wilson,16:00-18:00
+2025-10-29,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-10-29,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-10-29,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-10-29,Wednesday,S02,Union,07:00-09:00
+2025-10-29,Wednesday,S02,Union,12:00-14:00
+2025-10-29,Wednesday,S02,Union,16:00-18:00
+2025-10-29,Wednesday,S03,St George,07:00-09:00
+2025-10-29,Wednesday,S03,St George,12:00-14:00
+2025-10-29,Wednesday,S03,St George,16:00-18:00
+2025-10-29,Wednesday,S04,Kennedy,07:00-09:00
+2025-10-29,Wednesday,S04,Kennedy,12:00-14:00
+2025-10-29,Wednesday,S04,Kennedy,16:00-18:00
+2025-10-29,Wednesday,S05,Finch,07:00-09:00
+2025-10-29,Wednesday,S05,Finch,12:00-14:00
+2025-10-29,Wednesday,S05,Finch,16:00-18:00
+2025-10-29,Wednesday,S06,Kipling,07:00-09:00
+2025-10-29,Wednesday,S06,Kipling,12:00-14:00
+2025-10-29,Wednesday,S06,Kipling,16:00-18:00
+2025-10-29,Wednesday,S07,Eglinton,07:00-09:00
+2025-10-29,Wednesday,S07,Eglinton,12:00-14:00
+2025-10-29,Wednesday,S07,Eglinton,16:00-18:00
+2025-10-29,Wednesday,S08,Dundas,07:00-09:00
+2025-10-29,Wednesday,S08,Dundas,12:00-14:00
+2025-10-29,Wednesday,S08,Dundas,16:00-18:00
+2025-10-29,Wednesday,S09,Warden,07:00-09:00
+2025-10-29,Wednesday,S09,Warden,12:00-14:00
+2025-10-29,Wednesday,S09,Warden,16:00-18:00
+2025-10-29,Wednesday,S10,Victoria Park,07:00-09:00
+2025-10-29,Wednesday,S10,Victoria Park,12:00-14:00
+2025-10-29,Wednesday,S10,Victoria Park,16:00-18:00
+2025-10-29,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-29,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-29,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-29,Wednesday,S12,Don Mills,07:00-09:00
+2025-10-29,Wednesday,S12,Don Mills,12:00-14:00
+2025-10-29,Wednesday,S12,Don Mills,16:00-18:00
+2025-10-29,Wednesday,S13,Islington,07:00-09:00
+2025-10-29,Wednesday,S13,Islington,12:00-14:00
+2025-10-29,Wednesday,S13,Islington,16:00-18:00
+2025-10-29,Wednesday,S14,Spadina,07:00-09:00
+2025-10-29,Wednesday,S14,Spadina,12:00-14:00
+2025-10-29,Wednesday,S14,Spadina,16:00-18:00
+2025-10-29,Wednesday,S15,Wilson,07:00-09:00
+2025-10-29,Wednesday,S15,Wilson,12:00-14:00
+2025-10-29,Wednesday,S15,Wilson,16:00-18:00
+2025-10-30,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-10-30,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-10-30,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-10-30,Thursday,S02,Union,07:00-09:00
+2025-10-30,Thursday,S02,Union,12:00-14:00
+2025-10-30,Thursday,S02,Union,16:00-18:00
+2025-10-30,Thursday,S03,St George,07:00-09:00
+2025-10-30,Thursday,S03,St George,12:00-14:00
+2025-10-30,Thursday,S03,St George,16:00-18:00
+2025-10-30,Thursday,S04,Kennedy,07:00-09:00
+2025-10-30,Thursday,S04,Kennedy,12:00-14:00
+2025-10-30,Thursday,S04,Kennedy,16:00-18:00
+2025-10-30,Thursday,S05,Finch,07:00-09:00
+2025-10-30,Thursday,S05,Finch,12:00-14:00
+2025-10-30,Thursday,S05,Finch,16:00-18:00
+2025-10-30,Thursday,S06,Kipling,07:00-09:00
+2025-10-30,Thursday,S06,Kipling,12:00-14:00
+2025-10-30,Thursday,S06,Kipling,16:00-18:00
+2025-10-30,Thursday,S07,Eglinton,07:00-09:00
+2025-10-30,Thursday,S07,Eglinton,12:00-14:00
+2025-10-30,Thursday,S07,Eglinton,16:00-18:00
+2025-10-30,Thursday,S08,Dundas,07:00-09:00
+2025-10-30,Thursday,S08,Dundas,12:00-14:00
+2025-10-30,Thursday,S08,Dundas,16:00-18:00
+2025-10-30,Thursday,S09,Warden,07:00-09:00
+2025-10-30,Thursday,S09,Warden,12:00-14:00
+2025-10-30,Thursday,S09,Warden,16:00-18:00
+2025-10-30,Thursday,S10,Victoria Park,07:00-09:00
+2025-10-30,Thursday,S10,Victoria Park,12:00-14:00
+2025-10-30,Thursday,S10,Victoria Park,16:00-18:00
+2025-10-30,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-30,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-30,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-30,Thursday,S12,Don Mills,07:00-09:00
+2025-10-30,Thursday,S12,Don Mills,12:00-14:00
+2025-10-30,Thursday,S12,Don Mills,16:00-18:00
+2025-10-30,Thursday,S13,Islington,07:00-09:00
+2025-10-30,Thursday,S13,Islington,12:00-14:00
+2025-10-30,Thursday,S13,Islington,16:00-18:00
+2025-10-30,Thursday,S14,Spadina,07:00-09:00
+2025-10-30,Thursday,S14,Spadina,12:00-14:00
+2025-10-30,Thursday,S14,Spadina,16:00-18:00
+2025-10-30,Thursday,S15,Wilson,07:00-09:00
+2025-10-30,Thursday,S15,Wilson,12:00-14:00
+2025-10-30,Thursday,S15,Wilson,16:00-18:00
+2025-10-31,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-10-31,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-10-31,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-10-31,Friday,S02,Union,07:00-09:00
+2025-10-31,Friday,S02,Union,12:00-14:00
+2025-10-31,Friday,S02,Union,16:00-18:00
+2025-10-31,Friday,S03,St George,07:00-09:00
+2025-10-31,Friday,S03,St George,12:00-14:00
+2025-10-31,Friday,S03,St George,16:00-18:00
+2025-10-31,Friday,S04,Kennedy,07:00-09:00
+2025-10-31,Friday,S04,Kennedy,12:00-14:00
+2025-10-31,Friday,S04,Kennedy,16:00-18:00
+2025-10-31,Friday,S05,Finch,07:00-09:00
+2025-10-31,Friday,S05,Finch,12:00-14:00
+2025-10-31,Friday,S05,Finch,16:00-18:00
+2025-10-31,Friday,S06,Kipling,07:00-09:00
+2025-10-31,Friday,S06,Kipling,12:00-14:00
+2025-10-31,Friday,S06,Kipling,16:00-18:00
+2025-10-31,Friday,S07,Eglinton,07:00-09:00
+2025-10-31,Friday,S07,Eglinton,12:00-14:00
+2025-10-31,Friday,S07,Eglinton,16:00-18:00
+2025-10-31,Friday,S08,Dundas,07:00-09:00
+2025-10-31,Friday,S08,Dundas,12:00-14:00
+2025-10-31,Friday,S08,Dundas,16:00-18:00
+2025-10-31,Friday,S09,Warden,07:00-09:00
+2025-10-31,Friday,S09,Warden,12:00-14:00
+2025-10-31,Friday,S09,Warden,16:00-18:00
+2025-10-31,Friday,S10,Victoria Park,07:00-09:00
+2025-10-31,Friday,S10,Victoria Park,12:00-14:00
+2025-10-31,Friday,S10,Victoria Park,16:00-18:00
+2025-10-31,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-31,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-31,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-31,Friday,S12,Don Mills,07:00-09:00
+2025-10-31,Friday,S12,Don Mills,12:00-14:00
+2025-10-31,Friday,S12,Don Mills,16:00-18:00
+2025-10-31,Friday,S13,Islington,07:00-09:00
+2025-10-31,Friday,S13,Islington,12:00-14:00
+2025-10-31,Friday,S13,Islington,16:00-18:00
+2025-10-31,Friday,S14,Spadina,07:00-09:00
+2025-10-31,Friday,S14,Spadina,12:00-14:00
+2025-10-31,Friday,S14,Spadina,16:00-18:00
+2025-10-31,Friday,S15,Wilson,07:00-09:00
+2025-10-31,Friday,S15,Wilson,12:00-14:00
+2025-10-31,Friday,S15,Wilson,16:00-18:00
+2025-11-03,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-11-03,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-11-03,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-11-03,Monday,S02,Union,07:00-09:00
+2025-11-03,Monday,S02,Union,12:00-14:00
+2025-11-03,Monday,S02,Union,16:00-18:00
+2025-11-03,Monday,S03,St George,07:00-09:00
+2025-11-03,Monday,S03,St George,12:00-14:00
+2025-11-03,Monday,S03,St George,16:00-18:00
+2025-11-03,Monday,S04,Kennedy,07:00-09:00
+2025-11-03,Monday,S04,Kennedy,12:00-14:00
+2025-11-03,Monday,S04,Kennedy,16:00-18:00
+2025-11-03,Monday,S05,Finch,07:00-09:00
+2025-11-03,Monday,S05,Finch,12:00-14:00
+2025-11-03,Monday,S05,Finch,16:00-18:00
+2025-11-03,Monday,S06,Kipling,07:00-09:00
+2025-11-03,Monday,S06,Kipling,12:00-14:00
+2025-11-03,Monday,S06,Kipling,16:00-18:00
+2025-11-03,Monday,S07,Eglinton,07:00-09:00
+2025-11-03,Monday,S07,Eglinton,12:00-14:00
+2025-11-03,Monday,S07,Eglinton,16:00-18:00
+2025-11-03,Monday,S08,Dundas,07:00-09:00
+2025-11-03,Monday,S08,Dundas,12:00-14:00
+2025-11-03,Monday,S08,Dundas,16:00-18:00
+2025-11-03,Monday,S09,Warden,07:00-09:00
+2025-11-03,Monday,S09,Warden,12:00-14:00
+2025-11-03,Monday,S09,Warden,16:00-18:00
+2025-11-03,Monday,S10,Victoria Park,07:00-09:00
+2025-11-03,Monday,S10,Victoria Park,12:00-14:00
+2025-11-03,Monday,S10,Victoria Park,16:00-18:00
+2025-11-03,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-03,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-03,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-03,Monday,S12,Don Mills,07:00-09:00
+2025-11-03,Monday,S12,Don Mills,12:00-14:00
+2025-11-03,Monday,S12,Don Mills,16:00-18:00
+2025-11-03,Monday,S13,Islington,07:00-09:00
+2025-11-03,Monday,S13,Islington,12:00-14:00
+2025-11-03,Monday,S13,Islington,16:00-18:00
+2025-11-03,Monday,S14,Spadina,07:00-09:00
+2025-11-03,Monday,S14,Spadina,12:00-14:00
+2025-11-03,Monday,S14,Spadina,16:00-18:00
+2025-11-03,Monday,S15,Wilson,07:00-09:00
+2025-11-03,Monday,S15,Wilson,12:00-14:00
+2025-11-03,Monday,S15,Wilson,16:00-18:00
+2025-11-04,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-11-04,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-11-04,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-11-04,Tuesday,S02,Union,07:00-09:00
+2025-11-04,Tuesday,S02,Union,12:00-14:00
+2025-11-04,Tuesday,S02,Union,16:00-18:00
+2025-11-04,Tuesday,S03,St George,07:00-09:00
+2025-11-04,Tuesday,S03,St George,12:00-14:00
+2025-11-04,Tuesday,S03,St George,16:00-18:00
+2025-11-04,Tuesday,S04,Kennedy,07:00-09:00
+2025-11-04,Tuesday,S04,Kennedy,12:00-14:00
+2025-11-04,Tuesday,S04,Kennedy,16:00-18:00
+2025-11-04,Tuesday,S05,Finch,07:00-09:00
+2025-11-04,Tuesday,S05,Finch,12:00-14:00
+2025-11-04,Tuesday,S05,Finch,16:00-18:00
+2025-11-04,Tuesday,S06,Kipling,07:00-09:00
+2025-11-04,Tuesday,S06,Kipling,12:00-14:00
+2025-11-04,Tuesday,S06,Kipling,16:00-18:00
+2025-11-04,Tuesday,S07,Eglinton,07:00-09:00
+2025-11-04,Tuesday,S07,Eglinton,12:00-14:00
+2025-11-04,Tuesday,S07,Eglinton,16:00-18:00
+2025-11-04,Tuesday,S08,Dundas,07:00-09:00
+2025-11-04,Tuesday,S08,Dundas,12:00-14:00
+2025-11-04,Tuesday,S08,Dundas,16:00-18:00
+2025-11-04,Tuesday,S09,Warden,07:00-09:00
+2025-11-04,Tuesday,S09,Warden,12:00-14:00
+2025-11-04,Tuesday,S09,Warden,16:00-18:00
+2025-11-04,Tuesday,S10,Victoria Park,07:00-09:00
+2025-11-04,Tuesday,S10,Victoria Park,12:00-14:00
+2025-11-04,Tuesday,S10,Victoria Park,16:00-18:00
+2025-11-04,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-04,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-04,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-04,Tuesday,S12,Don Mills,07:00-09:00
+2025-11-04,Tuesday,S12,Don Mills,12:00-14:00
+2025-11-04,Tuesday,S12,Don Mills,16:00-18:00
+2025-11-04,Tuesday,S13,Islington,07:00-09:00
+2025-11-04,Tuesday,S13,Islington,12:00-14:00
+2025-11-04,Tuesday,S13,Islington,16:00-18:00
+2025-11-04,Tuesday,S14,Spadina,07:00-09:00
+2025-11-04,Tuesday,S14,Spadina,12:00-14:00
+2025-11-04,Tuesday,S14,Spadina,16:00-18:00
+2025-11-04,Tuesday,S15,Wilson,07:00-09:00
+2025-11-04,Tuesday,S15,Wilson,12:00-14:00
+2025-11-04,Tuesday,S15,Wilson,16:00-18:00
+2025-11-05,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-11-05,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-11-05,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-11-05,Wednesday,S02,Union,07:00-09:00
+2025-11-05,Wednesday,S02,Union,12:00-14:00
+2025-11-05,Wednesday,S02,Union,16:00-18:00
+2025-11-05,Wednesday,S03,St George,07:00-09:00
+2025-11-05,Wednesday,S03,St George,12:00-14:00
+2025-11-05,Wednesday,S03,St George,16:00-18:00
+2025-11-05,Wednesday,S04,Kennedy,07:00-09:00
+2025-11-05,Wednesday,S04,Kennedy,12:00-14:00
+2025-11-05,Wednesday,S04,Kennedy,16:00-18:00
+2025-11-05,Wednesday,S05,Finch,07:00-09:00
+2025-11-05,Wednesday,S05,Finch,12:00-14:00
+2025-11-05,Wednesday,S05,Finch,16:00-18:00
+2025-11-05,Wednesday,S06,Kipling,07:00-09:00
+2025-11-05,Wednesday,S06,Kipling,12:00-14:00
+2025-11-05,Wednesday,S06,Kipling,16:00-18:00
+2025-11-05,Wednesday,S07,Eglinton,07:00-09:00
+2025-11-05,Wednesday,S07,Eglinton,12:00-14:00
+2025-11-05,Wednesday,S07,Eglinton,16:00-18:00
+2025-11-05,Wednesday,S08,Dundas,07:00-09:00
+2025-11-05,Wednesday,S08,Dundas,12:00-14:00
+2025-11-05,Wednesday,S08,Dundas,16:00-18:00
+2025-11-05,Wednesday,S09,Warden,07:00-09:00
+2025-11-05,Wednesday,S09,Warden,12:00-14:00
+2025-11-05,Wednesday,S09,Warden,16:00-18:00
+2025-11-05,Wednesday,S10,Victoria Park,07:00-09:00
+2025-11-05,Wednesday,S10,Victoria Park,12:00-14:00
+2025-11-05,Wednesday,S10,Victoria Park,16:00-18:00
+2025-11-05,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-05,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-05,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-05,Wednesday,S12,Don Mills,07:00-09:00
+2025-11-05,Wednesday,S12,Don Mills,12:00-14:00
+2025-11-05,Wednesday,S12,Don Mills,16:00-18:00
+2025-11-05,Wednesday,S13,Islington,07:00-09:00
+2025-11-05,Wednesday,S13,Islington,12:00-14:00
+2025-11-05,Wednesday,S13,Islington,16:00-18:00
+2025-11-05,Wednesday,S14,Spadina,07:00-09:00
+2025-11-05,Wednesday,S14,Spadina,12:00-14:00
+2025-11-05,Wednesday,S14,Spadina,16:00-18:00
+2025-11-05,Wednesday,S15,Wilson,07:00-09:00
+2025-11-05,Wednesday,S15,Wilson,12:00-14:00
+2025-11-05,Wednesday,S15,Wilson,16:00-18:00
+2025-11-06,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-11-06,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-11-06,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-11-06,Thursday,S02,Union,07:00-09:00
+2025-11-06,Thursday,S02,Union,12:00-14:00
+2025-11-06,Thursday,S02,Union,16:00-18:00
+2025-11-06,Thursday,S03,St George,07:00-09:00
+2025-11-06,Thursday,S03,St George,12:00-14:00
+2025-11-06,Thursday,S03,St George,16:00-18:00
+2025-11-06,Thursday,S04,Kennedy,07:00-09:00
+2025-11-06,Thursday,S04,Kennedy,12:00-14:00
+2025-11-06,Thursday,S04,Kennedy,16:00-18:00
+2025-11-06,Thursday,S05,Finch,07:00-09:00
+2025-11-06,Thursday,S05,Finch,12:00-14:00
+2025-11-06,Thursday,S05,Finch,16:00-18:00
+2025-11-06,Thursday,S06,Kipling,07:00-09:00
+2025-11-06,Thursday,S06,Kipling,12:00-14:00
+2025-11-06,Thursday,S06,Kipling,16:00-18:00
+2025-11-06,Thursday,S07,Eglinton,07:00-09:00
+2025-11-06,Thursday,S07,Eglinton,12:00-14:00
+2025-11-06,Thursday,S07,Eglinton,16:00-18:00
+2025-11-06,Thursday,S08,Dundas,07:00-09:00
+2025-11-06,Thursday,S08,Dundas,12:00-14:00
+2025-11-06,Thursday,S08,Dundas,16:00-18:00
+2025-11-06,Thursday,S09,Warden,07:00-09:00
+2025-11-06,Thursday,S09,Warden,12:00-14:00
+2025-11-06,Thursday,S09,Warden,16:00-18:00
+2025-11-06,Thursday,S10,Victoria Park,07:00-09:00
+2025-11-06,Thursday,S10,Victoria Park,12:00-14:00
+2025-11-06,Thursday,S10,Victoria Park,16:00-18:00
+2025-11-06,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-06,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-06,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-06,Thursday,S12,Don Mills,07:00-09:00
+2025-11-06,Thursday,S12,Don Mills,12:00-14:00
+2025-11-06,Thursday,S12,Don Mills,16:00-18:00
+2025-11-06,Thursday,S13,Islington,07:00-09:00
+2025-11-06,Thursday,S13,Islington,12:00-14:00
+2025-11-06,Thursday,S13,Islington,16:00-18:00
+2025-11-06,Thursday,S14,Spadina,07:00-09:00
+2025-11-06,Thursday,S14,Spadina,12:00-14:00
+2025-11-06,Thursday,S14,Spadina,16:00-18:00
+2025-11-06,Thursday,S15,Wilson,07:00-09:00
+2025-11-06,Thursday,S15,Wilson,12:00-14:00
+2025-11-06,Thursday,S15,Wilson,16:00-18:00
+2025-11-07,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-11-07,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-11-07,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-11-07,Friday,S02,Union,07:00-09:00
+2025-11-07,Friday,S02,Union,12:00-14:00
+2025-11-07,Friday,S02,Union,16:00-18:00
+2025-11-07,Friday,S03,St George,07:00-09:00
+2025-11-07,Friday,S03,St George,12:00-14:00
+2025-11-07,Friday,S03,St George,16:00-18:00
+2025-11-07,Friday,S04,Kennedy,07:00-09:00
+2025-11-07,Friday,S04,Kennedy,12:00-14:00
+2025-11-07,Friday,S04,Kennedy,16:00-18:00
+2025-11-07,Friday,S05,Finch,07:00-09:00
+2025-11-07,Friday,S05,Finch,12:00-14:00
+2025-11-07,Friday,S05,Finch,16:00-18:00
+2025-11-07,Friday,S06,Kipling,07:00-09:00
+2025-11-07,Friday,S06,Kipling,12:00-14:00
+2025-11-07,Friday,S06,Kipling,16:00-18:00
+2025-11-07,Friday,S07,Eglinton,07:00-09:00
+2025-11-07,Friday,S07,Eglinton,12:00-14:00
+2025-11-07,Friday,S07,Eglinton,16:00-18:00
+2025-11-07,Friday,S08,Dundas,07:00-09:00
+2025-11-07,Friday,S08,Dundas,12:00-14:00
+2025-11-07,Friday,S08,Dundas,16:00-18:00
+2025-11-07,Friday,S09,Warden,07:00-09:00
+2025-11-07,Friday,S09,Warden,12:00-14:00
+2025-11-07,Friday,S09,Warden,16:00-18:00
+2025-11-07,Friday,S10,Victoria Park,07:00-09:00
+2025-11-07,Friday,S10,Victoria Park,12:00-14:00
+2025-11-07,Friday,S10,Victoria Park,16:00-18:00
+2025-11-07,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-07,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-07,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-07,Friday,S12,Don Mills,07:00-09:00
+2025-11-07,Friday,S12,Don Mills,12:00-14:00
+2025-11-07,Friday,S12,Don Mills,16:00-18:00
+2025-11-07,Friday,S13,Islington,07:00-09:00
+2025-11-07,Friday,S13,Islington,12:00-14:00
+2025-11-07,Friday,S13,Islington,16:00-18:00
+2025-11-07,Friday,S14,Spadina,07:00-09:00
+2025-11-07,Friday,S14,Spadina,12:00-14:00
+2025-11-07,Friday,S14,Spadina,16:00-18:00
+2025-11-07,Friday,S15,Wilson,07:00-09:00
+2025-11-07,Friday,S15,Wilson,12:00-14:00
+2025-11-07,Friday,S15,Wilson,16:00-18:00
+2025-11-10,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-11-10,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-11-10,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-11-10,Monday,S02,Union,07:00-09:00
+2025-11-10,Monday,S02,Union,12:00-14:00
+2025-11-10,Monday,S02,Union,16:00-18:00
+2025-11-10,Monday,S03,St George,07:00-09:00
+2025-11-10,Monday,S03,St George,12:00-14:00
+2025-11-10,Monday,S03,St George,16:00-18:00
+2025-11-10,Monday,S04,Kennedy,07:00-09:00
+2025-11-10,Monday,S04,Kennedy,12:00-14:00
+2025-11-10,Monday,S04,Kennedy,16:00-18:00
+2025-11-10,Monday,S05,Finch,07:00-09:00
+2025-11-10,Monday,S05,Finch,12:00-14:00
+2025-11-10,Monday,S05,Finch,16:00-18:00
+2025-11-10,Monday,S06,Kipling,07:00-09:00
+2025-11-10,Monday,S06,Kipling,12:00-14:00
+2025-11-10,Monday,S06,Kipling,16:00-18:00
+2025-11-10,Monday,S07,Eglinton,07:00-09:00
+2025-11-10,Monday,S07,Eglinton,12:00-14:00
+2025-11-10,Monday,S07,Eglinton,16:00-18:00
+2025-11-10,Monday,S08,Dundas,07:00-09:00
+2025-11-10,Monday,S08,Dundas,12:00-14:00
+2025-11-10,Monday,S08,Dundas,16:00-18:00
+2025-11-10,Monday,S09,Warden,07:00-09:00
+2025-11-10,Monday,S09,Warden,12:00-14:00
+2025-11-10,Monday,S09,Warden,16:00-18:00
+2025-11-10,Monday,S10,Victoria Park,07:00-09:00
+2025-11-10,Monday,S10,Victoria Park,12:00-14:00
+2025-11-10,Monday,S10,Victoria Park,16:00-18:00
+2025-11-10,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-10,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-10,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-10,Monday,S12,Don Mills,07:00-09:00
+2025-11-10,Monday,S12,Don Mills,12:00-14:00
+2025-11-10,Monday,S12,Don Mills,16:00-18:00
+2025-11-10,Monday,S13,Islington,07:00-09:00
+2025-11-10,Monday,S13,Islington,12:00-14:00
+2025-11-10,Monday,S13,Islington,16:00-18:00
+2025-11-10,Monday,S14,Spadina,07:00-09:00
+2025-11-10,Monday,S14,Spadina,12:00-14:00
+2025-11-10,Monday,S14,Spadina,16:00-18:00
+2025-11-10,Monday,S15,Wilson,07:00-09:00
+2025-11-10,Monday,S15,Wilson,12:00-14:00
+2025-11-10,Monday,S15,Wilson,16:00-18:00
+2025-11-11,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-11-11,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-11-11,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-11-11,Tuesday,S02,Union,07:00-09:00
+2025-11-11,Tuesday,S02,Union,12:00-14:00
+2025-11-11,Tuesday,S02,Union,16:00-18:00
+2025-11-11,Tuesday,S03,St George,07:00-09:00
+2025-11-11,Tuesday,S03,St George,12:00-14:00
+2025-11-11,Tuesday,S03,St George,16:00-18:00
+2025-11-11,Tuesday,S04,Kennedy,07:00-09:00
+2025-11-11,Tuesday,S04,Kennedy,12:00-14:00
+2025-11-11,Tuesday,S04,Kennedy,16:00-18:00
+2025-11-11,Tuesday,S05,Finch,07:00-09:00
+2025-11-11,Tuesday,S05,Finch,12:00-14:00
+2025-11-11,Tuesday,S05,Finch,16:00-18:00
+2025-11-11,Tuesday,S06,Kipling,07:00-09:00
+2025-11-11,Tuesday,S06,Kipling,12:00-14:00
+2025-11-11,Tuesday,S06,Kipling,16:00-18:00
+2025-11-11,Tuesday,S07,Eglinton,07:00-09:00
+2025-11-11,Tuesday,S07,Eglinton,12:00-14:00
+2025-11-11,Tuesday,S07,Eglinton,16:00-18:00
+2025-11-11,Tuesday,S08,Dundas,07:00-09:00
+2025-11-11,Tuesday,S08,Dundas,12:00-14:00
+2025-11-11,Tuesday,S08,Dundas,16:00-18:00
+2025-11-11,Tuesday,S09,Warden,07:00-09:00
+2025-11-11,Tuesday,S09,Warden,12:00-14:00
+2025-11-11,Tuesday,S09,Warden,16:00-18:00
+2025-11-11,Tuesday,S10,Victoria Park,07:00-09:00
+2025-11-11,Tuesday,S10,Victoria Park,12:00-14:00
+2025-11-11,Tuesday,S10,Victoria Park,16:00-18:00
+2025-11-11,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-11,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-11,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-11,Tuesday,S12,Don Mills,07:00-09:00
+2025-11-11,Tuesday,S12,Don Mills,12:00-14:00
+2025-11-11,Tuesday,S12,Don Mills,16:00-18:00
+2025-11-11,Tuesday,S13,Islington,07:00-09:00
+2025-11-11,Tuesday,S13,Islington,12:00-14:00
+2025-11-11,Tuesday,S13,Islington,16:00-18:00
+2025-11-11,Tuesday,S14,Spadina,07:00-09:00
+2025-11-11,Tuesday,S14,Spadina,12:00-14:00
+2025-11-11,Tuesday,S14,Spadina,16:00-18:00
+2025-11-11,Tuesday,S15,Wilson,07:00-09:00
+2025-11-11,Tuesday,S15,Wilson,12:00-14:00
+2025-11-11,Tuesday,S15,Wilson,16:00-18:00
+2025-11-12,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-11-12,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-11-12,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-11-12,Wednesday,S02,Union,07:00-09:00
+2025-11-12,Wednesday,S02,Union,12:00-14:00
+2025-11-12,Wednesday,S02,Union,16:00-18:00
+2025-11-12,Wednesday,S03,St George,07:00-09:00
+2025-11-12,Wednesday,S03,St George,12:00-14:00
+2025-11-12,Wednesday,S03,St George,16:00-18:00
+2025-11-12,Wednesday,S04,Kennedy,07:00-09:00
+2025-11-12,Wednesday,S04,Kennedy,12:00-14:00
+2025-11-12,Wednesday,S04,Kennedy,16:00-18:00
+2025-11-12,Wednesday,S05,Finch,07:00-09:00
+2025-11-12,Wednesday,S05,Finch,12:00-14:00
+2025-11-12,Wednesday,S05,Finch,16:00-18:00
+2025-11-12,Wednesday,S06,Kipling,07:00-09:00
+2025-11-12,Wednesday,S06,Kipling,12:00-14:00
+2025-11-12,Wednesday,S06,Kipling,16:00-18:00
+2025-11-12,Wednesday,S07,Eglinton,07:00-09:00
+2025-11-12,Wednesday,S07,Eglinton,12:00-14:00
+2025-11-12,Wednesday,S07,Eglinton,16:00-18:00
+2025-11-12,Wednesday,S08,Dundas,07:00-09:00
+2025-11-12,Wednesday,S08,Dundas,12:00-14:00
+2025-11-12,Wednesday,S08,Dundas,16:00-18:00
+2025-11-12,Wednesday,S09,Warden,07:00-09:00
+2025-11-12,Wednesday,S09,Warden,12:00-14:00
+2025-11-12,Wednesday,S09,Warden,16:00-18:00
+2025-11-12,Wednesday,S10,Victoria Park,07:00-09:00
+2025-11-12,Wednesday,S10,Victoria Park,12:00-14:00
+2025-11-12,Wednesday,S10,Victoria Park,16:00-18:00
+2025-11-12,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-12,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-12,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-12,Wednesday,S12,Don Mills,07:00-09:00
+2025-11-12,Wednesday,S12,Don Mills,12:00-14:00
+2025-11-12,Wednesday,S12,Don Mills,16:00-18:00
+2025-11-12,Wednesday,S13,Islington,07:00-09:00
+2025-11-12,Wednesday,S13,Islington,12:00-14:00
+2025-11-12,Wednesday,S13,Islington,16:00-18:00
+2025-11-12,Wednesday,S14,Spadina,07:00-09:00
+2025-11-12,Wednesday,S14,Spadina,12:00-14:00
+2025-11-12,Wednesday,S14,Spadina,16:00-18:00
+2025-11-12,Wednesday,S15,Wilson,07:00-09:00
+2025-11-12,Wednesday,S15,Wilson,12:00-14:00
+2025-11-12,Wednesday,S15,Wilson,16:00-18:00
+2025-11-13,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-11-13,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-11-13,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-11-13,Thursday,S02,Union,07:00-09:00
+2025-11-13,Thursday,S02,Union,12:00-14:00
+2025-11-13,Thursday,S02,Union,16:00-18:00
+2025-11-13,Thursday,S03,St George,07:00-09:00
+2025-11-13,Thursday,S03,St George,12:00-14:00
+2025-11-13,Thursday,S03,St George,16:00-18:00
+2025-11-13,Thursday,S04,Kennedy,07:00-09:00
+2025-11-13,Thursday,S04,Kennedy,12:00-14:00
+2025-11-13,Thursday,S04,Kennedy,16:00-18:00
+2025-11-13,Thursday,S05,Finch,07:00-09:00
+2025-11-13,Thursday,S05,Finch,12:00-14:00
+2025-11-13,Thursday,S05,Finch,16:00-18:00
+2025-11-13,Thursday,S06,Kipling,07:00-09:00
+2025-11-13,Thursday,S06,Kipling,12:00-14:00
+2025-11-13,Thursday,S06,Kipling,16:00-18:00
+2025-11-13,Thursday,S07,Eglinton,07:00-09:00
+2025-11-13,Thursday,S07,Eglinton,12:00-14:00
+2025-11-13,Thursday,S07,Eglinton,16:00-18:00
+2025-11-13,Thursday,S08,Dundas,07:00-09:00
+2025-11-13,Thursday,S08,Dundas,12:00-14:00
+2025-11-13,Thursday,S08,Dundas,16:00-18:00
+2025-11-13,Thursday,S09,Warden,07:00-09:00
+2025-11-13,Thursday,S09,Warden,12:00-14:00
+2025-11-13,Thursday,S09,Warden,16:00-18:00
+2025-11-13,Thursday,S10,Victoria Park,07:00-09:00
+2025-11-13,Thursday,S10,Victoria Park,12:00-14:00
+2025-11-13,Thursday,S10,Victoria Park,16:00-18:00
+2025-11-13,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-13,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-13,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-13,Thursday,S12,Don Mills,07:00-09:00
+2025-11-13,Thursday,S12,Don Mills,12:00-14:00
+2025-11-13,Thursday,S12,Don Mills,16:00-18:00
+2025-11-13,Thursday,S13,Islington,07:00-09:00
+2025-11-13,Thursday,S13,Islington,12:00-14:00
+2025-11-13,Thursday,S13,Islington,16:00-18:00
+2025-11-13,Thursday,S14,Spadina,07:00-09:00
+2025-11-13,Thursday,S14,Spadina,12:00-14:00
+2025-11-13,Thursday,S14,Spadina,16:00-18:00
+2025-11-13,Thursday,S15,Wilson,07:00-09:00
+2025-11-13,Thursday,S15,Wilson,12:00-14:00
+2025-11-13,Thursday,S15,Wilson,16:00-18:00
+2025-11-14,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-11-14,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-11-14,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-11-14,Friday,S02,Union,07:00-09:00
+2025-11-14,Friday,S02,Union,12:00-14:00
+2025-11-14,Friday,S02,Union,16:00-18:00
+2025-11-14,Friday,S03,St George,07:00-09:00
+2025-11-14,Friday,S03,St George,12:00-14:00
+2025-11-14,Friday,S03,St George,16:00-18:00
+2025-11-14,Friday,S04,Kennedy,07:00-09:00
+2025-11-14,Friday,S04,Kennedy,12:00-14:00
+2025-11-14,Friday,S04,Kennedy,16:00-18:00
+2025-11-14,Friday,S05,Finch,07:00-09:00
+2025-11-14,Friday,S05,Finch,12:00-14:00
+2025-11-14,Friday,S05,Finch,16:00-18:00
+2025-11-14,Friday,S06,Kipling,07:00-09:00
+2025-11-14,Friday,S06,Kipling,12:00-14:00
+2025-11-14,Friday,S06,Kipling,16:00-18:00
+2025-11-14,Friday,S07,Eglinton,07:00-09:00
+2025-11-14,Friday,S07,Eglinton,12:00-14:00
+2025-11-14,Friday,S07,Eglinton,16:00-18:00
+2025-11-14,Friday,S08,Dundas,07:00-09:00
+2025-11-14,Friday,S08,Dundas,12:00-14:00
+2025-11-14,Friday,S08,Dundas,16:00-18:00
+2025-11-14,Friday,S09,Warden,07:00-09:00
+2025-11-14,Friday,S09,Warden,12:00-14:00
+2025-11-14,Friday,S09,Warden,16:00-18:00
+2025-11-14,Friday,S10,Victoria Park,07:00-09:00
+2025-11-14,Friday,S10,Victoria Park,12:00-14:00
+2025-11-14,Friday,S10,Victoria Park,16:00-18:00
+2025-11-14,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-14,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-14,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-14,Friday,S12,Don Mills,07:00-09:00
+2025-11-14,Friday,S12,Don Mills,12:00-14:00
+2025-11-14,Friday,S12,Don Mills,16:00-18:00
+2025-11-14,Friday,S13,Islington,07:00-09:00
+2025-11-14,Friday,S13,Islington,12:00-14:00
+2025-11-14,Friday,S13,Islington,16:00-18:00
+2025-11-14,Friday,S14,Spadina,07:00-09:00
+2025-11-14,Friday,S14,Spadina,12:00-14:00
+2025-11-14,Friday,S14,Spadina,16:00-18:00
+2025-11-14,Friday,S15,Wilson,07:00-09:00
+2025-11-14,Friday,S15,Wilson,12:00-14:00
+2025-11-14,Friday,S15,Wilson,16:00-18:00
+2025-11-17,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-11-17,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-11-17,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-11-17,Monday,S02,Union,07:00-09:00
+2025-11-17,Monday,S02,Union,12:00-14:00
+2025-11-17,Monday,S02,Union,16:00-18:00
+2025-11-17,Monday,S03,St George,07:00-09:00
+2025-11-17,Monday,S03,St George,12:00-14:00
+2025-11-17,Monday,S03,St George,16:00-18:00
+2025-11-17,Monday,S04,Kennedy,07:00-09:00
+2025-11-17,Monday,S04,Kennedy,12:00-14:00
+2025-11-17,Monday,S04,Kennedy,16:00-18:00
+2025-11-17,Monday,S05,Finch,07:00-09:00
+2025-11-17,Monday,S05,Finch,12:00-14:00
+2025-11-17,Monday,S05,Finch,16:00-18:00
+2025-11-17,Monday,S06,Kipling,07:00-09:00
+2025-11-17,Monday,S06,Kipling,12:00-14:00
+2025-11-17,Monday,S06,Kipling,16:00-18:00
+2025-11-17,Monday,S07,Eglinton,07:00-09:00
+2025-11-17,Monday,S07,Eglinton,12:00-14:00
+2025-11-17,Monday,S07,Eglinton,16:00-18:00
+2025-11-17,Monday,S08,Dundas,07:00-09:00
+2025-11-17,Monday,S08,Dundas,12:00-14:00
+2025-11-17,Monday,S08,Dundas,16:00-18:00
+2025-11-17,Monday,S09,Warden,07:00-09:00
+2025-11-17,Monday,S09,Warden,12:00-14:00
+2025-11-17,Monday,S09,Warden,16:00-18:00
+2025-11-17,Monday,S10,Victoria Park,07:00-09:00
+2025-11-17,Monday,S10,Victoria Park,12:00-14:00
+2025-11-17,Monday,S10,Victoria Park,16:00-18:00
+2025-11-17,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-17,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-17,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-17,Monday,S12,Don Mills,07:00-09:00
+2025-11-17,Monday,S12,Don Mills,12:00-14:00
+2025-11-17,Monday,S12,Don Mills,16:00-18:00
+2025-11-17,Monday,S13,Islington,07:00-09:00
+2025-11-17,Monday,S13,Islington,12:00-14:00
+2025-11-17,Monday,S13,Islington,16:00-18:00
+2025-11-17,Monday,S14,Spadina,07:00-09:00
+2025-11-17,Monday,S14,Spadina,12:00-14:00
+2025-11-17,Monday,S14,Spadina,16:00-18:00
+2025-11-17,Monday,S15,Wilson,07:00-09:00
+2025-11-17,Monday,S15,Wilson,12:00-14:00
+2025-11-17,Monday,S15,Wilson,16:00-18:00
+2025-11-18,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-11-18,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-11-18,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-11-18,Tuesday,S02,Union,07:00-09:00
+2025-11-18,Tuesday,S02,Union,12:00-14:00
+2025-11-18,Tuesday,S02,Union,16:00-18:00
+2025-11-18,Tuesday,S03,St George,07:00-09:00
+2025-11-18,Tuesday,S03,St George,12:00-14:00
+2025-11-18,Tuesday,S03,St George,16:00-18:00
+2025-11-18,Tuesday,S04,Kennedy,07:00-09:00
+2025-11-18,Tuesday,S04,Kennedy,12:00-14:00
+2025-11-18,Tuesday,S04,Kennedy,16:00-18:00
+2025-11-18,Tuesday,S05,Finch,07:00-09:00
+2025-11-18,Tuesday,S05,Finch,12:00-14:00
+2025-11-18,Tuesday,S05,Finch,16:00-18:00
+2025-11-18,Tuesday,S06,Kipling,07:00-09:00
+2025-11-18,Tuesday,S06,Kipling,12:00-14:00
+2025-11-18,Tuesday,S06,Kipling,16:00-18:00
+2025-11-18,Tuesday,S07,Eglinton,07:00-09:00
+2025-11-18,Tuesday,S07,Eglinton,12:00-14:00
+2025-11-18,Tuesday,S07,Eglinton,16:00-18:00
+2025-11-18,Tuesday,S08,Dundas,07:00-09:00
+2025-11-18,Tuesday,S08,Dundas,12:00-14:00
+2025-11-18,Tuesday,S08,Dundas,16:00-18:00
+2025-11-18,Tuesday,S09,Warden,07:00-09:00
+2025-11-18,Tuesday,S09,Warden,12:00-14:00
+2025-11-18,Tuesday,S09,Warden,16:00-18:00
+2025-11-18,Tuesday,S10,Victoria Park,07:00-09:00
+2025-11-18,Tuesday,S10,Victoria Park,12:00-14:00
+2025-11-18,Tuesday,S10,Victoria Park,16:00-18:00
+2025-11-18,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-18,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-18,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-18,Tuesday,S12,Don Mills,07:00-09:00
+2025-11-18,Tuesday,S12,Don Mills,12:00-14:00
+2025-11-18,Tuesday,S12,Don Mills,16:00-18:00
+2025-11-18,Tuesday,S13,Islington,07:00-09:00
+2025-11-18,Tuesday,S13,Islington,12:00-14:00
+2025-11-18,Tuesday,S13,Islington,16:00-18:00
+2025-11-18,Tuesday,S14,Spadina,07:00-09:00
+2025-11-18,Tuesday,S14,Spadina,12:00-14:00
+2025-11-18,Tuesday,S14,Spadina,16:00-18:00
+2025-11-18,Tuesday,S15,Wilson,07:00-09:00
+2025-11-18,Tuesday,S15,Wilson,12:00-14:00
+2025-11-18,Tuesday,S15,Wilson,16:00-18:00
+2025-11-19,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-11-19,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-11-19,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-11-19,Wednesday,S02,Union,07:00-09:00
+2025-11-19,Wednesday,S02,Union,12:00-14:00
+2025-11-19,Wednesday,S02,Union,16:00-18:00
+2025-11-19,Wednesday,S03,St George,07:00-09:00
+2025-11-19,Wednesday,S03,St George,12:00-14:00
+2025-11-19,Wednesday,S03,St George,16:00-18:00
+2025-11-19,Wednesday,S04,Kennedy,07:00-09:00
+2025-11-19,Wednesday,S04,Kennedy,12:00-14:00
+2025-11-19,Wednesday,S04,Kennedy,16:00-18:00
+2025-11-19,Wednesday,S05,Finch,07:00-09:00
+2025-11-19,Wednesday,S05,Finch,12:00-14:00
+2025-11-19,Wednesday,S05,Finch,16:00-18:00
+2025-11-19,Wednesday,S06,Kipling,07:00-09:00
+2025-11-19,Wednesday,S06,Kipling,12:00-14:00
+2025-11-19,Wednesday,S06,Kipling,16:00-18:00
+2025-11-19,Wednesday,S07,Eglinton,07:00-09:00
+2025-11-19,Wednesday,S07,Eglinton,12:00-14:00
+2025-11-19,Wednesday,S07,Eglinton,16:00-18:00
+2025-11-19,Wednesday,S08,Dundas,07:00-09:00
+2025-11-19,Wednesday,S08,Dundas,12:00-14:00
+2025-11-19,Wednesday,S08,Dundas,16:00-18:00
+2025-11-19,Wednesday,S09,Warden,07:00-09:00
+2025-11-19,Wednesday,S09,Warden,12:00-14:00
+2025-11-19,Wednesday,S09,Warden,16:00-18:00
+2025-11-19,Wednesday,S10,Victoria Park,07:00-09:00
+2025-11-19,Wednesday,S10,Victoria Park,12:00-14:00
+2025-11-19,Wednesday,S10,Victoria Park,16:00-18:00
+2025-11-19,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-19,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-19,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-19,Wednesday,S12,Don Mills,07:00-09:00
+2025-11-19,Wednesday,S12,Don Mills,12:00-14:00
+2025-11-19,Wednesday,S12,Don Mills,16:00-18:00
+2025-11-19,Wednesday,S13,Islington,07:00-09:00
+2025-11-19,Wednesday,S13,Islington,12:00-14:00
+2025-11-19,Wednesday,S13,Islington,16:00-18:00
+2025-11-19,Wednesday,S14,Spadina,07:00-09:00
+2025-11-19,Wednesday,S14,Spadina,12:00-14:00
+2025-11-19,Wednesday,S14,Spadina,16:00-18:00
+2025-11-19,Wednesday,S15,Wilson,07:00-09:00
+2025-11-19,Wednesday,S15,Wilson,12:00-14:00
+2025-11-19,Wednesday,S15,Wilson,16:00-18:00
+2025-11-20,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-11-20,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-11-20,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-11-20,Thursday,S02,Union,07:00-09:00
+2025-11-20,Thursday,S02,Union,12:00-14:00
+2025-11-20,Thursday,S02,Union,16:00-18:00
+2025-11-20,Thursday,S03,St George,07:00-09:00
+2025-11-20,Thursday,S03,St George,12:00-14:00
+2025-11-20,Thursday,S03,St George,16:00-18:00
+2025-11-20,Thursday,S04,Kennedy,07:00-09:00
+2025-11-20,Thursday,S04,Kennedy,12:00-14:00
+2025-11-20,Thursday,S04,Kennedy,16:00-18:00
+2025-11-20,Thursday,S05,Finch,07:00-09:00
+2025-11-20,Thursday,S05,Finch,12:00-14:00
+2025-11-20,Thursday,S05,Finch,16:00-18:00
+2025-11-20,Thursday,S06,Kipling,07:00-09:00
+2025-11-20,Thursday,S06,Kipling,12:00-14:00
+2025-11-20,Thursday,S06,Kipling,16:00-18:00
+2025-11-20,Thursday,S07,Eglinton,07:00-09:00
+2025-11-20,Thursday,S07,Eglinton,12:00-14:00
+2025-11-20,Thursday,S07,Eglinton,16:00-18:00
+2025-11-20,Thursday,S08,Dundas,07:00-09:00
+2025-11-20,Thursday,S08,Dundas,12:00-14:00
+2025-11-20,Thursday,S08,Dundas,16:00-18:00
+2025-11-20,Thursday,S09,Warden,07:00-09:00
+2025-11-20,Thursday,S09,Warden,12:00-14:00
+2025-11-20,Thursday,S09,Warden,16:00-18:00
+2025-11-20,Thursday,S10,Victoria Park,07:00-09:00
+2025-11-20,Thursday,S10,Victoria Park,12:00-14:00
+2025-11-20,Thursday,S10,Victoria Park,16:00-18:00
+2025-11-20,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-20,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-20,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-20,Thursday,S12,Don Mills,07:00-09:00
+2025-11-20,Thursday,S12,Don Mills,12:00-14:00
+2025-11-20,Thursday,S12,Don Mills,16:00-18:00
+2025-11-20,Thursday,S13,Islington,07:00-09:00
+2025-11-20,Thursday,S13,Islington,12:00-14:00
+2025-11-20,Thursday,S13,Islington,16:00-18:00
+2025-11-20,Thursday,S14,Spadina,07:00-09:00
+2025-11-20,Thursday,S14,Spadina,12:00-14:00
+2025-11-20,Thursday,S14,Spadina,16:00-18:00
+2025-11-20,Thursday,S15,Wilson,07:00-09:00
+2025-11-20,Thursday,S15,Wilson,12:00-14:00
+2025-11-20,Thursday,S15,Wilson,16:00-18:00
+2025-11-21,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-11-21,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-11-21,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-11-21,Friday,S02,Union,07:00-09:00
+2025-11-21,Friday,S02,Union,12:00-14:00
+2025-11-21,Friday,S02,Union,16:00-18:00
+2025-11-21,Friday,S03,St George,07:00-09:00
+2025-11-21,Friday,S03,St George,12:00-14:00
+2025-11-21,Friday,S03,St George,16:00-18:00
+2025-11-21,Friday,S04,Kennedy,07:00-09:00
+2025-11-21,Friday,S04,Kennedy,12:00-14:00
+2025-11-21,Friday,S04,Kennedy,16:00-18:00
+2025-11-21,Friday,S05,Finch,07:00-09:00
+2025-11-21,Friday,S05,Finch,12:00-14:00
+2025-11-21,Friday,S05,Finch,16:00-18:00
+2025-11-21,Friday,S06,Kipling,07:00-09:00
+2025-11-21,Friday,S06,Kipling,12:00-14:00
+2025-11-21,Friday,S06,Kipling,16:00-18:00
+2025-11-21,Friday,S07,Eglinton,07:00-09:00
+2025-11-21,Friday,S07,Eglinton,12:00-14:00
+2025-11-21,Friday,S07,Eglinton,16:00-18:00
+2025-11-21,Friday,S08,Dundas,07:00-09:00
+2025-11-21,Friday,S08,Dundas,12:00-14:00
+2025-11-21,Friday,S08,Dundas,16:00-18:00
+2025-11-21,Friday,S09,Warden,07:00-09:00
+2025-11-21,Friday,S09,Warden,12:00-14:00
+2025-11-21,Friday,S09,Warden,16:00-18:00
+2025-11-21,Friday,S10,Victoria Park,07:00-09:00
+2025-11-21,Friday,S10,Victoria Park,12:00-14:00
+2025-11-21,Friday,S10,Victoria Park,16:00-18:00
+2025-11-21,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-21,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-21,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-21,Friday,S12,Don Mills,07:00-09:00
+2025-11-21,Friday,S12,Don Mills,12:00-14:00
+2025-11-21,Friday,S12,Don Mills,16:00-18:00
+2025-11-21,Friday,S13,Islington,07:00-09:00
+2025-11-21,Friday,S13,Islington,12:00-14:00
+2025-11-21,Friday,S13,Islington,16:00-18:00
+2025-11-21,Friday,S14,Spadina,07:00-09:00
+2025-11-21,Friday,S14,Spadina,12:00-14:00
+2025-11-21,Friday,S14,Spadina,16:00-18:00
+2025-11-21,Friday,S15,Wilson,07:00-09:00
+2025-11-21,Friday,S15,Wilson,12:00-14:00
+2025-11-21,Friday,S15,Wilson,16:00-18:00
+2025-11-24,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-11-24,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-11-24,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-11-24,Monday,S02,Union,07:00-09:00
+2025-11-24,Monday,S02,Union,12:00-14:00
+2025-11-24,Monday,S02,Union,16:00-18:00
+2025-11-24,Monday,S03,St George,07:00-09:00
+2025-11-24,Monday,S03,St George,12:00-14:00
+2025-11-24,Monday,S03,St George,16:00-18:00
+2025-11-24,Monday,S04,Kennedy,07:00-09:00
+2025-11-24,Monday,S04,Kennedy,12:00-14:00
+2025-11-24,Monday,S04,Kennedy,16:00-18:00
+2025-11-24,Monday,S05,Finch,07:00-09:00
+2025-11-24,Monday,S05,Finch,12:00-14:00
+2025-11-24,Monday,S05,Finch,16:00-18:00
+2025-11-24,Monday,S06,Kipling,07:00-09:00
+2025-11-24,Monday,S06,Kipling,12:00-14:00
+2025-11-24,Monday,S06,Kipling,16:00-18:00
+2025-11-24,Monday,S07,Eglinton,07:00-09:00
+2025-11-24,Monday,S07,Eglinton,12:00-14:00
+2025-11-24,Monday,S07,Eglinton,16:00-18:00
+2025-11-24,Monday,S08,Dundas,07:00-09:00
+2025-11-24,Monday,S08,Dundas,12:00-14:00
+2025-11-24,Monday,S08,Dundas,16:00-18:00
+2025-11-24,Monday,S09,Warden,07:00-09:00
+2025-11-24,Monday,S09,Warden,12:00-14:00
+2025-11-24,Monday,S09,Warden,16:00-18:00
+2025-11-24,Monday,S10,Victoria Park,07:00-09:00
+2025-11-24,Monday,S10,Victoria Park,12:00-14:00
+2025-11-24,Monday,S10,Victoria Park,16:00-18:00
+2025-11-24,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-24,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-24,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-24,Monday,S12,Don Mills,07:00-09:00
+2025-11-24,Monday,S12,Don Mills,12:00-14:00
+2025-11-24,Monday,S12,Don Mills,16:00-18:00
+2025-11-24,Monday,S13,Islington,07:00-09:00
+2025-11-24,Monday,S13,Islington,12:00-14:00
+2025-11-24,Monday,S13,Islington,16:00-18:00
+2025-11-24,Monday,S14,Spadina,07:00-09:00
+2025-11-24,Monday,S14,Spadina,12:00-14:00
+2025-11-24,Monday,S14,Spadina,16:00-18:00
+2025-11-24,Monday,S15,Wilson,07:00-09:00
+2025-11-24,Monday,S15,Wilson,12:00-14:00
+2025-11-24,Monday,S15,Wilson,16:00-18:00
+2025-11-25,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-11-25,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-11-25,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-11-25,Tuesday,S02,Union,07:00-09:00
+2025-11-25,Tuesday,S02,Union,12:00-14:00
+2025-11-25,Tuesday,S02,Union,16:00-18:00
+2025-11-25,Tuesday,S03,St George,07:00-09:00
+2025-11-25,Tuesday,S03,St George,12:00-14:00
+2025-11-25,Tuesday,S03,St George,16:00-18:00
+2025-11-25,Tuesday,S04,Kennedy,07:00-09:00
+2025-11-25,Tuesday,S04,Kennedy,12:00-14:00
+2025-11-25,Tuesday,S04,Kennedy,16:00-18:00
+2025-11-25,Tuesday,S05,Finch,07:00-09:00
+2025-11-25,Tuesday,S05,Finch,12:00-14:00
+2025-11-25,Tuesday,S05,Finch,16:00-18:00
+2025-11-25,Tuesday,S06,Kipling,07:00-09:00
+2025-11-25,Tuesday,S06,Kipling,12:00-14:00
+2025-11-25,Tuesday,S06,Kipling,16:00-18:00
+2025-11-25,Tuesday,S07,Eglinton,07:00-09:00
+2025-11-25,Tuesday,S07,Eglinton,12:00-14:00
+2025-11-25,Tuesday,S07,Eglinton,16:00-18:00
+2025-11-25,Tuesday,S08,Dundas,07:00-09:00
+2025-11-25,Tuesday,S08,Dundas,12:00-14:00
+2025-11-25,Tuesday,S08,Dundas,16:00-18:00
+2025-11-25,Tuesday,S09,Warden,07:00-09:00
+2025-11-25,Tuesday,S09,Warden,12:00-14:00
+2025-11-25,Tuesday,S09,Warden,16:00-18:00
+2025-11-25,Tuesday,S10,Victoria Park,07:00-09:00
+2025-11-25,Tuesday,S10,Victoria Park,12:00-14:00
+2025-11-25,Tuesday,S10,Victoria Park,16:00-18:00
+2025-11-25,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-25,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-25,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-25,Tuesday,S12,Don Mills,07:00-09:00
+2025-11-25,Tuesday,S12,Don Mills,12:00-14:00
+2025-11-25,Tuesday,S12,Don Mills,16:00-18:00
+2025-11-25,Tuesday,S13,Islington,07:00-09:00
+2025-11-25,Tuesday,S13,Islington,12:00-14:00
+2025-11-25,Tuesday,S13,Islington,16:00-18:00
+2025-11-25,Tuesday,S14,Spadina,07:00-09:00
+2025-11-25,Tuesday,S14,Spadina,12:00-14:00
+2025-11-25,Tuesday,S14,Spadina,16:00-18:00
+2025-11-25,Tuesday,S15,Wilson,07:00-09:00
+2025-11-25,Tuesday,S15,Wilson,12:00-14:00
+2025-11-25,Tuesday,S15,Wilson,16:00-18:00
+2025-11-26,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-11-26,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-11-26,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-11-26,Wednesday,S02,Union,07:00-09:00
+2025-11-26,Wednesday,S02,Union,12:00-14:00
+2025-11-26,Wednesday,S02,Union,16:00-18:00
+2025-11-26,Wednesday,S03,St George,07:00-09:00
+2025-11-26,Wednesday,S03,St George,12:00-14:00
+2025-11-26,Wednesday,S03,St George,16:00-18:00
+2025-11-26,Wednesday,S04,Kennedy,07:00-09:00
+2025-11-26,Wednesday,S04,Kennedy,12:00-14:00
+2025-11-26,Wednesday,S04,Kennedy,16:00-18:00
+2025-11-26,Wednesday,S05,Finch,07:00-09:00
+2025-11-26,Wednesday,S05,Finch,12:00-14:00
+2025-11-26,Wednesday,S05,Finch,16:00-18:00
+2025-11-26,Wednesday,S06,Kipling,07:00-09:00
+2025-11-26,Wednesday,S06,Kipling,12:00-14:00
+2025-11-26,Wednesday,S06,Kipling,16:00-18:00
+2025-11-26,Wednesday,S07,Eglinton,07:00-09:00
+2025-11-26,Wednesday,S07,Eglinton,12:00-14:00
+2025-11-26,Wednesday,S07,Eglinton,16:00-18:00
+2025-11-26,Wednesday,S08,Dundas,07:00-09:00
+2025-11-26,Wednesday,S08,Dundas,12:00-14:00
+2025-11-26,Wednesday,S08,Dundas,16:00-18:00
+2025-11-26,Wednesday,S09,Warden,07:00-09:00
+2025-11-26,Wednesday,S09,Warden,12:00-14:00
+2025-11-26,Wednesday,S09,Warden,16:00-18:00
+2025-11-26,Wednesday,S10,Victoria Park,07:00-09:00
+2025-11-26,Wednesday,S10,Victoria Park,12:00-14:00
+2025-11-26,Wednesday,S10,Victoria Park,16:00-18:00
+2025-11-26,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-26,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-26,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-26,Wednesday,S12,Don Mills,07:00-09:00
+2025-11-26,Wednesday,S12,Don Mills,12:00-14:00
+2025-11-26,Wednesday,S12,Don Mills,16:00-18:00
+2025-11-26,Wednesday,S13,Islington,07:00-09:00
+2025-11-26,Wednesday,S13,Islington,12:00-14:00
+2025-11-26,Wednesday,S13,Islington,16:00-18:00
+2025-11-26,Wednesday,S14,Spadina,07:00-09:00
+2025-11-26,Wednesday,S14,Spadina,12:00-14:00
+2025-11-26,Wednesday,S14,Spadina,16:00-18:00
+2025-11-26,Wednesday,S15,Wilson,07:00-09:00
+2025-11-26,Wednesday,S15,Wilson,12:00-14:00
+2025-11-26,Wednesday,S15,Wilson,16:00-18:00
+2025-11-27,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-11-27,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-11-27,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-11-27,Thursday,S02,Union,07:00-09:00
+2025-11-27,Thursday,S02,Union,12:00-14:00
+2025-11-27,Thursday,S02,Union,16:00-18:00
+2025-11-27,Thursday,S03,St George,07:00-09:00
+2025-11-27,Thursday,S03,St George,12:00-14:00
+2025-11-27,Thursday,S03,St George,16:00-18:00
+2025-11-27,Thursday,S04,Kennedy,07:00-09:00
+2025-11-27,Thursday,S04,Kennedy,12:00-14:00
+2025-11-27,Thursday,S04,Kennedy,16:00-18:00
+2025-11-27,Thursday,S05,Finch,07:00-09:00
+2025-11-27,Thursday,S05,Finch,12:00-14:00
+2025-11-27,Thursday,S05,Finch,16:00-18:00
+2025-11-27,Thursday,S06,Kipling,07:00-09:00
+2025-11-27,Thursday,S06,Kipling,12:00-14:00
+2025-11-27,Thursday,S06,Kipling,16:00-18:00
+2025-11-27,Thursday,S07,Eglinton,07:00-09:00
+2025-11-27,Thursday,S07,Eglinton,12:00-14:00
+2025-11-27,Thursday,S07,Eglinton,16:00-18:00
+2025-11-27,Thursday,S08,Dundas,07:00-09:00
+2025-11-27,Thursday,S08,Dundas,12:00-14:00
+2025-11-27,Thursday,S08,Dundas,16:00-18:00
+2025-11-27,Thursday,S09,Warden,07:00-09:00
+2025-11-27,Thursday,S09,Warden,12:00-14:00
+2025-11-27,Thursday,S09,Warden,16:00-18:00
+2025-11-27,Thursday,S10,Victoria Park,07:00-09:00
+2025-11-27,Thursday,S10,Victoria Park,12:00-14:00
+2025-11-27,Thursday,S10,Victoria Park,16:00-18:00
+2025-11-27,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-27,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-27,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-27,Thursday,S12,Don Mills,07:00-09:00
+2025-11-27,Thursday,S12,Don Mills,12:00-14:00
+2025-11-27,Thursday,S12,Don Mills,16:00-18:00
+2025-11-27,Thursday,S13,Islington,07:00-09:00
+2025-11-27,Thursday,S13,Islington,12:00-14:00
+2025-11-27,Thursday,S13,Islington,16:00-18:00
+2025-11-27,Thursday,S14,Spadina,07:00-09:00
+2025-11-27,Thursday,S14,Spadina,12:00-14:00
+2025-11-27,Thursday,S14,Spadina,16:00-18:00
+2025-11-27,Thursday,S15,Wilson,07:00-09:00
+2025-11-27,Thursday,S15,Wilson,12:00-14:00
+2025-11-27,Thursday,S15,Wilson,16:00-18:00
+2025-11-28,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-11-28,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-11-28,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-11-28,Friday,S02,Union,07:00-09:00
+2025-11-28,Friday,S02,Union,12:00-14:00
+2025-11-28,Friday,S02,Union,16:00-18:00
+2025-11-28,Friday,S03,St George,07:00-09:00
+2025-11-28,Friday,S03,St George,12:00-14:00
+2025-11-28,Friday,S03,St George,16:00-18:00
+2025-11-28,Friday,S04,Kennedy,07:00-09:00
+2025-11-28,Friday,S04,Kennedy,12:00-14:00
+2025-11-28,Friday,S04,Kennedy,16:00-18:00
+2025-11-28,Friday,S05,Finch,07:00-09:00
+2025-11-28,Friday,S05,Finch,12:00-14:00
+2025-11-28,Friday,S05,Finch,16:00-18:00
+2025-11-28,Friday,S06,Kipling,07:00-09:00
+2025-11-28,Friday,S06,Kipling,12:00-14:00
+2025-11-28,Friday,S06,Kipling,16:00-18:00
+2025-11-28,Friday,S07,Eglinton,07:00-09:00
+2025-11-28,Friday,S07,Eglinton,12:00-14:00
+2025-11-28,Friday,S07,Eglinton,16:00-18:00
+2025-11-28,Friday,S08,Dundas,07:00-09:00
+2025-11-28,Friday,S08,Dundas,12:00-14:00
+2025-11-28,Friday,S08,Dundas,16:00-18:00
+2025-11-28,Friday,S09,Warden,07:00-09:00
+2025-11-28,Friday,S09,Warden,12:00-14:00
+2025-11-28,Friday,S09,Warden,16:00-18:00
+2025-11-28,Friday,S10,Victoria Park,07:00-09:00
+2025-11-28,Friday,S10,Victoria Park,12:00-14:00
+2025-11-28,Friday,S10,Victoria Park,16:00-18:00
+2025-11-28,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-11-28,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-11-28,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-11-28,Friday,S12,Don Mills,07:00-09:00
+2025-11-28,Friday,S12,Don Mills,12:00-14:00
+2025-11-28,Friday,S12,Don Mills,16:00-18:00
+2025-11-28,Friday,S13,Islington,07:00-09:00
+2025-11-28,Friday,S13,Islington,12:00-14:00
+2025-11-28,Friday,S13,Islington,16:00-18:00
+2025-11-28,Friday,S14,Spadina,07:00-09:00
+2025-11-28,Friday,S14,Spadina,12:00-14:00
+2025-11-28,Friday,S14,Spadina,16:00-18:00
+2025-11-28,Friday,S15,Wilson,07:00-09:00
+2025-11-28,Friday,S15,Wilson,12:00-14:00
+2025-11-28,Friday,S15,Wilson,16:00-18:00
+2025-12-01,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-12-01,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-12-01,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-12-01,Monday,S02,Union,07:00-09:00
+2025-12-01,Monday,S02,Union,12:00-14:00
+2025-12-01,Monday,S02,Union,16:00-18:00
+2025-12-01,Monday,S03,St George,07:00-09:00
+2025-12-01,Monday,S03,St George,12:00-14:00
+2025-12-01,Monday,S03,St George,16:00-18:00
+2025-12-01,Monday,S04,Kennedy,07:00-09:00
+2025-12-01,Monday,S04,Kennedy,12:00-14:00
+2025-12-01,Monday,S04,Kennedy,16:00-18:00
+2025-12-01,Monday,S05,Finch,07:00-09:00
+2025-12-01,Monday,S05,Finch,12:00-14:00
+2025-12-01,Monday,S05,Finch,16:00-18:00
+2025-12-01,Monday,S06,Kipling,07:00-09:00
+2025-12-01,Monday,S06,Kipling,12:00-14:00
+2025-12-01,Monday,S06,Kipling,16:00-18:00
+2025-12-01,Monday,S07,Eglinton,07:00-09:00
+2025-12-01,Monday,S07,Eglinton,12:00-14:00
+2025-12-01,Monday,S07,Eglinton,16:00-18:00
+2025-12-01,Monday,S08,Dundas,07:00-09:00
+2025-12-01,Monday,S08,Dundas,12:00-14:00
+2025-12-01,Monday,S08,Dundas,16:00-18:00
+2025-12-01,Monday,S09,Warden,07:00-09:00
+2025-12-01,Monday,S09,Warden,12:00-14:00
+2025-12-01,Monday,S09,Warden,16:00-18:00
+2025-12-01,Monday,S10,Victoria Park,07:00-09:00
+2025-12-01,Monday,S10,Victoria Park,12:00-14:00
+2025-12-01,Monday,S10,Victoria Park,16:00-18:00
+2025-12-01,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-01,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-01,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-01,Monday,S12,Don Mills,07:00-09:00
+2025-12-01,Monday,S12,Don Mills,12:00-14:00
+2025-12-01,Monday,S12,Don Mills,16:00-18:00
+2025-12-01,Monday,S13,Islington,07:00-09:00
+2025-12-01,Monday,S13,Islington,12:00-14:00
+2025-12-01,Monday,S13,Islington,16:00-18:00
+2025-12-01,Monday,S14,Spadina,07:00-09:00
+2025-12-01,Monday,S14,Spadina,12:00-14:00
+2025-12-01,Monday,S14,Spadina,16:00-18:00
+2025-12-01,Monday,S15,Wilson,07:00-09:00
+2025-12-01,Monday,S15,Wilson,12:00-14:00
+2025-12-01,Monday,S15,Wilson,16:00-18:00
+2025-12-02,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-02,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-02,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-02,Tuesday,S02,Union,07:00-09:00
+2025-12-02,Tuesday,S02,Union,12:00-14:00
+2025-12-02,Tuesday,S02,Union,16:00-18:00
+2025-12-02,Tuesday,S03,St George,07:00-09:00
+2025-12-02,Tuesday,S03,St George,12:00-14:00
+2025-12-02,Tuesday,S03,St George,16:00-18:00
+2025-12-02,Tuesday,S04,Kennedy,07:00-09:00
+2025-12-02,Tuesday,S04,Kennedy,12:00-14:00
+2025-12-02,Tuesday,S04,Kennedy,16:00-18:00
+2025-12-02,Tuesday,S05,Finch,07:00-09:00
+2025-12-02,Tuesday,S05,Finch,12:00-14:00
+2025-12-02,Tuesday,S05,Finch,16:00-18:00
+2025-12-02,Tuesday,S06,Kipling,07:00-09:00
+2025-12-02,Tuesday,S06,Kipling,12:00-14:00
+2025-12-02,Tuesday,S06,Kipling,16:00-18:00
+2025-12-02,Tuesday,S07,Eglinton,07:00-09:00
+2025-12-02,Tuesday,S07,Eglinton,12:00-14:00
+2025-12-02,Tuesday,S07,Eglinton,16:00-18:00
+2025-12-02,Tuesday,S08,Dundas,07:00-09:00
+2025-12-02,Tuesday,S08,Dundas,12:00-14:00
+2025-12-02,Tuesday,S08,Dundas,16:00-18:00
+2025-12-02,Tuesday,S09,Warden,07:00-09:00
+2025-12-02,Tuesday,S09,Warden,12:00-14:00
+2025-12-02,Tuesday,S09,Warden,16:00-18:00
+2025-12-02,Tuesday,S10,Victoria Park,07:00-09:00
+2025-12-02,Tuesday,S10,Victoria Park,12:00-14:00
+2025-12-02,Tuesday,S10,Victoria Park,16:00-18:00
+2025-12-02,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-02,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-02,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-02,Tuesday,S12,Don Mills,07:00-09:00
+2025-12-02,Tuesday,S12,Don Mills,12:00-14:00
+2025-12-02,Tuesday,S12,Don Mills,16:00-18:00
+2025-12-02,Tuesday,S13,Islington,07:00-09:00
+2025-12-02,Tuesday,S13,Islington,12:00-14:00
+2025-12-02,Tuesday,S13,Islington,16:00-18:00
+2025-12-02,Tuesday,S14,Spadina,07:00-09:00
+2025-12-02,Tuesday,S14,Spadina,12:00-14:00
+2025-12-02,Tuesday,S14,Spadina,16:00-18:00
+2025-12-02,Tuesday,S15,Wilson,07:00-09:00
+2025-12-02,Tuesday,S15,Wilson,12:00-14:00
+2025-12-02,Tuesday,S15,Wilson,16:00-18:00
+2025-12-03,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-03,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-03,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-03,Wednesday,S02,Union,07:00-09:00
+2025-12-03,Wednesday,S02,Union,12:00-14:00
+2025-12-03,Wednesday,S02,Union,16:00-18:00
+2025-12-03,Wednesday,S03,St George,07:00-09:00
+2025-12-03,Wednesday,S03,St George,12:00-14:00
+2025-12-03,Wednesday,S03,St George,16:00-18:00
+2025-12-03,Wednesday,S04,Kennedy,07:00-09:00
+2025-12-03,Wednesday,S04,Kennedy,12:00-14:00
+2025-12-03,Wednesday,S04,Kennedy,16:00-18:00
+2025-12-03,Wednesday,S05,Finch,07:00-09:00
+2025-12-03,Wednesday,S05,Finch,12:00-14:00
+2025-12-03,Wednesday,S05,Finch,16:00-18:00
+2025-12-03,Wednesday,S06,Kipling,07:00-09:00
+2025-12-03,Wednesday,S06,Kipling,12:00-14:00
+2025-12-03,Wednesday,S06,Kipling,16:00-18:00
+2025-12-03,Wednesday,S07,Eglinton,07:00-09:00
+2025-12-03,Wednesday,S07,Eglinton,12:00-14:00
+2025-12-03,Wednesday,S07,Eglinton,16:00-18:00
+2025-12-03,Wednesday,S08,Dundas,07:00-09:00
+2025-12-03,Wednesday,S08,Dundas,12:00-14:00
+2025-12-03,Wednesday,S08,Dundas,16:00-18:00
+2025-12-03,Wednesday,S09,Warden,07:00-09:00
+2025-12-03,Wednesday,S09,Warden,12:00-14:00
+2025-12-03,Wednesday,S09,Warden,16:00-18:00
+2025-12-03,Wednesday,S10,Victoria Park,07:00-09:00
+2025-12-03,Wednesday,S10,Victoria Park,12:00-14:00
+2025-12-03,Wednesday,S10,Victoria Park,16:00-18:00
+2025-12-03,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-03,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-03,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-03,Wednesday,S12,Don Mills,07:00-09:00
+2025-12-03,Wednesday,S12,Don Mills,12:00-14:00
+2025-12-03,Wednesday,S12,Don Mills,16:00-18:00
+2025-12-03,Wednesday,S13,Islington,07:00-09:00
+2025-12-03,Wednesday,S13,Islington,12:00-14:00
+2025-12-03,Wednesday,S13,Islington,16:00-18:00
+2025-12-03,Wednesday,S14,Spadina,07:00-09:00
+2025-12-03,Wednesday,S14,Spadina,12:00-14:00
+2025-12-03,Wednesday,S14,Spadina,16:00-18:00
+2025-12-03,Wednesday,S15,Wilson,07:00-09:00
+2025-12-03,Wednesday,S15,Wilson,12:00-14:00
+2025-12-03,Wednesday,S15,Wilson,16:00-18:00
+2025-12-04,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-12-04,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-12-04,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-12-04,Thursday,S02,Union,07:00-09:00
+2025-12-04,Thursday,S02,Union,12:00-14:00
+2025-12-04,Thursday,S02,Union,16:00-18:00
+2025-12-04,Thursday,S03,St George,07:00-09:00
+2025-12-04,Thursday,S03,St George,12:00-14:00
+2025-12-04,Thursday,S03,St George,16:00-18:00
+2025-12-04,Thursday,S04,Kennedy,07:00-09:00
+2025-12-04,Thursday,S04,Kennedy,12:00-14:00
+2025-12-04,Thursday,S04,Kennedy,16:00-18:00
+2025-12-04,Thursday,S05,Finch,07:00-09:00
+2025-12-04,Thursday,S05,Finch,12:00-14:00
+2025-12-04,Thursday,S05,Finch,16:00-18:00
+2025-12-04,Thursday,S06,Kipling,07:00-09:00
+2025-12-04,Thursday,S06,Kipling,12:00-14:00
+2025-12-04,Thursday,S06,Kipling,16:00-18:00
+2025-12-04,Thursday,S07,Eglinton,07:00-09:00
+2025-12-04,Thursday,S07,Eglinton,12:00-14:00
+2025-12-04,Thursday,S07,Eglinton,16:00-18:00
+2025-12-04,Thursday,S08,Dundas,07:00-09:00
+2025-12-04,Thursday,S08,Dundas,12:00-14:00
+2025-12-04,Thursday,S08,Dundas,16:00-18:00
+2025-12-04,Thursday,S09,Warden,07:00-09:00
+2025-12-04,Thursday,S09,Warden,12:00-14:00
+2025-12-04,Thursday,S09,Warden,16:00-18:00
+2025-12-04,Thursday,S10,Victoria Park,07:00-09:00
+2025-12-04,Thursday,S10,Victoria Park,12:00-14:00
+2025-12-04,Thursday,S10,Victoria Park,16:00-18:00
+2025-12-04,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-04,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-04,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-04,Thursday,S12,Don Mills,07:00-09:00
+2025-12-04,Thursday,S12,Don Mills,12:00-14:00
+2025-12-04,Thursday,S12,Don Mills,16:00-18:00
+2025-12-04,Thursday,S13,Islington,07:00-09:00
+2025-12-04,Thursday,S13,Islington,12:00-14:00
+2025-12-04,Thursday,S13,Islington,16:00-18:00
+2025-12-04,Thursday,S14,Spadina,07:00-09:00
+2025-12-04,Thursday,S14,Spadina,12:00-14:00
+2025-12-04,Thursday,S14,Spadina,16:00-18:00
+2025-12-04,Thursday,S15,Wilson,07:00-09:00
+2025-12-04,Thursday,S15,Wilson,12:00-14:00
+2025-12-04,Thursday,S15,Wilson,16:00-18:00
+2025-12-05,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-12-05,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-12-05,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-12-05,Friday,S02,Union,07:00-09:00
+2025-12-05,Friday,S02,Union,12:00-14:00
+2025-12-05,Friday,S02,Union,16:00-18:00
+2025-12-05,Friday,S03,St George,07:00-09:00
+2025-12-05,Friday,S03,St George,12:00-14:00
+2025-12-05,Friday,S03,St George,16:00-18:00
+2025-12-05,Friday,S04,Kennedy,07:00-09:00
+2025-12-05,Friday,S04,Kennedy,12:00-14:00
+2025-12-05,Friday,S04,Kennedy,16:00-18:00
+2025-12-05,Friday,S05,Finch,07:00-09:00
+2025-12-05,Friday,S05,Finch,12:00-14:00
+2025-12-05,Friday,S05,Finch,16:00-18:00
+2025-12-05,Friday,S06,Kipling,07:00-09:00
+2025-12-05,Friday,S06,Kipling,12:00-14:00
+2025-12-05,Friday,S06,Kipling,16:00-18:00
+2025-12-05,Friday,S07,Eglinton,07:00-09:00
+2025-12-05,Friday,S07,Eglinton,12:00-14:00
+2025-12-05,Friday,S07,Eglinton,16:00-18:00
+2025-12-05,Friday,S08,Dundas,07:00-09:00
+2025-12-05,Friday,S08,Dundas,12:00-14:00
+2025-12-05,Friday,S08,Dundas,16:00-18:00
+2025-12-05,Friday,S09,Warden,07:00-09:00
+2025-12-05,Friday,S09,Warden,12:00-14:00
+2025-12-05,Friday,S09,Warden,16:00-18:00
+2025-12-05,Friday,S10,Victoria Park,07:00-09:00
+2025-12-05,Friday,S10,Victoria Park,12:00-14:00
+2025-12-05,Friday,S10,Victoria Park,16:00-18:00
+2025-12-05,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-05,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-05,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-05,Friday,S12,Don Mills,07:00-09:00
+2025-12-05,Friday,S12,Don Mills,12:00-14:00
+2025-12-05,Friday,S12,Don Mills,16:00-18:00
+2025-12-05,Friday,S13,Islington,07:00-09:00
+2025-12-05,Friday,S13,Islington,12:00-14:00
+2025-12-05,Friday,S13,Islington,16:00-18:00
+2025-12-05,Friday,S14,Spadina,07:00-09:00
+2025-12-05,Friday,S14,Spadina,12:00-14:00
+2025-12-05,Friday,S14,Spadina,16:00-18:00
+2025-12-05,Friday,S15,Wilson,07:00-09:00
+2025-12-05,Friday,S15,Wilson,12:00-14:00
+2025-12-05,Friday,S15,Wilson,16:00-18:00
+2025-12-08,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-12-08,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-12-08,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-12-08,Monday,S02,Union,07:00-09:00
+2025-12-08,Monday,S02,Union,12:00-14:00
+2025-12-08,Monday,S02,Union,16:00-18:00
+2025-12-08,Monday,S03,St George,07:00-09:00
+2025-12-08,Monday,S03,St George,12:00-14:00
+2025-12-08,Monday,S03,St George,16:00-18:00
+2025-12-08,Monday,S04,Kennedy,07:00-09:00
+2025-12-08,Monday,S04,Kennedy,12:00-14:00
+2025-12-08,Monday,S04,Kennedy,16:00-18:00
+2025-12-08,Monday,S05,Finch,07:00-09:00
+2025-12-08,Monday,S05,Finch,12:00-14:00
+2025-12-08,Monday,S05,Finch,16:00-18:00
+2025-12-08,Monday,S06,Kipling,07:00-09:00
+2025-12-08,Monday,S06,Kipling,12:00-14:00
+2025-12-08,Monday,S06,Kipling,16:00-18:00
+2025-12-08,Monday,S07,Eglinton,07:00-09:00
+2025-12-08,Monday,S07,Eglinton,12:00-14:00
+2025-12-08,Monday,S07,Eglinton,16:00-18:00
+2025-12-08,Monday,S08,Dundas,07:00-09:00
+2025-12-08,Monday,S08,Dundas,12:00-14:00
+2025-12-08,Monday,S08,Dundas,16:00-18:00
+2025-12-08,Monday,S09,Warden,07:00-09:00
+2025-12-08,Monday,S09,Warden,12:00-14:00
+2025-12-08,Monday,S09,Warden,16:00-18:00
+2025-12-08,Monday,S10,Victoria Park,07:00-09:00
+2025-12-08,Monday,S10,Victoria Park,12:00-14:00
+2025-12-08,Monday,S10,Victoria Park,16:00-18:00
+2025-12-08,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-08,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-08,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-08,Monday,S12,Don Mills,07:00-09:00
+2025-12-08,Monday,S12,Don Mills,12:00-14:00
+2025-12-08,Monday,S12,Don Mills,16:00-18:00
+2025-12-08,Monday,S13,Islington,07:00-09:00
+2025-12-08,Monday,S13,Islington,12:00-14:00
+2025-12-08,Monday,S13,Islington,16:00-18:00
+2025-12-08,Monday,S14,Spadina,07:00-09:00
+2025-12-08,Monday,S14,Spadina,12:00-14:00
+2025-12-08,Monday,S14,Spadina,16:00-18:00
+2025-12-08,Monday,S15,Wilson,07:00-09:00
+2025-12-08,Monday,S15,Wilson,12:00-14:00
+2025-12-08,Monday,S15,Wilson,16:00-18:00
+2025-12-09,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-09,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-09,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-09,Tuesday,S02,Union,07:00-09:00
+2025-12-09,Tuesday,S02,Union,12:00-14:00
+2025-12-09,Tuesday,S02,Union,16:00-18:00
+2025-12-09,Tuesday,S03,St George,07:00-09:00
+2025-12-09,Tuesday,S03,St George,12:00-14:00
+2025-12-09,Tuesday,S03,St George,16:00-18:00
+2025-12-09,Tuesday,S04,Kennedy,07:00-09:00
+2025-12-09,Tuesday,S04,Kennedy,12:00-14:00
+2025-12-09,Tuesday,S04,Kennedy,16:00-18:00
+2025-12-09,Tuesday,S05,Finch,07:00-09:00
+2025-12-09,Tuesday,S05,Finch,12:00-14:00
+2025-12-09,Tuesday,S05,Finch,16:00-18:00
+2025-12-09,Tuesday,S06,Kipling,07:00-09:00
+2025-12-09,Tuesday,S06,Kipling,12:00-14:00
+2025-12-09,Tuesday,S06,Kipling,16:00-18:00
+2025-12-09,Tuesday,S07,Eglinton,07:00-09:00
+2025-12-09,Tuesday,S07,Eglinton,12:00-14:00
+2025-12-09,Tuesday,S07,Eglinton,16:00-18:00
+2025-12-09,Tuesday,S08,Dundas,07:00-09:00
+2025-12-09,Tuesday,S08,Dundas,12:00-14:00
+2025-12-09,Tuesday,S08,Dundas,16:00-18:00
+2025-12-09,Tuesday,S09,Warden,07:00-09:00
+2025-12-09,Tuesday,S09,Warden,12:00-14:00
+2025-12-09,Tuesday,S09,Warden,16:00-18:00
+2025-12-09,Tuesday,S10,Victoria Park,07:00-09:00
+2025-12-09,Tuesday,S10,Victoria Park,12:00-14:00
+2025-12-09,Tuesday,S10,Victoria Park,16:00-18:00
+2025-12-09,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-09,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-09,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-09,Tuesday,S12,Don Mills,07:00-09:00
+2025-12-09,Tuesday,S12,Don Mills,12:00-14:00
+2025-12-09,Tuesday,S12,Don Mills,16:00-18:00
+2025-12-09,Tuesday,S13,Islington,07:00-09:00
+2025-12-09,Tuesday,S13,Islington,12:00-14:00
+2025-12-09,Tuesday,S13,Islington,16:00-18:00
+2025-12-09,Tuesday,S14,Spadina,07:00-09:00
+2025-12-09,Tuesday,S14,Spadina,12:00-14:00
+2025-12-09,Tuesday,S14,Spadina,16:00-18:00
+2025-12-09,Tuesday,S15,Wilson,07:00-09:00
+2025-12-09,Tuesday,S15,Wilson,12:00-14:00
+2025-12-09,Tuesday,S15,Wilson,16:00-18:00
+2025-12-10,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-10,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-10,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-10,Wednesday,S02,Union,07:00-09:00
+2025-12-10,Wednesday,S02,Union,12:00-14:00
+2025-12-10,Wednesday,S02,Union,16:00-18:00
+2025-12-10,Wednesday,S03,St George,07:00-09:00
+2025-12-10,Wednesday,S03,St George,12:00-14:00
+2025-12-10,Wednesday,S03,St George,16:00-18:00
+2025-12-10,Wednesday,S04,Kennedy,07:00-09:00
+2025-12-10,Wednesday,S04,Kennedy,12:00-14:00
+2025-12-10,Wednesday,S04,Kennedy,16:00-18:00
+2025-12-10,Wednesday,S05,Finch,07:00-09:00
+2025-12-10,Wednesday,S05,Finch,12:00-14:00
+2025-12-10,Wednesday,S05,Finch,16:00-18:00
+2025-12-10,Wednesday,S06,Kipling,07:00-09:00
+2025-12-10,Wednesday,S06,Kipling,12:00-14:00
+2025-12-10,Wednesday,S06,Kipling,16:00-18:00
+2025-12-10,Wednesday,S07,Eglinton,07:00-09:00
+2025-12-10,Wednesday,S07,Eglinton,12:00-14:00
+2025-12-10,Wednesday,S07,Eglinton,16:00-18:00
+2025-12-10,Wednesday,S08,Dundas,07:00-09:00
+2025-12-10,Wednesday,S08,Dundas,12:00-14:00
+2025-12-10,Wednesday,S08,Dundas,16:00-18:00
+2025-12-10,Wednesday,S09,Warden,07:00-09:00
+2025-12-10,Wednesday,S09,Warden,12:00-14:00
+2025-12-10,Wednesday,S09,Warden,16:00-18:00
+2025-12-10,Wednesday,S10,Victoria Park,07:00-09:00
+2025-12-10,Wednesday,S10,Victoria Park,12:00-14:00
+2025-12-10,Wednesday,S10,Victoria Park,16:00-18:00
+2025-12-10,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-10,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-10,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-10,Wednesday,S12,Don Mills,07:00-09:00
+2025-12-10,Wednesday,S12,Don Mills,12:00-14:00
+2025-12-10,Wednesday,S12,Don Mills,16:00-18:00
+2025-12-10,Wednesday,S13,Islington,07:00-09:00
+2025-12-10,Wednesday,S13,Islington,12:00-14:00
+2025-12-10,Wednesday,S13,Islington,16:00-18:00
+2025-12-10,Wednesday,S14,Spadina,07:00-09:00
+2025-12-10,Wednesday,S14,Spadina,12:00-14:00
+2025-12-10,Wednesday,S14,Spadina,16:00-18:00
+2025-12-10,Wednesday,S15,Wilson,07:00-09:00
+2025-12-10,Wednesday,S15,Wilson,12:00-14:00
+2025-12-10,Wednesday,S15,Wilson,16:00-18:00
+2025-12-11,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-12-11,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-12-11,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-12-11,Thursday,S02,Union,07:00-09:00
+2025-12-11,Thursday,S02,Union,12:00-14:00
+2025-12-11,Thursday,S02,Union,16:00-18:00
+2025-12-11,Thursday,S03,St George,07:00-09:00
+2025-12-11,Thursday,S03,St George,12:00-14:00
+2025-12-11,Thursday,S03,St George,16:00-18:00
+2025-12-11,Thursday,S04,Kennedy,07:00-09:00
+2025-12-11,Thursday,S04,Kennedy,12:00-14:00
+2025-12-11,Thursday,S04,Kennedy,16:00-18:00
+2025-12-11,Thursday,S05,Finch,07:00-09:00
+2025-12-11,Thursday,S05,Finch,12:00-14:00
+2025-12-11,Thursday,S05,Finch,16:00-18:00
+2025-12-11,Thursday,S06,Kipling,07:00-09:00
+2025-12-11,Thursday,S06,Kipling,12:00-14:00
+2025-12-11,Thursday,S06,Kipling,16:00-18:00
+2025-12-11,Thursday,S07,Eglinton,07:00-09:00
+2025-12-11,Thursday,S07,Eglinton,12:00-14:00
+2025-12-11,Thursday,S07,Eglinton,16:00-18:00
+2025-12-11,Thursday,S08,Dundas,07:00-09:00
+2025-12-11,Thursday,S08,Dundas,12:00-14:00
+2025-12-11,Thursday,S08,Dundas,16:00-18:00
+2025-12-11,Thursday,S09,Warden,07:00-09:00
+2025-12-11,Thursday,S09,Warden,12:00-14:00
+2025-12-11,Thursday,S09,Warden,16:00-18:00
+2025-12-11,Thursday,S10,Victoria Park,07:00-09:00
+2025-12-11,Thursday,S10,Victoria Park,12:00-14:00
+2025-12-11,Thursday,S10,Victoria Park,16:00-18:00
+2025-12-11,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-11,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-11,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-11,Thursday,S12,Don Mills,07:00-09:00
+2025-12-11,Thursday,S12,Don Mills,12:00-14:00
+2025-12-11,Thursday,S12,Don Mills,16:00-18:00
+2025-12-11,Thursday,S13,Islington,07:00-09:00
+2025-12-11,Thursday,S13,Islington,12:00-14:00
+2025-12-11,Thursday,S13,Islington,16:00-18:00
+2025-12-11,Thursday,S14,Spadina,07:00-09:00
+2025-12-11,Thursday,S14,Spadina,12:00-14:00
+2025-12-11,Thursday,S14,Spadina,16:00-18:00
+2025-12-11,Thursday,S15,Wilson,07:00-09:00
+2025-12-11,Thursday,S15,Wilson,12:00-14:00
+2025-12-11,Thursday,S15,Wilson,16:00-18:00
+2025-12-12,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-12-12,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-12-12,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-12-12,Friday,S02,Union,07:00-09:00
+2025-12-12,Friday,S02,Union,12:00-14:00
+2025-12-12,Friday,S02,Union,16:00-18:00
+2025-12-12,Friday,S03,St George,07:00-09:00
+2025-12-12,Friday,S03,St George,12:00-14:00
+2025-12-12,Friday,S03,St George,16:00-18:00
+2025-12-12,Friday,S04,Kennedy,07:00-09:00
+2025-12-12,Friday,S04,Kennedy,12:00-14:00
+2025-12-12,Friday,S04,Kennedy,16:00-18:00
+2025-12-12,Friday,S05,Finch,07:00-09:00
+2025-12-12,Friday,S05,Finch,12:00-14:00
+2025-12-12,Friday,S05,Finch,16:00-18:00
+2025-12-12,Friday,S06,Kipling,07:00-09:00
+2025-12-12,Friday,S06,Kipling,12:00-14:00
+2025-12-12,Friday,S06,Kipling,16:00-18:00
+2025-12-12,Friday,S07,Eglinton,07:00-09:00
+2025-12-12,Friday,S07,Eglinton,12:00-14:00
+2025-12-12,Friday,S07,Eglinton,16:00-18:00
+2025-12-12,Friday,S08,Dundas,07:00-09:00
+2025-12-12,Friday,S08,Dundas,12:00-14:00
+2025-12-12,Friday,S08,Dundas,16:00-18:00
+2025-12-12,Friday,S09,Warden,07:00-09:00
+2025-12-12,Friday,S09,Warden,12:00-14:00
+2025-12-12,Friday,S09,Warden,16:00-18:00
+2025-12-12,Friday,S10,Victoria Park,07:00-09:00
+2025-12-12,Friday,S10,Victoria Park,12:00-14:00
+2025-12-12,Friday,S10,Victoria Park,16:00-18:00
+2025-12-12,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-12,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-12,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-12,Friday,S12,Don Mills,07:00-09:00
+2025-12-12,Friday,S12,Don Mills,12:00-14:00
+2025-12-12,Friday,S12,Don Mills,16:00-18:00
+2025-12-12,Friday,S13,Islington,07:00-09:00
+2025-12-12,Friday,S13,Islington,12:00-14:00
+2025-12-12,Friday,S13,Islington,16:00-18:00
+2025-12-12,Friday,S14,Spadina,07:00-09:00
+2025-12-12,Friday,S14,Spadina,12:00-14:00
+2025-12-12,Friday,S14,Spadina,16:00-18:00
+2025-12-12,Friday,S15,Wilson,07:00-09:00
+2025-12-12,Friday,S15,Wilson,12:00-14:00
+2025-12-12,Friday,S15,Wilson,16:00-18:00
+2025-12-15,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-12-15,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-12-15,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-12-15,Monday,S02,Union,07:00-09:00
+2025-12-15,Monday,S02,Union,12:00-14:00
+2025-12-15,Monday,S02,Union,16:00-18:00
+2025-12-15,Monday,S03,St George,07:00-09:00
+2025-12-15,Monday,S03,St George,12:00-14:00
+2025-12-15,Monday,S03,St George,16:00-18:00
+2025-12-15,Monday,S04,Kennedy,07:00-09:00
+2025-12-15,Monday,S04,Kennedy,12:00-14:00
+2025-12-15,Monday,S04,Kennedy,16:00-18:00
+2025-12-15,Monday,S05,Finch,07:00-09:00
+2025-12-15,Monday,S05,Finch,12:00-14:00
+2025-12-15,Monday,S05,Finch,16:00-18:00
+2025-12-15,Monday,S06,Kipling,07:00-09:00
+2025-12-15,Monday,S06,Kipling,12:00-14:00
+2025-12-15,Monday,S06,Kipling,16:00-18:00
+2025-12-15,Monday,S07,Eglinton,07:00-09:00
+2025-12-15,Monday,S07,Eglinton,12:00-14:00
+2025-12-15,Monday,S07,Eglinton,16:00-18:00
+2025-12-15,Monday,S08,Dundas,07:00-09:00
+2025-12-15,Monday,S08,Dundas,12:00-14:00
+2025-12-15,Monday,S08,Dundas,16:00-18:00
+2025-12-15,Monday,S09,Warden,07:00-09:00
+2025-12-15,Monday,S09,Warden,12:00-14:00
+2025-12-15,Monday,S09,Warden,16:00-18:00
+2025-12-15,Monday,S10,Victoria Park,07:00-09:00
+2025-12-15,Monday,S10,Victoria Park,12:00-14:00
+2025-12-15,Monday,S10,Victoria Park,16:00-18:00
+2025-12-15,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-15,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-15,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-15,Monday,S12,Don Mills,07:00-09:00
+2025-12-15,Monday,S12,Don Mills,12:00-14:00
+2025-12-15,Monday,S12,Don Mills,16:00-18:00
+2025-12-15,Monday,S13,Islington,07:00-09:00
+2025-12-15,Monday,S13,Islington,12:00-14:00
+2025-12-15,Monday,S13,Islington,16:00-18:00
+2025-12-15,Monday,S14,Spadina,07:00-09:00
+2025-12-15,Monday,S14,Spadina,12:00-14:00
+2025-12-15,Monday,S14,Spadina,16:00-18:00
+2025-12-15,Monday,S15,Wilson,07:00-09:00
+2025-12-15,Monday,S15,Wilson,12:00-14:00
+2025-12-15,Monday,S15,Wilson,16:00-18:00
+2025-12-16,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-16,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-16,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-16,Tuesday,S02,Union,07:00-09:00
+2025-12-16,Tuesday,S02,Union,12:00-14:00
+2025-12-16,Tuesday,S02,Union,16:00-18:00
+2025-12-16,Tuesday,S03,St George,07:00-09:00
+2025-12-16,Tuesday,S03,St George,12:00-14:00
+2025-12-16,Tuesday,S03,St George,16:00-18:00
+2025-12-16,Tuesday,S04,Kennedy,07:00-09:00
+2025-12-16,Tuesday,S04,Kennedy,12:00-14:00
+2025-12-16,Tuesday,S04,Kennedy,16:00-18:00
+2025-12-16,Tuesday,S05,Finch,07:00-09:00
+2025-12-16,Tuesday,S05,Finch,12:00-14:00
+2025-12-16,Tuesday,S05,Finch,16:00-18:00
+2025-12-16,Tuesday,S06,Kipling,07:00-09:00
+2025-12-16,Tuesday,S06,Kipling,12:00-14:00
+2025-12-16,Tuesday,S06,Kipling,16:00-18:00
+2025-12-16,Tuesday,S07,Eglinton,07:00-09:00
+2025-12-16,Tuesday,S07,Eglinton,12:00-14:00
+2025-12-16,Tuesday,S07,Eglinton,16:00-18:00
+2025-12-16,Tuesday,S08,Dundas,07:00-09:00
+2025-12-16,Tuesday,S08,Dundas,12:00-14:00
+2025-12-16,Tuesday,S08,Dundas,16:00-18:00
+2025-12-16,Tuesday,S09,Warden,07:00-09:00
+2025-12-16,Tuesday,S09,Warden,12:00-14:00
+2025-12-16,Tuesday,S09,Warden,16:00-18:00
+2025-12-16,Tuesday,S10,Victoria Park,07:00-09:00
+2025-12-16,Tuesday,S10,Victoria Park,12:00-14:00
+2025-12-16,Tuesday,S10,Victoria Park,16:00-18:00
+2025-12-16,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-16,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-16,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-16,Tuesday,S12,Don Mills,07:00-09:00
+2025-12-16,Tuesday,S12,Don Mills,12:00-14:00
+2025-12-16,Tuesday,S12,Don Mills,16:00-18:00
+2025-12-16,Tuesday,S13,Islington,07:00-09:00
+2025-12-16,Tuesday,S13,Islington,12:00-14:00
+2025-12-16,Tuesday,S13,Islington,16:00-18:00
+2025-12-16,Tuesday,S14,Spadina,07:00-09:00
+2025-12-16,Tuesday,S14,Spadina,12:00-14:00
+2025-12-16,Tuesday,S14,Spadina,16:00-18:00
+2025-12-16,Tuesday,S15,Wilson,07:00-09:00
+2025-12-16,Tuesday,S15,Wilson,12:00-14:00
+2025-12-16,Tuesday,S15,Wilson,16:00-18:00
+2025-12-17,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-17,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-17,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-17,Wednesday,S02,Union,07:00-09:00
+2025-12-17,Wednesday,S02,Union,12:00-14:00
+2025-12-17,Wednesday,S02,Union,16:00-18:00
+2025-12-17,Wednesday,S03,St George,07:00-09:00
+2025-12-17,Wednesday,S03,St George,12:00-14:00
+2025-12-17,Wednesday,S03,St George,16:00-18:00
+2025-12-17,Wednesday,S04,Kennedy,07:00-09:00
+2025-12-17,Wednesday,S04,Kennedy,12:00-14:00
+2025-12-17,Wednesday,S04,Kennedy,16:00-18:00
+2025-12-17,Wednesday,S05,Finch,07:00-09:00
+2025-12-17,Wednesday,S05,Finch,12:00-14:00
+2025-12-17,Wednesday,S05,Finch,16:00-18:00
+2025-12-17,Wednesday,S06,Kipling,07:00-09:00
+2025-12-17,Wednesday,S06,Kipling,12:00-14:00
+2025-12-17,Wednesday,S06,Kipling,16:00-18:00
+2025-12-17,Wednesday,S07,Eglinton,07:00-09:00
+2025-12-17,Wednesday,S07,Eglinton,12:00-14:00
+2025-12-17,Wednesday,S07,Eglinton,16:00-18:00
+2025-12-17,Wednesday,S08,Dundas,07:00-09:00
+2025-12-17,Wednesday,S08,Dundas,12:00-14:00
+2025-12-17,Wednesday,S08,Dundas,16:00-18:00
+2025-12-17,Wednesday,S09,Warden,07:00-09:00
+2025-12-17,Wednesday,S09,Warden,12:00-14:00
+2025-12-17,Wednesday,S09,Warden,16:00-18:00
+2025-12-17,Wednesday,S10,Victoria Park,07:00-09:00
+2025-12-17,Wednesday,S10,Victoria Park,12:00-14:00
+2025-12-17,Wednesday,S10,Victoria Park,16:00-18:00
+2025-12-17,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-17,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-17,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-17,Wednesday,S12,Don Mills,07:00-09:00
+2025-12-17,Wednesday,S12,Don Mills,12:00-14:00
+2025-12-17,Wednesday,S12,Don Mills,16:00-18:00
+2025-12-17,Wednesday,S13,Islington,07:00-09:00
+2025-12-17,Wednesday,S13,Islington,12:00-14:00
+2025-12-17,Wednesday,S13,Islington,16:00-18:00
+2025-12-17,Wednesday,S14,Spadina,07:00-09:00
+2025-12-17,Wednesday,S14,Spadina,12:00-14:00
+2025-12-17,Wednesday,S14,Spadina,16:00-18:00
+2025-12-17,Wednesday,S15,Wilson,07:00-09:00
+2025-12-17,Wednesday,S15,Wilson,12:00-14:00
+2025-12-17,Wednesday,S15,Wilson,16:00-18:00
+2025-12-18,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-12-18,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-12-18,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-12-18,Thursday,S02,Union,07:00-09:00
+2025-12-18,Thursday,S02,Union,12:00-14:00
+2025-12-18,Thursday,S02,Union,16:00-18:00
+2025-12-18,Thursday,S03,St George,07:00-09:00
+2025-12-18,Thursday,S03,St George,12:00-14:00
+2025-12-18,Thursday,S03,St George,16:00-18:00
+2025-12-18,Thursday,S04,Kennedy,07:00-09:00
+2025-12-18,Thursday,S04,Kennedy,12:00-14:00
+2025-12-18,Thursday,S04,Kennedy,16:00-18:00
+2025-12-18,Thursday,S05,Finch,07:00-09:00
+2025-12-18,Thursday,S05,Finch,12:00-14:00
+2025-12-18,Thursday,S05,Finch,16:00-18:00
+2025-12-18,Thursday,S06,Kipling,07:00-09:00
+2025-12-18,Thursday,S06,Kipling,12:00-14:00
+2025-12-18,Thursday,S06,Kipling,16:00-18:00
+2025-12-18,Thursday,S07,Eglinton,07:00-09:00
+2025-12-18,Thursday,S07,Eglinton,12:00-14:00
+2025-12-18,Thursday,S07,Eglinton,16:00-18:00
+2025-12-18,Thursday,S08,Dundas,07:00-09:00
+2025-12-18,Thursday,S08,Dundas,12:00-14:00
+2025-12-18,Thursday,S08,Dundas,16:00-18:00
+2025-12-18,Thursday,S09,Warden,07:00-09:00
+2025-12-18,Thursday,S09,Warden,12:00-14:00
+2025-12-18,Thursday,S09,Warden,16:00-18:00
+2025-12-18,Thursday,S10,Victoria Park,07:00-09:00
+2025-12-18,Thursday,S10,Victoria Park,12:00-14:00
+2025-12-18,Thursday,S10,Victoria Park,16:00-18:00
+2025-12-18,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-18,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-18,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-18,Thursday,S12,Don Mills,07:00-09:00
+2025-12-18,Thursday,S12,Don Mills,12:00-14:00
+2025-12-18,Thursday,S12,Don Mills,16:00-18:00
+2025-12-18,Thursday,S13,Islington,07:00-09:00
+2025-12-18,Thursday,S13,Islington,12:00-14:00
+2025-12-18,Thursday,S13,Islington,16:00-18:00
+2025-12-18,Thursday,S14,Spadina,07:00-09:00
+2025-12-18,Thursday,S14,Spadina,12:00-14:00
+2025-12-18,Thursday,S14,Spadina,16:00-18:00
+2025-12-18,Thursday,S15,Wilson,07:00-09:00
+2025-12-18,Thursday,S15,Wilson,12:00-14:00
+2025-12-18,Thursday,S15,Wilson,16:00-18:00
+2025-12-19,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-12-19,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-12-19,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-12-19,Friday,S02,Union,07:00-09:00
+2025-12-19,Friday,S02,Union,12:00-14:00
+2025-12-19,Friday,S02,Union,16:00-18:00
+2025-12-19,Friday,S03,St George,07:00-09:00
+2025-12-19,Friday,S03,St George,12:00-14:00
+2025-12-19,Friday,S03,St George,16:00-18:00
+2025-12-19,Friday,S04,Kennedy,07:00-09:00
+2025-12-19,Friday,S04,Kennedy,12:00-14:00
+2025-12-19,Friday,S04,Kennedy,16:00-18:00
+2025-12-19,Friday,S05,Finch,07:00-09:00
+2025-12-19,Friday,S05,Finch,12:00-14:00
+2025-12-19,Friday,S05,Finch,16:00-18:00
+2025-12-19,Friday,S06,Kipling,07:00-09:00
+2025-12-19,Friday,S06,Kipling,12:00-14:00
+2025-12-19,Friday,S06,Kipling,16:00-18:00
+2025-12-19,Friday,S07,Eglinton,07:00-09:00
+2025-12-19,Friday,S07,Eglinton,12:00-14:00
+2025-12-19,Friday,S07,Eglinton,16:00-18:00
+2025-12-19,Friday,S08,Dundas,07:00-09:00
+2025-12-19,Friday,S08,Dundas,12:00-14:00
+2025-12-19,Friday,S08,Dundas,16:00-18:00
+2025-12-19,Friday,S09,Warden,07:00-09:00
+2025-12-19,Friday,S09,Warden,12:00-14:00
+2025-12-19,Friday,S09,Warden,16:00-18:00
+2025-12-19,Friday,S10,Victoria Park,07:00-09:00
+2025-12-19,Friday,S10,Victoria Park,12:00-14:00
+2025-12-19,Friday,S10,Victoria Park,16:00-18:00
+2025-12-19,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-19,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-19,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-19,Friday,S12,Don Mills,07:00-09:00
+2025-12-19,Friday,S12,Don Mills,12:00-14:00
+2025-12-19,Friday,S12,Don Mills,16:00-18:00
+2025-12-19,Friday,S13,Islington,07:00-09:00
+2025-12-19,Friday,S13,Islington,12:00-14:00
+2025-12-19,Friday,S13,Islington,16:00-18:00
+2025-12-19,Friday,S14,Spadina,07:00-09:00
+2025-12-19,Friday,S14,Spadina,12:00-14:00
+2025-12-19,Friday,S14,Spadina,16:00-18:00
+2025-12-19,Friday,S15,Wilson,07:00-09:00
+2025-12-19,Friday,S15,Wilson,12:00-14:00
+2025-12-19,Friday,S15,Wilson,16:00-18:00
+2025-12-22,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-12-22,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-12-22,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-12-22,Monday,S02,Union,07:00-09:00
+2025-12-22,Monday,S02,Union,12:00-14:00
+2025-12-22,Monday,S02,Union,16:00-18:00
+2025-12-22,Monday,S03,St George,07:00-09:00
+2025-12-22,Monday,S03,St George,12:00-14:00
+2025-12-22,Monday,S03,St George,16:00-18:00
+2025-12-22,Monday,S04,Kennedy,07:00-09:00
+2025-12-22,Monday,S04,Kennedy,12:00-14:00
+2025-12-22,Monday,S04,Kennedy,16:00-18:00
+2025-12-22,Monday,S05,Finch,07:00-09:00
+2025-12-22,Monday,S05,Finch,12:00-14:00
+2025-12-22,Monday,S05,Finch,16:00-18:00
+2025-12-22,Monday,S06,Kipling,07:00-09:00
+2025-12-22,Monday,S06,Kipling,12:00-14:00
+2025-12-22,Monday,S06,Kipling,16:00-18:00
+2025-12-22,Monday,S07,Eglinton,07:00-09:00
+2025-12-22,Monday,S07,Eglinton,12:00-14:00
+2025-12-22,Monday,S07,Eglinton,16:00-18:00
+2025-12-22,Monday,S08,Dundas,07:00-09:00
+2025-12-22,Monday,S08,Dundas,12:00-14:00
+2025-12-22,Monday,S08,Dundas,16:00-18:00
+2025-12-22,Monday,S09,Warden,07:00-09:00
+2025-12-22,Monday,S09,Warden,12:00-14:00
+2025-12-22,Monday,S09,Warden,16:00-18:00
+2025-12-22,Monday,S10,Victoria Park,07:00-09:00
+2025-12-22,Monday,S10,Victoria Park,12:00-14:00
+2025-12-22,Monday,S10,Victoria Park,16:00-18:00
+2025-12-22,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-22,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-22,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-22,Monday,S12,Don Mills,07:00-09:00
+2025-12-22,Monday,S12,Don Mills,12:00-14:00
+2025-12-22,Monday,S12,Don Mills,16:00-18:00
+2025-12-22,Monday,S13,Islington,07:00-09:00
+2025-12-22,Monday,S13,Islington,12:00-14:00
+2025-12-22,Monday,S13,Islington,16:00-18:00
+2025-12-22,Monday,S14,Spadina,07:00-09:00
+2025-12-22,Monday,S14,Spadina,12:00-14:00
+2025-12-22,Monday,S14,Spadina,16:00-18:00
+2025-12-22,Monday,S15,Wilson,07:00-09:00
+2025-12-22,Monday,S15,Wilson,12:00-14:00
+2025-12-22,Monday,S15,Wilson,16:00-18:00
+2025-12-23,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-23,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-23,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-23,Tuesday,S02,Union,07:00-09:00
+2025-12-23,Tuesday,S02,Union,12:00-14:00
+2025-12-23,Tuesday,S02,Union,16:00-18:00
+2025-12-23,Tuesday,S03,St George,07:00-09:00
+2025-12-23,Tuesday,S03,St George,12:00-14:00
+2025-12-23,Tuesday,S03,St George,16:00-18:00
+2025-12-23,Tuesday,S04,Kennedy,07:00-09:00
+2025-12-23,Tuesday,S04,Kennedy,12:00-14:00
+2025-12-23,Tuesday,S04,Kennedy,16:00-18:00
+2025-12-23,Tuesday,S05,Finch,07:00-09:00
+2025-12-23,Tuesday,S05,Finch,12:00-14:00
+2025-12-23,Tuesday,S05,Finch,16:00-18:00
+2025-12-23,Tuesday,S06,Kipling,07:00-09:00
+2025-12-23,Tuesday,S06,Kipling,12:00-14:00
+2025-12-23,Tuesday,S06,Kipling,16:00-18:00
+2025-12-23,Tuesday,S07,Eglinton,07:00-09:00
+2025-12-23,Tuesday,S07,Eglinton,12:00-14:00
+2025-12-23,Tuesday,S07,Eglinton,16:00-18:00
+2025-12-23,Tuesday,S08,Dundas,07:00-09:00
+2025-12-23,Tuesday,S08,Dundas,12:00-14:00
+2025-12-23,Tuesday,S08,Dundas,16:00-18:00
+2025-12-23,Tuesday,S09,Warden,07:00-09:00
+2025-12-23,Tuesday,S09,Warden,12:00-14:00
+2025-12-23,Tuesday,S09,Warden,16:00-18:00
+2025-12-23,Tuesday,S10,Victoria Park,07:00-09:00
+2025-12-23,Tuesday,S10,Victoria Park,12:00-14:00
+2025-12-23,Tuesday,S10,Victoria Park,16:00-18:00
+2025-12-23,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-23,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-23,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-23,Tuesday,S12,Don Mills,07:00-09:00
+2025-12-23,Tuesday,S12,Don Mills,12:00-14:00
+2025-12-23,Tuesday,S12,Don Mills,16:00-18:00
+2025-12-23,Tuesday,S13,Islington,07:00-09:00
+2025-12-23,Tuesday,S13,Islington,12:00-14:00
+2025-12-23,Tuesday,S13,Islington,16:00-18:00
+2025-12-23,Tuesday,S14,Spadina,07:00-09:00
+2025-12-23,Tuesday,S14,Spadina,12:00-14:00
+2025-12-23,Tuesday,S14,Spadina,16:00-18:00
+2025-12-23,Tuesday,S15,Wilson,07:00-09:00
+2025-12-23,Tuesday,S15,Wilson,12:00-14:00
+2025-12-23,Tuesday,S15,Wilson,16:00-18:00
+2025-12-24,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-24,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-24,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-24,Wednesday,S02,Union,07:00-09:00
+2025-12-24,Wednesday,S02,Union,12:00-14:00
+2025-12-24,Wednesday,S02,Union,16:00-18:00
+2025-12-24,Wednesday,S03,St George,07:00-09:00
+2025-12-24,Wednesday,S03,St George,12:00-14:00
+2025-12-24,Wednesday,S03,St George,16:00-18:00
+2025-12-24,Wednesday,S04,Kennedy,07:00-09:00
+2025-12-24,Wednesday,S04,Kennedy,12:00-14:00
+2025-12-24,Wednesday,S04,Kennedy,16:00-18:00
+2025-12-24,Wednesday,S05,Finch,07:00-09:00
+2025-12-24,Wednesday,S05,Finch,12:00-14:00
+2025-12-24,Wednesday,S05,Finch,16:00-18:00
+2025-12-24,Wednesday,S06,Kipling,07:00-09:00
+2025-12-24,Wednesday,S06,Kipling,12:00-14:00
+2025-12-24,Wednesday,S06,Kipling,16:00-18:00
+2025-12-24,Wednesday,S07,Eglinton,07:00-09:00
+2025-12-24,Wednesday,S07,Eglinton,12:00-14:00
+2025-12-24,Wednesday,S07,Eglinton,16:00-18:00
+2025-12-24,Wednesday,S08,Dundas,07:00-09:00
+2025-12-24,Wednesday,S08,Dundas,12:00-14:00
+2025-12-24,Wednesday,S08,Dundas,16:00-18:00
+2025-12-24,Wednesday,S09,Warden,07:00-09:00
+2025-12-24,Wednesday,S09,Warden,12:00-14:00
+2025-12-24,Wednesday,S09,Warden,16:00-18:00
+2025-12-24,Wednesday,S10,Victoria Park,07:00-09:00
+2025-12-24,Wednesday,S10,Victoria Park,12:00-14:00
+2025-12-24,Wednesday,S10,Victoria Park,16:00-18:00
+2025-12-24,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-24,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-24,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-24,Wednesday,S12,Don Mills,07:00-09:00
+2025-12-24,Wednesday,S12,Don Mills,12:00-14:00
+2025-12-24,Wednesday,S12,Don Mills,16:00-18:00
+2025-12-24,Wednesday,S13,Islington,07:00-09:00
+2025-12-24,Wednesday,S13,Islington,12:00-14:00
+2025-12-24,Wednesday,S13,Islington,16:00-18:00
+2025-12-24,Wednesday,S14,Spadina,07:00-09:00
+2025-12-24,Wednesday,S14,Spadina,12:00-14:00
+2025-12-24,Wednesday,S14,Spadina,16:00-18:00
+2025-12-24,Wednesday,S15,Wilson,07:00-09:00
+2025-12-24,Wednesday,S15,Wilson,12:00-14:00
+2025-12-24,Wednesday,S15,Wilson,16:00-18:00
+2025-12-25,Thursday,S01,Bloor-Yonge,07:00-09:00
+2025-12-25,Thursday,S01,Bloor-Yonge,12:00-14:00
+2025-12-25,Thursday,S01,Bloor-Yonge,16:00-18:00
+2025-12-25,Thursday,S02,Union,07:00-09:00
+2025-12-25,Thursday,S02,Union,12:00-14:00
+2025-12-25,Thursday,S02,Union,16:00-18:00
+2025-12-25,Thursday,S03,St George,07:00-09:00
+2025-12-25,Thursday,S03,St George,12:00-14:00
+2025-12-25,Thursday,S03,St George,16:00-18:00
+2025-12-25,Thursday,S04,Kennedy,07:00-09:00
+2025-12-25,Thursday,S04,Kennedy,12:00-14:00
+2025-12-25,Thursday,S04,Kennedy,16:00-18:00
+2025-12-25,Thursday,S05,Finch,07:00-09:00
+2025-12-25,Thursday,S05,Finch,12:00-14:00
+2025-12-25,Thursday,S05,Finch,16:00-18:00
+2025-12-25,Thursday,S06,Kipling,07:00-09:00
+2025-12-25,Thursday,S06,Kipling,12:00-14:00
+2025-12-25,Thursday,S06,Kipling,16:00-18:00
+2025-12-25,Thursday,S07,Eglinton,07:00-09:00
+2025-12-25,Thursday,S07,Eglinton,12:00-14:00
+2025-12-25,Thursday,S07,Eglinton,16:00-18:00
+2025-12-25,Thursday,S08,Dundas,07:00-09:00
+2025-12-25,Thursday,S08,Dundas,12:00-14:00
+2025-12-25,Thursday,S08,Dundas,16:00-18:00
+2025-12-25,Thursday,S09,Warden,07:00-09:00
+2025-12-25,Thursday,S09,Warden,12:00-14:00
+2025-12-25,Thursday,S09,Warden,16:00-18:00
+2025-12-25,Thursday,S10,Victoria Park,07:00-09:00
+2025-12-25,Thursday,S10,Victoria Park,12:00-14:00
+2025-12-25,Thursday,S10,Victoria Park,16:00-18:00
+2025-12-25,Thursday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-25,Thursday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-25,Thursday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-25,Thursday,S12,Don Mills,07:00-09:00
+2025-12-25,Thursday,S12,Don Mills,12:00-14:00
+2025-12-25,Thursday,S12,Don Mills,16:00-18:00
+2025-12-25,Thursday,S13,Islington,07:00-09:00
+2025-12-25,Thursday,S13,Islington,12:00-14:00
+2025-12-25,Thursday,S13,Islington,16:00-18:00
+2025-12-25,Thursday,S14,Spadina,07:00-09:00
+2025-12-25,Thursday,S14,Spadina,12:00-14:00
+2025-12-25,Thursday,S14,Spadina,16:00-18:00
+2025-12-25,Thursday,S15,Wilson,07:00-09:00
+2025-12-25,Thursday,S15,Wilson,12:00-14:00
+2025-12-25,Thursday,S15,Wilson,16:00-18:00
+2025-12-26,Friday,S01,Bloor-Yonge,07:00-09:00
+2025-12-26,Friday,S01,Bloor-Yonge,12:00-14:00
+2025-12-26,Friday,S01,Bloor-Yonge,16:00-18:00
+2025-12-26,Friday,S02,Union,07:00-09:00
+2025-12-26,Friday,S02,Union,12:00-14:00
+2025-12-26,Friday,S02,Union,16:00-18:00
+2025-12-26,Friday,S03,St George,07:00-09:00
+2025-12-26,Friday,S03,St George,12:00-14:00
+2025-12-26,Friday,S03,St George,16:00-18:00
+2025-12-26,Friday,S04,Kennedy,07:00-09:00
+2025-12-26,Friday,S04,Kennedy,12:00-14:00
+2025-12-26,Friday,S04,Kennedy,16:00-18:00
+2025-12-26,Friday,S05,Finch,07:00-09:00
+2025-12-26,Friday,S05,Finch,12:00-14:00
+2025-12-26,Friday,S05,Finch,16:00-18:00
+2025-12-26,Friday,S06,Kipling,07:00-09:00
+2025-12-26,Friday,S06,Kipling,12:00-14:00
+2025-12-26,Friday,S06,Kipling,16:00-18:00
+2025-12-26,Friday,S07,Eglinton,07:00-09:00
+2025-12-26,Friday,S07,Eglinton,12:00-14:00
+2025-12-26,Friday,S07,Eglinton,16:00-18:00
+2025-12-26,Friday,S08,Dundas,07:00-09:00
+2025-12-26,Friday,S08,Dundas,12:00-14:00
+2025-12-26,Friday,S08,Dundas,16:00-18:00
+2025-12-26,Friday,S09,Warden,07:00-09:00
+2025-12-26,Friday,S09,Warden,12:00-14:00
+2025-12-26,Friday,S09,Warden,16:00-18:00
+2025-12-26,Friday,S10,Victoria Park,07:00-09:00
+2025-12-26,Friday,S10,Victoria Park,12:00-14:00
+2025-12-26,Friday,S10,Victoria Park,16:00-18:00
+2025-12-26,Friday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-26,Friday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-26,Friday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-26,Friday,S12,Don Mills,07:00-09:00
+2025-12-26,Friday,S12,Don Mills,12:00-14:00
+2025-12-26,Friday,S12,Don Mills,16:00-18:00
+2025-12-26,Friday,S13,Islington,07:00-09:00
+2025-12-26,Friday,S13,Islington,12:00-14:00
+2025-12-26,Friday,S13,Islington,16:00-18:00
+2025-12-26,Friday,S14,Spadina,07:00-09:00
+2025-12-26,Friday,S14,Spadina,12:00-14:00
+2025-12-26,Friday,S14,Spadina,16:00-18:00
+2025-12-26,Friday,S15,Wilson,07:00-09:00
+2025-12-26,Friday,S15,Wilson,12:00-14:00
+2025-12-26,Friday,S15,Wilson,16:00-18:00
+2025-12-29,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-12-29,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-12-29,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-12-29,Monday,S02,Union,07:00-09:00
+2025-12-29,Monday,S02,Union,12:00-14:00
+2025-12-29,Monday,S02,Union,16:00-18:00
+2025-12-29,Monday,S03,St George,07:00-09:00
+2025-12-29,Monday,S03,St George,12:00-14:00
+2025-12-29,Monday,S03,St George,16:00-18:00
+2025-12-29,Monday,S04,Kennedy,07:00-09:00
+2025-12-29,Monday,S04,Kennedy,12:00-14:00
+2025-12-29,Monday,S04,Kennedy,16:00-18:00
+2025-12-29,Monday,S05,Finch,07:00-09:00
+2025-12-29,Monday,S05,Finch,12:00-14:00
+2025-12-29,Monday,S05,Finch,16:00-18:00
+2025-12-29,Monday,S06,Kipling,07:00-09:00
+2025-12-29,Monday,S06,Kipling,12:00-14:00
+2025-12-29,Monday,S06,Kipling,16:00-18:00
+2025-12-29,Monday,S07,Eglinton,07:00-09:00
+2025-12-29,Monday,S07,Eglinton,12:00-14:00
+2025-12-29,Monday,S07,Eglinton,16:00-18:00
+2025-12-29,Monday,S08,Dundas,07:00-09:00
+2025-12-29,Monday,S08,Dundas,12:00-14:00
+2025-12-29,Monday,S08,Dundas,16:00-18:00
+2025-12-29,Monday,S09,Warden,07:00-09:00
+2025-12-29,Monday,S09,Warden,12:00-14:00
+2025-12-29,Monday,S09,Warden,16:00-18:00
+2025-12-29,Monday,S10,Victoria Park,07:00-09:00
+2025-12-29,Monday,S10,Victoria Park,12:00-14:00
+2025-12-29,Monday,S10,Victoria Park,16:00-18:00
+2025-12-29,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-29,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-29,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-29,Monday,S12,Don Mills,07:00-09:00
+2025-12-29,Monday,S12,Don Mills,12:00-14:00
+2025-12-29,Monday,S12,Don Mills,16:00-18:00
+2025-12-29,Monday,S13,Islington,07:00-09:00
+2025-12-29,Monday,S13,Islington,12:00-14:00
+2025-12-29,Monday,S13,Islington,16:00-18:00
+2025-12-29,Monday,S14,Spadina,07:00-09:00
+2025-12-29,Monday,S14,Spadina,12:00-14:00
+2025-12-29,Monday,S14,Spadina,16:00-18:00
+2025-12-29,Monday,S15,Wilson,07:00-09:00
+2025-12-29,Monday,S15,Wilson,12:00-14:00
+2025-12-29,Monday,S15,Wilson,16:00-18:00
+2025-12-30,Tuesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-30,Tuesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-30,Tuesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-30,Tuesday,S02,Union,07:00-09:00
+2025-12-30,Tuesday,S02,Union,12:00-14:00
+2025-12-30,Tuesday,S02,Union,16:00-18:00
+2025-12-30,Tuesday,S03,St George,07:00-09:00
+2025-12-30,Tuesday,S03,St George,12:00-14:00
+2025-12-30,Tuesday,S03,St George,16:00-18:00
+2025-12-30,Tuesday,S04,Kennedy,07:00-09:00
+2025-12-30,Tuesday,S04,Kennedy,12:00-14:00
+2025-12-30,Tuesday,S04,Kennedy,16:00-18:00
+2025-12-30,Tuesday,S05,Finch,07:00-09:00
+2025-12-30,Tuesday,S05,Finch,12:00-14:00
+2025-12-30,Tuesday,S05,Finch,16:00-18:00
+2025-12-30,Tuesday,S06,Kipling,07:00-09:00
+2025-12-30,Tuesday,S06,Kipling,12:00-14:00
+2025-12-30,Tuesday,S06,Kipling,16:00-18:00
+2025-12-30,Tuesday,S07,Eglinton,07:00-09:00
+2025-12-30,Tuesday,S07,Eglinton,12:00-14:00
+2025-12-30,Tuesday,S07,Eglinton,16:00-18:00
+2025-12-30,Tuesday,S08,Dundas,07:00-09:00
+2025-12-30,Tuesday,S08,Dundas,12:00-14:00
+2025-12-30,Tuesday,S08,Dundas,16:00-18:00
+2025-12-30,Tuesday,S09,Warden,07:00-09:00
+2025-12-30,Tuesday,S09,Warden,12:00-14:00
+2025-12-30,Tuesday,S09,Warden,16:00-18:00
+2025-12-30,Tuesday,S10,Victoria Park,07:00-09:00
+2025-12-30,Tuesday,S10,Victoria Park,12:00-14:00
+2025-12-30,Tuesday,S10,Victoria Park,16:00-18:00
+2025-12-30,Tuesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-30,Tuesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-30,Tuesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-30,Tuesday,S12,Don Mills,07:00-09:00
+2025-12-30,Tuesday,S12,Don Mills,12:00-14:00
+2025-12-30,Tuesday,S12,Don Mills,16:00-18:00
+2025-12-30,Tuesday,S13,Islington,07:00-09:00
+2025-12-30,Tuesday,S13,Islington,12:00-14:00
+2025-12-30,Tuesday,S13,Islington,16:00-18:00
+2025-12-30,Tuesday,S14,Spadina,07:00-09:00
+2025-12-30,Tuesday,S14,Spadina,12:00-14:00
+2025-12-30,Tuesday,S14,Spadina,16:00-18:00
+2025-12-30,Tuesday,S15,Wilson,07:00-09:00
+2025-12-30,Tuesday,S15,Wilson,12:00-14:00
+2025-12-30,Tuesday,S15,Wilson,16:00-18:00
+2025-12-31,Wednesday,S01,Bloor-Yonge,07:00-09:00
+2025-12-31,Wednesday,S01,Bloor-Yonge,12:00-14:00
+2025-12-31,Wednesday,S01,Bloor-Yonge,16:00-18:00
+2025-12-31,Wednesday,S02,Union,07:00-09:00
+2025-12-31,Wednesday,S02,Union,12:00-14:00
+2025-12-31,Wednesday,S02,Union,16:00-18:00
+2025-12-31,Wednesday,S03,St George,07:00-09:00
+2025-12-31,Wednesday,S03,St George,12:00-14:00
+2025-12-31,Wednesday,S03,St George,16:00-18:00
+2025-12-31,Wednesday,S04,Kennedy,07:00-09:00
+2025-12-31,Wednesday,S04,Kennedy,12:00-14:00
+2025-12-31,Wednesday,S04,Kennedy,16:00-18:00
+2025-12-31,Wednesday,S05,Finch,07:00-09:00
+2025-12-31,Wednesday,S05,Finch,12:00-14:00
+2025-12-31,Wednesday,S05,Finch,16:00-18:00
+2025-12-31,Wednesday,S06,Kipling,07:00-09:00
+2025-12-31,Wednesday,S06,Kipling,12:00-14:00
+2025-12-31,Wednesday,S06,Kipling,16:00-18:00
+2025-12-31,Wednesday,S07,Eglinton,07:00-09:00
+2025-12-31,Wednesday,S07,Eglinton,12:00-14:00
+2025-12-31,Wednesday,S07,Eglinton,16:00-18:00
+2025-12-31,Wednesday,S08,Dundas,07:00-09:00
+2025-12-31,Wednesday,S08,Dundas,12:00-14:00
+2025-12-31,Wednesday,S08,Dundas,16:00-18:00
+2025-12-31,Wednesday,S09,Warden,07:00-09:00
+2025-12-31,Wednesday,S09,Warden,12:00-14:00
+2025-12-31,Wednesday,S09,Warden,16:00-18:00
+2025-12-31,Wednesday,S10,Victoria Park,07:00-09:00
+2025-12-31,Wednesday,S10,Victoria Park,12:00-14:00
+2025-12-31,Wednesday,S10,Victoria Park,16:00-18:00
+2025-12-31,Wednesday,S11,Sheppard-Yonge,07:00-09:00
+2025-12-31,Wednesday,S11,Sheppard-Yonge,12:00-14:00
+2025-12-31,Wednesday,S11,Sheppard-Yonge,16:00-18:00
+2025-12-31,Wednesday,S12,Don Mills,07:00-09:00
+2025-12-31,Wednesday,S12,Don Mills,12:00-14:00
+2025-12-31,Wednesday,S12,Don Mills,16:00-18:00
+2025-12-31,Wednesday,S13,Islington,07:00-09:00
+2025-12-31,Wednesday,S13,Islington,12:00-14:00
+2025-12-31,Wednesday,S13,Islington,16:00-18:00
+2025-12-31,Wednesday,S14,Spadina,07:00-09:00
+2025-12-31,Wednesday,S14,Spadina,12:00-14:00
+2025-12-31,Wednesday,S14,Spadina,16:00-18:00
+2025-12-31,Wednesday,S15,Wilson,07:00-09:00
+2025-12-31,Wednesday,S15,Wilson,12:00-14:00
+2025-12-31,Wednesday,S15,Wilson,16:00-18:00

@@ -1,0 +1,820 @@
+Station,station_label_normalized,source_rows_2025,station_id,station,mapping_rule
+1 ST CLAIR AVENUE EAST,1 ST CLAIR AVENUE EAST,1,,,outside_sample_or_ambiguous_location
+250 BLOOR ST E,250 BLOOR ST E,1,,,outside_sample_or_ambiguous_location
+30 LOCKPORT AVE,30 LOCKPORT AVE,1,,,outside_sample_or_ambiguous_location
+35 WHITE HEATHER BLVD,35 WHITE HEATHER BLVD,1,,,outside_sample_or_ambiguous_location
+ALL OPEN CUT AREA,ALL OPEN CUT AREA,1,,,outside_sample_or_ambiguous_location
+APPRAOCHING KENNEDY BD,APPRAOCHING KENNEDY BD,1,,,outside_sample_or_ambiguous_location
+APPROACHING DUNDAS WES,APPROACHING DUNDAS WES,1,,,outside_sample_or_ambiguous_location
+APPROACHING FINCH STAT,APPROACHING FINCH STAT,1,,,outside_sample_or_ambiguous_location
+APPROACHING KIPLING,APPROACHING KIPLING,1,,,outside_sample_or_ambiguous_location
+APPROACHING KIPLING ST,APPROACHING KIPLING ST,1,,,outside_sample_or_ambiguous_location
+APPROACHING OLD MILL S,APPROACHING OLD MILL S,1,,,outside_sample_or_ambiguous_location
+ARROW GARAGE,ARROW GARAGE,1,,,outside_sample_or_ambiguous_location
+ASQUITH SUBSTATION,ASQUITH SUBSTATION,1,,,outside_sample_or_ambiguous_location
+AVENUE ECLRT STATION,AVENUE ECLRT STATION,1,,,outside_sample_or_ambiguous_location
+AVENUE STATION,AVENUE STATION,2,,,outside_sample_or_ambiguous_location
+B/W BLOOR DANFORTH SUB,B/W BLOOR DANFORTH SUB,1,,,outside_sample_or_ambiguous_location
+BATHURST AND DUPONT,BATHURST AND DUPONT,1,,,outside_sample_or_ambiguous_location
+BATHURST STATION,BATHURST STATION,314,,,outside_sample_or_ambiguous_location
+BATHURST TO CHRISTIE,BATHURST TO CHRISTIE,1,,,outside_sample_or_ambiguous_location
+BAY,BAY,1,,,outside_sample_or_ambiguous_location
+BAY LOWER,BAY LOWER,2,,,outside_sample_or_ambiguous_location
+BAY STATION,BAY STATION,212,,,outside_sample_or_ambiguous_location
+BAY STATION (CUMBERLAN,BAY STATION (CUMBERLAN,1,,,outside_sample_or_ambiguous_location
+BAY STATION (LEAVING),BAY STATION (LEAVING),1,,,outside_sample_or_ambiguous_location
+BAY STATION (LOST AND,BAY STATION (LOST AND,1,,,outside_sample_or_ambiguous_location
+BAY STATION BELAIR EXI,BAY STATION BELAIR EXI,1,,,outside_sample_or_ambiguous_location
+BAY STATION- CUMBERLAN,BAY STATION- CUMBERLAN,1,,,outside_sample_or_ambiguous_location
+BAY STATION- LOST ARTI,BAY STATION- LOST ARTI,1,,,outside_sample_or_ambiguous_location
+BAYVIEW,BAYVIEW,1,,,outside_sample_or_ambiguous_location
+BAYVIEW STATION,BAYVIEW STATION,158,,,outside_sample_or_ambiguous_location
+BAYVIEW STATION (APPRO,BAYVIEW STATION (APPRO,1,,,outside_sample_or_ambiguous_location
+BAYVIEW STATION (LEAVI,BAYVIEW STATION (LEAVI,1,,,outside_sample_or_ambiguous_location
+BAYVIEW STATION - DEPA,BAYVIEW STATION - DEPA,1,,,outside_sample_or_ambiguous_location
+BAYVIEW SUBSTATION,BAYVIEW SUBSTATION,1,,,outside_sample_or_ambiguous_location
+BESSARION STATION,BESSARION STATION,91,,,outside_sample_or_ambiguous_location
+BETWEEN SHERBOURNE AND,BETWEEN SHERBOURNE AND,1,,,outside_sample_or_ambiguous_location
+BIRCHMOUNT DIVISION,BIRCHMOUNT DIVISION,1,,,outside_sample_or_ambiguous_location
+BIRCHMOUNT EMERGENCY E,BIRCHMOUNT EMERGENCY E,1,,,outside_sample_or_ambiguous_location
+BLOOR - DANFORTH,BLOOR - DANFORTH,1,,,outside_sample_or_ambiguous_location
+BLOOR - DANFOTH JANE S,BLOOR - DANFOTH JANE S,1,,,outside_sample_or_ambiguous_location
+BLOOR DANFORTH AND YOU,BLOOR DANFORTH AND YOU,1,,,outside_sample_or_ambiguous_location
+BLOOR DANFORTH LINE,BLOOR DANFORTH LINE,2,,,outside_sample_or_ambiguous_location
+BLOOR DANFORTH LINE 2,BLOOR DANFORTH LINE 2,5,,,outside_sample_or_ambiguous_location
+BLOOR DANFORTH SUBWAY,BLOOR DANFORTH SUBWAY,5,,,outside_sample_or_ambiguous_location
+BLOOR HUB,BLOOR HUB,1,,,outside_sample_or_ambiguous_location
+BLOOR STATION,BLOOR STATION,915,S01,Bloor-Yonge,exact_station_alias
+BLOOR STATION (APPROAC,BLOOR STATION (APPROAC,1,,,outside_sample_or_ambiguous_location
+BLOOR STATION (EXITING,BLOOR STATION (EXITING,1,,,outside_sample_or_ambiguous_location
+BLOOR STATION (TOWARDS,BLOOR STATION (TOWARDS,1,,,outside_sample_or_ambiguous_location
+BLOOR STATION (UNKNOWN,BLOOR STATION (UNKNOWN,1,,,outside_sample_or_ambiguous_location
+BLOOR STATION ENTERING,BLOOR STATION ENTERING,1,,,outside_sample_or_ambiguous_location
+BLOOR STATION SOUTH,BLOOR STATION SOUTH,1,,,outside_sample_or_ambiguous_location
+BLOOR STATION TO EGLIN,BLOOR STATION TO EGLIN,1,,,outside_sample_or_ambiguous_location
+BLOOR STATION TO ROSED,BLOOR STATION TO ROSED,1,,,outside_sample_or_ambiguous_location
+BLOOR TO ROSEDALE STAT,BLOOR TO ROSEDALE STAT,1,,,outside_sample_or_ambiguous_location
+BLOOR YONGE,BLOOR YONGE,1,S01,Bloor-Yonge,exact_station_alias
+BLOOR- DANFORTH LINE,BLOOR- DANFORTH LINE,1,,,outside_sample_or_ambiguous_location
+BLOOR- DANFORTH LINE 2,BLOOR- DANFORTH LINE 2,1,,,outside_sample_or_ambiguous_location
+BLOOR-DANFORTH,BLOOR-DANFORTH,1,,,outside_sample_or_ambiguous_location
+BLOOR-DANFORTH JANE ST,BLOOR-DANFORTH JANE ST,1,,,outside_sample_or_ambiguous_location
+BLOOR-DANFORTH LINE,BLOOR-DANFORTH LINE,4,,,outside_sample_or_ambiguous_location
+BLOOR-DANFORTH LINE 2,BLOOR-DANFORTH LINE 2,3,,,outside_sample_or_ambiguous_location
+BLOOR-DANFORTH SUBWAY,BLOOR-DANFORTH SUBWAY,1,,,outside_sample_or_ambiguous_location
+BROADVIEW,BROADVIEW,1,,,outside_sample_or_ambiguous_location
+BROADVIEW STATION,BROADVIEW STATION,377,,,outside_sample_or_ambiguous_location
+BROADVIEW STATION (LEA,BROADVIEW STATION (LEA,3,,,outside_sample_or_ambiguous_location
+BROADVIEW STATION TO S,BROADVIEW STATION TO S,1,,,outside_sample_or_ambiguous_location
+BROADVIEW TO WOODBINE,BROADVIEW TO WOODBINE,1,,,outside_sample_or_ambiguous_location
+"BROADVIEW, CASTLE FRAN","BROADVIEW, CASTLE FRAN",1,,,outside_sample_or_ambiguous_location
+CALENDONIA STATION,CALENDONIA STATION,1,,,outside_sample_or_ambiguous_location
+CASTLE FRANK STATION,CASTLE FRANK STATION,183,,,outside_sample_or_ambiguous_location
+CASTLE FRANK STATION (,CASTLE FRANK STATION (,1,,,outside_sample_or_ambiguous_location
+CASTLE FRANK STATION T,CASTLE FRANK STATION T,1,,,outside_sample_or_ambiguous_location
+CEDARVALE YU STATION,CEDARVALE YU STATION,19,,,outside_sample_or_ambiguous_location
+CELEDONIA STATION,CELEDONIA STATION,1,,,outside_sample_or_ambiguous_location
+CHESTER CENTRE TRACK,CHESTER CENTRE TRACK,1,,,outside_sample_or_ambiguous_location
+CHESTER STATION,CHESTER STATION,199,,,outside_sample_or_ambiguous_location
+CHESTER STATION (APPRO,CHESTER STATION (APPRO,3,,,outside_sample_or_ambiguous_location
+CHESTER STATION (ENTER,CHESTER STATION (ENTER,1,,,outside_sample_or_ambiguous_location
+CHESTER STATION (LEAVI,CHESTER STATION (LEAVI,1,,,outside_sample_or_ambiguous_location
+CHRISTIE STATION,CHRISTIE STATION,231,,,outside_sample_or_ambiguous_location
+CHRISTIE STATION (APPR,CHRISTIE STATION (APPR,1,,,outside_sample_or_ambiguous_location
+CHRISTIE STATION (LEAV,CHRISTIE STATION (LEAV,1,,,outside_sample_or_ambiguous_location
+CHRISTIE STATION - APP,CHRISTIE STATION - APP,1,,,outside_sample_or_ambiguous_location
+CHURCH EE,CHURCH EE,1,,,outside_sample_or_ambiguous_location
+CLANTON PARK,CLANTON PARK,1,,,outside_sample_or_ambiguous_location
+COLLEGE AND BATHURST,COLLEGE AND BATHURST,1,,,outside_sample_or_ambiguous_location
+COLLEGE AND WELLESLEY,COLLEGE AND WELLESLEY,1,,,outside_sample_or_ambiguous_location
+COLLEGE STATION,COLLEGE STATION,371,,,outside_sample_or_ambiguous_location
+COLLEGE STATION LEAVIN,COLLEGE STATION LEAVIN,1,,,outside_sample_or_ambiguous_location
+COLLEGE STATION TO OSG,COLLEGE STATION TO OSG,1,,,outside_sample_or_ambiguous_location
+COLLEGE STATION TOWARD,COLLEGE STATION TOWARD,1,,,outside_sample_or_ambiguous_location
+COLLEGE TO OSGOODE LIN,COLLEGE TO OSGOODE LIN,1,,,outside_sample_or_ambiguous_location
+COLLEGE TO SHEPPARD,COLLEGE TO SHEPPARD,1,,,outside_sample_or_ambiguous_location
+COLLEGE TO SHEPPARD ST,COLLEGE TO SHEPPARD ST,1,,,outside_sample_or_ambiguous_location
+COXWELL,COXWELL,1,,,outside_sample_or_ambiguous_location
+COXWELL STATION,COXWELL STATION,350,,,outside_sample_or_ambiguous_location
+COXWELL STATION (APPRO,COXWELL STATION (APPRO,2,,,outside_sample_or_ambiguous_location
+COXWELL STATION (ENTER,COXWELL STATION (ENTER,1,,,outside_sample_or_ambiguous_location
+COXWELL STATION APPROA,COXWELL STATION APPROA,1,,,outside_sample_or_ambiguous_location
+DANFORTH DIVISION,DANFORTH DIVISION,2,,,outside_sample_or_ambiguous_location
+DANFORTH DIVSION,DANFORTH DIVSION,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE,DAVISVILLE,2,,,outside_sample_or_ambiguous_location
+DAVISVILLE - ST. CLAIR,DAVISVILLE - ST. CLAIR,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE BUILD-UP,DAVISVILLE BUILD-UP,5,,,outside_sample_or_ambiguous_location
+DAVISVILLE CAR HOUSE,DAVISVILLE CAR HOUSE,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE CARHOUSE,DAVISVILLE CARHOUSE,8,,,outside_sample_or_ambiguous_location
+DAVISVILLE CARHOUSE 13,DAVISVILLE CARHOUSE 13,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE STATION,DAVISVILLE STATION,379,,,outside_sample_or_ambiguous_location
+DAVISVILLE STATION ( B,DAVISVILLE STATION ( B,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE STATION (AP,DAVISVILLE STATION (AP,3,,,outside_sample_or_ambiguous_location
+DAVISVILLE STATION (BU,DAVISVILLE STATION (BU,4,,,outside_sample_or_ambiguous_location
+DAVISVILLE STATION (EN,DAVISVILLE STATION (EN,2,,,outside_sample_or_ambiguous_location
+DAVISVILLE STATION - B,DAVISVILLE STATION - B,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE STATION BUI,DAVISVILLE STATION BUI,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE STATION-HOL,DAVISVILLE STATION-HOL,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE STRUCTURE,DAVISVILLE STRUCTURE,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE TRACK & STR,DAVISVILLE TRACK & STR,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE TRACK AND S,DAVISVILLE TRACK AND S,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE YARD,DAVISVILLE YARD,41,,,outside_sample_or_ambiguous_location
+DAVISVILLE YARD (29 LA,DAVISVILLE YARD (29 LA,1,,,outside_sample_or_ambiguous_location
+DAVISVILLE YARD SPUR T,DAVISVILLE YARD SPUR T,1,,,outside_sample_or_ambiguous_location
+DON  MILLS STATION,DON MILLS STATION,1,S12,Don Mills,exact_station_alias
+DON MILLS,DON MILLS,1,S12,Don Mills,exact_station_alias
+DON MILLS STATION,DON MILLS STATION,309,S12,Don Mills,exact_station_alias
+DON MILLS STATION ( LE,DON MILLS STATION ( LE,1,,,outside_sample_or_ambiguous_location
+DON MILLS STATION (ENT,DON MILLS STATION (ENT,1,,,outside_sample_or_ambiguous_location
+DON MILLS STATION (LEA,DON MILLS STATION (LEA,4,,,outside_sample_or_ambiguous_location
+DON MILLS STATION (PLA,DON MILLS STATION (PLA,2,,,outside_sample_or_ambiguous_location
+DON MILLS STATION - AP,DON MILLS STATION - AP,1,,,outside_sample_or_ambiguous_location
+DON MILLS STATION - LE,DON MILLS STATION - LE,1,,,outside_sample_or_ambiguous_location
+DON MILLS STATION PLAT,DON MILLS STATION PLAT,1,S12,Don Mills,station_platform_annotation
+DON MILLS STATION(LEAV,DON MILLS STATION(LEAV,1,,,outside_sample_or_ambiguous_location
+DON MILLS STATION- PLA,DON MILLS STATION- PLA,1,,,outside_sample_or_ambiguous_location
+DONLANDS STATION,DONLANDS STATION,301,,,outside_sample_or_ambiguous_location
+DONLANDS TO GREENWOOD,DONLANDS TO GREENWOOD,1,,,outside_sample_or_ambiguous_location
+DOWNSVIEW PARK STATION,DOWNSVIEW PARK STATION,153,,,outside_sample_or_ambiguous_location
+DUFFERIN STATION,DUFFERIN STATION,243,,,outside_sample_or_ambiguous_location
+DUNCAN SHOP,DUNCAN SHOP,1,,,outside_sample_or_ambiguous_location
+DUNCAN SHOPS,DUNCAN SHOPS,1,,,outside_sample_or_ambiguous_location
+DUNCAN SHOPS BRAKE SEC,DUNCAN SHOPS BRAKE SEC,1,,,outside_sample_or_ambiguous_location
+DUNCAN SUBSTATION,DUNCAN SUBSTATION,1,,,outside_sample_or_ambiguous_location
+DUNCAN WAREHOUSE,DUNCAN WAREHOUSE,1,,,outside_sample_or_ambiguous_location
+DUNDAS,DUNDAS,1,S08,Dundas,exact_station_alias
+DUNDAS APPROACHING,DUNDAS APPROACHING,1,,,outside_sample_or_ambiguous_location
+DUNDAS STATION,DUNDAS STATION,501,S08,Dundas,exact_station_alias
+DUNDAS STATION (APPROA,DUNDAS STATION (APPROA,5,,,outside_sample_or_ambiguous_location
+DUNDAS STATION (EAST S,DUNDAS STATION (EAST S,1,,,outside_sample_or_ambiguous_location
+DUNDAS STATION (ENTERI,DUNDAS STATION (ENTERI,1,,,outside_sample_or_ambiguous_location
+DUNDAS STATION (WEST S,DUNDAS STATION (WEST S,1,,,outside_sample_or_ambiguous_location
+DUNDAS STATION - EAST,DUNDAS STATION - EAST,1,,,outside_sample_or_ambiguous_location
+DUNDAS STATION - ST CL,DUNDAS STATION - ST CL,1,,,outside_sample_or_ambiguous_location
+DUNDAS STATION E/S,DUNDAS STATION E/S,5,,,outside_sample_or_ambiguous_location
+DUNDAS STATION EAST SI,DUNDAS STATION EAST SI,2,,,outside_sample_or_ambiguous_location
+DUNDAS STATION W/S,DUNDAS STATION W/S,4,,,outside_sample_or_ambiguous_location
+DUNDAS STATION WS,DUNDAS STATION WS,1,,,outside_sample_or_ambiguous_location
+DUNDAS STATION/SUMMERH,DUNDAS STATION/SUMMERH,1,,,outside_sample_or_ambiguous_location
+DUNDAS WEST STATION,DUNDAS WEST STATION,361,,,outside_sample_or_ambiguous_location
+DUNDAS WEST STATION (A,DUNDAS WEST STATION (A,2,,,outside_sample_or_ambiguous_location
+DUNDAS WEST STATION (E,DUNDAS WEST STATION (E,1,,,outside_sample_or_ambiguous_location
+DUNDAS WEST STATION (L,DUNDAS WEST STATION (L,4,,,outside_sample_or_ambiguous_location
+DUNDAS WEST STATION -,DUNDAS WEST STATION -,2,,,outside_sample_or_ambiguous_location
+DUNDAS WEST STATION TO,DUNDAS WEST STATION TO,1,,,outside_sample_or_ambiguous_location
+DUPONT - SPADINA YUS S,DUPONT - SPADINA YUS S,1,,,outside_sample_or_ambiguous_location
+DUPONT STATION,DUPONT STATION,181,,,outside_sample_or_ambiguous_location
+DUPONT STATION (EXITIN,DUPONT STATION (EXITIN,1,,,outside_sample_or_ambiguous_location
+DUPONT TO ST GEORGE,DUPONT TO ST GEORGE,1,,,outside_sample_or_ambiguous_location
+EA BLOOR DANFORTH OSSI,EA BLOOR DANFORTH OSSI,2,,,outside_sample_or_ambiguous_location
+EARLY ACCESS CLOSURE F,EARLY ACCESS CLOSURE F,1,,,outside_sample_or_ambiguous_location
+EARLY CLOSURE,EARLY CLOSURE,1,,,outside_sample_or_ambiguous_location
+EARLY CLOSURE LINE 1 Y,EARLY CLOSURE LINE 1 Y,1,,,outside_sample_or_ambiguous_location
+EARLY CLOSURE: KIPLING,EARLY CLOSURE: KIPLING,1,,,outside_sample_or_ambiguous_location
+EGLINTON,EGLINTON,2,S07,Eglinton,exact_station_alias
+EGLINTON BUS TERMINAL,EGLINTON BUS TERMINAL,2,,,outside_sample_or_ambiguous_location
+EGLINTON STATION,EGLINTON STATION,660,S07,Eglinton,exact_station_alias
+EGLINTON STATION (APPR,EGLINTON STATION (APPR,2,,,outside_sample_or_ambiguous_location
+EGLINTON STATION (CRAS,EGLINTON STATION (CRAS,1,,,outside_sample_or_ambiguous_location
+EGLINTON STATION - FIN,EGLINTON STATION - FIN,1,,,outside_sample_or_ambiguous_location
+EGLINTON STATION - PLA,EGLINTON STATION - PLA,1,,,outside_sample_or_ambiguous_location
+EGLINTON STATION APPRO,EGLINTON STATION APPRO,1,,,outside_sample_or_ambiguous_location
+EGLINTON STATION TO FI,EGLINTON STATION TO FI,2,,,outside_sample_or_ambiguous_location
+EGLINTON TO FINCH,EGLINTON TO FINCH,1,,,outside_sample_or_ambiguous_location
+EGLINTON TO LAWRENCE S,EGLINTON TO LAWRENCE S,1,,,outside_sample_or_ambiguous_location
+EGLINTON WEST STATION,EGLINTON WEST STATION,253,,,outside_sample_or_ambiguous_location
+EGLINTON WEST STATION(,EGLINTON WEST STATION(,1,,,outside_sample_or_ambiguous_location
+ENTERING - WARDEN STAT,ENTERING - WARDEN STAT,1,,,outside_sample_or_ambiguous_location
+ENTERING END - CASTLE,ENTERING END - CASTLE,1,,,outside_sample_or_ambiguous_location
+FINCH PLATFORM,FINCH PLATFORM,1,S05,Finch,station_platform_annotation
+FINCH PLATFORM 2,FINCH PLATFORM 2,1,S05,Finch,station_platform_annotation
+FINCH STATION,FINCH STATION,791,S05,Finch,exact_station_alias
+FINCH STATION  PLATFOR,FINCH STATION PLATFOR,1,S05,Finch,station_platform_annotation
+FINCH STATION ( APPROA,FINCH STATION ( APPROA,1,,,outside_sample_or_ambiguous_location
+FINCH STATION ( PLAT 2,FINCH STATION ( PLAT 2,1,S05,Finch,station_platform_annotation
+FINCH STATION ( PLATFO,FINCH STATION ( PLATFO,5,S05,Finch,station_platform_annotation
+FINCH STATION (APPROAC,FINCH STATION (APPROAC,1,,,outside_sample_or_ambiguous_location
+FINCH STATION (FINCH P,FINCH STATION (FINCH P,1,,,outside_sample_or_ambiguous_location
+FINCH STATION (PLAT #1,FINCH STATION (PLAT #1,2,S05,Finch,station_platform_annotation
+FINCH STATION (PLAT #2,FINCH STATION (PLAT #2,1,S05,Finch,station_platform_annotation
+FINCH STATION (PLATFOR,FINCH STATION (PLATFOR,27,S05,Finch,station_platform_annotation
+FINCH STATION - 5697 Y,FINCH STATION - 5697 Y,1,,,outside_sample_or_ambiguous_location
+FINCH STATION - PLAT 1,FINCH STATION - PLAT 1,6,S05,Finch,station_platform_annotation
+FINCH STATION - PLAT 2,FINCH STATION - PLAT 2,2,S05,Finch,station_platform_annotation
+FINCH STATION - PLATFO,FINCH STATION - PLATFO,18,S05,Finch,station_platform_annotation
+FINCH STATION - TT,FINCH STATION - TT,1,,,outside_sample_or_ambiguous_location
+FINCH STATION BUS BAY,FINCH STATION BUS BAY,2,,,outside_sample_or_ambiguous_location
+FINCH STATION P1,FINCH STATION P1,1,S05,Finch,station_platform_annotation
+FINCH STATION PLAT 2,FINCH STATION PLAT 2,1,S05,Finch,station_platform_annotation
+FINCH STATION PLATFORM,FINCH STATION PLATFORM,42,S05,Finch,station_platform_annotation
+FINCH STATION TO ST GE,FINCH STATION TO ST GE,1,,,outside_sample_or_ambiguous_location
+FINCH STATION( TAIL TR,FINCH STATION( TAIL TR,1,,,outside_sample_or_ambiguous_location
+FINCH STATION(PLATFORM,FINCH STATION(PLATFORM,1,S05,Finch,station_platform_annotation
+FINCH STATION(PLATFROM,FINCH STATION(PLATFROM,1,S05,Finch,station_platform_annotation
+FINCH STATION- PLAT 1,FINCH STATION- PLAT 1,2,S05,Finch,station_platform_annotation
+FINCH STATION- PLATFOR,FINCH STATION- PLATFOR,1,S05,Finch,station_platform_annotation
+FINCH TAIL,FINCH TAIL,1,,,outside_sample_or_ambiguous_location
+FINCH TAIL #1,FINCH TAIL #1,1,,,outside_sample_or_ambiguous_location
+FINCH TAIL #2,FINCH TAIL #2,1,,,outside_sample_or_ambiguous_location
+FINCH TO EGLINTON,FINCH TO EGLINTON,1,,,outside_sample_or_ambiguous_location
+FINCH TO EGLINTON STAT,FINCH TO EGLINTON STAT,2,,,outside_sample_or_ambiguous_location
+FINCH TO ST CLAIR,FINCH TO ST CLAIR,1,,,outside_sample_or_ambiguous_location
+FINCH TO ST. CLAIR,FINCH TO ST. CLAIR,2,,,outside_sample_or_ambiguous_location
+FINCH WEST STATION,FINCH WEST STATION,163,,,outside_sample_or_ambiguous_location
+FINCH WEST STATION (AP,FINCH WEST STATION (AP,1,,,outside_sample_or_ambiguous_location
+FINCH WEST STATION (EN,FINCH WEST STATION (EN,1,,,outside_sample_or_ambiguous_location
+FINCH WEST TO PIONEER,FINCH WEST TO PIONEER,1,,,outside_sample_or_ambiguous_location
+FINCH WEST TO VMC,FINCH WEST TO VMC,1,,,outside_sample_or_ambiguous_location
+GLENCAIRN STATION,GLENCAIRN STATION,121,,,outside_sample_or_ambiguous_location
+GLENCAIRN STATION ( AP,GLENCAIRN STATION ( AP,1,,,outside_sample_or_ambiguous_location
+GOLDEN MILE STATION (E,GOLDEN MILE STATION (E,1,,,outside_sample_or_ambiguous_location
+GREENWOOD CAR HOUSE,GREENWOOD CAR HOUSE,1,,,outside_sample_or_ambiguous_location
+GREENWOOD CARHOUSE,GREENWOOD CARHOUSE,14,,,outside_sample_or_ambiguous_location
+GREENWOOD CARHOUSE - T,GREENWOOD CARHOUSE - T,1,,,outside_sample_or_ambiguous_location
+GREENWOOD COMPLEX,GREENWOOD COMPLEX,1,,,outside_sample_or_ambiguous_location
+GREENWOOD GATEHOUSE,GREENWOOD GATEHOUSE,1,,,outside_sample_or_ambiguous_location
+GREENWOOD PORTAL,GREENWOOD PORTAL,3,,,outside_sample_or_ambiguous_location
+GREENWOOD SHOP,GREENWOOD SHOP,2,,,outside_sample_or_ambiguous_location
+GREENWOOD SHOPS,GREENWOOD SHOPS,2,,,outside_sample_or_ambiguous_location
+GREENWOOD STATION,GREENWOOD STATION,298,,,outside_sample_or_ambiguous_location
+GREENWOOD STATION (APP,GREENWOOD STATION (APP,2,,,outside_sample_or_ambiguous_location
+GREENWOOD STATION (LEA,GREENWOOD STATION (LEA,2,,,outside_sample_or_ambiguous_location
+GREENWOOD TRACK BUILDI,GREENWOOD TRACK BUILDI,1,,,outside_sample_or_ambiguous_location
+GREENWOOD WOOD,GREENWOOD WOOD,1,,,outside_sample_or_ambiguous_location
+GREENWOOD WYE,GREENWOOD WYE,11,,,outside_sample_or_ambiguous_location
+GREENWOOD YARD,GREENWOOD YARD,119,,,outside_sample_or_ambiguous_location
+GREENWOOD YARD (ENTERI,GREENWOOD YARD (ENTERI,1,,,outside_sample_or_ambiguous_location
+GREENWOOD YARD ENTERIN,GREENWOOD YARD ENTERIN,1,,,outside_sample_or_ambiguous_location
+GREENWOOD YARD TRACK B,GREENWOOD YARD TRACK B,1,,,outside_sample_or_ambiguous_location
+"GREENWOOD YARD, SOUTH","GREENWOOD YARD, SOUTH",1,,,outside_sample_or_ambiguous_location
+GUNN BUILDING,GUNN BUILDING,2,,,outside_sample_or_ambiguous_location
+GUNN BUILDING - ELEVAT,GUNN BUILDING - ELEVAT,1,,,outside_sample_or_ambiguous_location
+HARVEY SHOP,HARVEY SHOP,1,,,outside_sample_or_ambiguous_location
+HIGH PARK STATION,HIGH PARK STATION,195,,,outside_sample_or_ambiguous_location
+HIGH PARK STATION (LEA,HIGH PARK STATION (LEA,1,,,outside_sample_or_ambiguous_location
+HIGHWAY 407,HIGHWAY 407,1,,,outside_sample_or_ambiguous_location
+HIGHWAY 407 STATION,HIGHWAY 407 STATION,125,,,outside_sample_or_ambiguous_location
+HILLCREST - GUNN BUILD,HILLCREST - GUNN BUILD,1,,,outside_sample_or_ambiguous_location
+HILLCREST COMPLEX,HILLCREST COMPLEX,1,,,outside_sample_or_ambiguous_location
+HILLCREST GATEHOUSE,HILLCREST GATEHOUSE,1,,,outside_sample_or_ambiguous_location
+HWY 407 STATION,HWY 407 STATION,3,,,outside_sample_or_ambiguous_location
+IMPERIAL ST (NORTH OF,IMPERIAL ST (NORTH OF,1,,,outside_sample_or_ambiguous_location
+INTERCHANGE WAY EE,INTERCHANGE WAY EE,1,,,outside_sample_or_ambiguous_location
+ISLINGTON CENTRE TRACK,ISLINGTON CENTRE TRACK,2,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION,ISLINGTON STATION,378,S13,Islington,exact_station_alias
+ISLINGTON STATION ( AP,ISLINGTON STATION ( AP,1,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION (APP,ISLINGTON STATION (APP,4,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION (CEN,ISLINGTON STATION (CEN,1,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION (ENT,ISLINGTON STATION (ENT,3,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION - KI,ISLINGTON STATION - KI,1,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION AND,ISLINGTON STATION AND,1,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION APPR,ISLINGTON STATION APPR,1,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION LEAV,ISLINGTON STATION LEAV,1,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION TO K,ISLINGTON STATION TO K,1,,,outside_sample_or_ambiguous_location
+ISLINGTON STATION( LEA,ISLINGTON STATION( LEA,1,,,outside_sample_or_ambiguous_location
+ISLINGTON TO COXWELL S,ISLINGTON TO COXWELL S,1,,,outside_sample_or_ambiguous_location
+ISLINGTON TO HIGH PARK,ISLINGTON TO HIGH PARK,1,,,outside_sample_or_ambiguous_location
+JANE AND HWY 407,JANE AND HWY 407,1,,,outside_sample_or_ambiguous_location
+JANE STATION,JANE STATION,237,,,outside_sample_or_ambiguous_location
+JANE STATION (ENTERING,JANE STATION (ENTERING,2,,,outside_sample_or_ambiguous_location
+JANE STATION (LEAVING),JANE STATION (LEAVING),1,,,outside_sample_or_ambiguous_location
+JANE STATION AND HIGHW,JANE STATION AND HIGHW,1,,,outside_sample_or_ambiguous_location
+JANE STATION TO KIPLIN,JANE STATION TO KIPLIN,1,,,outside_sample_or_ambiguous_location
+JANE STATION TO OSSING,JANE STATION TO OSSING,3,,,outside_sample_or_ambiguous_location
+JANE TO KEELE STATIONS,JANE TO KEELE STATIONS,1,,,outside_sample_or_ambiguous_location
+JANE TO OSSINGTON,JANE TO OSSINGTON,4,,,outside_sample_or_ambiguous_location
+JANE TO ST GEORGE STAT,JANE TO ST GEORGE STAT,1,,,outside_sample_or_ambiguous_location
+KEELE,KEELE,1,,,outside_sample_or_ambiguous_location
+KEELE STATION,KEELE STATION,418,,,outside_sample_or_ambiguous_location
+KEELE STATION (APPROAC,KEELE STATION (APPROAC,2,,,outside_sample_or_ambiguous_location
+KEELE STATION (ENTERIN,KEELE STATION (ENTERIN,2,,,outside_sample_or_ambiguous_location
+KEELE STATION (LEAVING,KEELE STATION (LEAVING,7,,,outside_sample_or_ambiguous_location
+KEELE STATION (RT - 76,KEELE STATION (RT - 76,1,,,outside_sample_or_ambiguous_location
+KEELE STATION - APPROA,KEELE STATION - APPROA,1,,,outside_sample_or_ambiguous_location
+KEELE STATION LEAVING,KEELE STATION LEAVING,1,,,outside_sample_or_ambiguous_location
+KEELE TO OSSINGTON,KEELE TO OSSINGTON,1,,,outside_sample_or_ambiguous_location
+KEELE YARD,KEELE YARD,11,,,outside_sample_or_ambiguous_location
+KENENDY STATION,KENENDY STATION,1,,,outside_sample_or_ambiguous_location
+KENNEDY,KENNEDY,1,S04,Kennedy,exact_station_alias
+KENNEDY BD CROSSOVER,KENNEDY BD CROSSOVER,1,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION,KENNEDY BD STATION,866,S04,Kennedy,exact_station_alias
+KENNEDY BD STATION #1,KENNEDY BD STATION #1,1,S04,Kennedy,station_platform_annotation
+KENNEDY BD STATION ( L,KENNEDY BD STATION ( L,1,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION ( P,KENNEDY BD STATION ( P,2,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION (AP,KENNEDY BD STATION (AP,10,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION (KE,KENNEDY BD STATION (KE,1,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION (LE,KENNEDY BD STATION (LE,2,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION (PL,KENNEDY BD STATION (PL,21,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION - P,KENNEDY BD STATION - P,26,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION - T,KENNEDY BD STATION - T,1,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION APP,KENNEDY BD STATION APP,1,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION PAL,KENNEDY BD STATION PAL,2,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION PL,KENNEDY BD STATION PL,3,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION PLA,KENNEDY BD STATION PLA,23,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION TAI,KENNEDY BD STATION TAI,1,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION [PL,KENNEDY BD STATION [PL,1,,,outside_sample_or_ambiguous_location
+KENNEDY BD STATION- PL,KENNEDY BD STATION- PL,2,,,outside_sample_or_ambiguous_location
+KENNEDY ECLRT STATION,KENNEDY ECLRT STATION,1,,,outside_sample_or_ambiguous_location
+KENNEDY PLATFORM 2,KENNEDY PLATFORM 2,2,S04,Kennedy,station_platform_annotation
+KENNEDY STATION,KENNEDY STATION,66,S04,Kennedy,exact_station_alias
+KENNEDY STATION (APPRO,KENNEDY STATION (APPRO,1,,,outside_sample_or_ambiguous_location
+KENNEDY STATION - PASS,KENNEDY STATION - PASS,1,,,outside_sample_or_ambiguous_location
+KENNEDY STATION PLATFO,KENNEDY STATION PLATFO,1,S04,Kennedy,station_platform_annotation
+KENNEDY STN TAIL TRACK,KENNEDY STN TAIL TRACK,1,,,outside_sample_or_ambiguous_location
+KENNEDY TO VICTORIA PA,KENNEDY TO VICTORIA PA,1,,,outside_sample_or_ambiguous_location
+KENNEDY TO WARDEN,KENNEDY TO WARDEN,1,,,outside_sample_or_ambiguous_location
+KILPING ( PLATFORM 2),KILPING ( PLATFORM 2),1,,,outside_sample_or_ambiguous_location
+KING,KING,1,,,outside_sample_or_ambiguous_location
+KING COMMERCE COURT,KING COMMERCE COURT,3,,,outside_sample_or_ambiguous_location
+KING STATION,KING STATION,306,,,outside_sample_or_ambiguous_location
+KING STATION (200 FEET,KING STATION (200 FEET,1,,,outside_sample_or_ambiguous_location
+KING STATION (APOROACH,KING STATION (APOROACH,1,,,outside_sample_or_ambiguous_location
+KING STATION (APPROACH,KING STATION (APPROACH,1,,,outside_sample_or_ambiguous_location
+KING STATION (COMMERCE,KING STATION (COMMERCE,3,,,outside_sample_or_ambiguous_location
+KING STATION 1,KING STATION 1,1,,,outside_sample_or_ambiguous_location
+KING STATION APPROACHI,KING STATION APPROACHI,1,,,outside_sample_or_ambiguous_location
+KING STATION COMMERCE,KING STATION COMMERCE,1,,,outside_sample_or_ambiguous_location
+KING TO OSGOODE,KING TO OSGOODE,1,,,outside_sample_or_ambiguous_location
+KING TO UNION,KING TO UNION,1,,,outside_sample_or_ambiguous_location
+KING TO UNION STATION,KING TO UNION STATION,1,,,outside_sample_or_ambiguous_location
+KING TO UNION STATIONS,KING TO UNION STATIONS,1,,,outside_sample_or_ambiguous_location
+KIPLING,KIPLING,1,S06,Kipling,exact_station_alias
+KIPLING BD STATION,KIPLING BD STATION,1,S06,Kipling,exact_station_alias
+KIPLING BD STATION - P,KIPLING BD STATION - P,1,,,outside_sample_or_ambiguous_location
+KIPLING PLAT #2,KIPLING PLAT #2,1,S06,Kipling,station_platform_annotation
+KIPLING PLATFORM,KIPLING PLATFORM,1,S06,Kipling,station_platform_annotation
+KIPLING PLATFORM # 1,KIPLING PLATFORM # 1,1,S06,Kipling,station_platform_annotation
+KIPLING STATION,KIPLING STATION,783,S06,Kipling,exact_station_alias
+KIPLING STATION ( APPR,KIPLING STATION ( APPR,2,,,outside_sample_or_ambiguous_location
+KIPLING STATION ( PLAT,KIPLING STATION ( PLAT,4,S06,Kipling,station_platform_annotation
+KIPLING STATION ( TAIL,KIPLING STATION ( TAIL,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION (APPRO,KIPLING STATION (APPRO,7,,,outside_sample_or_ambiguous_location
+KIPLING STATION (DEPAR,KIPLING STATION (DEPAR,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION (ENTER,KIPLING STATION (ENTER,4,,,outside_sample_or_ambiguous_location
+KIPLING STATION (EXITI,KIPLING STATION (EXITI,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION (LEAVI,KIPLING STATION (LEAVI,3,,,outside_sample_or_ambiguous_location
+KIPLING STATION (PLATF,KIPLING STATION (PLATF,12,S06,Kipling,station_platform_annotation
+KIPLING STATION (TAIL,KIPLING STATION (TAIL,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION - PLAT,KIPLING STATION - PLAT,20,S06,Kipling,station_platform_annotation
+KIPLING STATION - TAIL,KIPLING STATION - TAIL,2,,,outside_sample_or_ambiguous_location
+KIPLING STATION - [PLA,KIPLING STATION - [PLA,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION APPROA,KIPLING STATION APPROA,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION P2,KIPLING STATION P2,1,S06,Kipling,station_platform_annotation
+KIPLING STATION PLATFO,KIPLING STATION PLATFO,17,S06,Kipling,station_platform_annotation
+KIPLING STATION PLATFR,KIPLING STATION PLATFR,1,S06,Kipling,station_platform_annotation
+KIPLING STATION TAIL T,KIPLING STATION TAIL T,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION TO HIG,KIPLING STATION TO HIG,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION TO ISL,KIPLING STATION TO ISL,2,,,outside_sample_or_ambiguous_location
+KIPLING STATION TO JAN,KIPLING STATION TO JAN,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION [KIPLI,KIPLING STATION [KIPLI,1,,,outside_sample_or_ambiguous_location
+KIPLING STATION- PLATF,KIPLING STATION- PLATF,2,S06,Kipling,station_platform_annotation
+KIPLING TAIL 2,KIPLING TAIL 2,1,,,outside_sample_or_ambiguous_location
+KIPLING TO ISLINGTON S,KIPLING TO ISLINGTON S,2,,,outside_sample_or_ambiguous_location
+KIPLING TO ISLINTON ST,KIPLING TO ISLINTON ST,1,,,outside_sample_or_ambiguous_location
+KIPLING TO JANE,KIPLING TO JANE,1,,,outside_sample_or_ambiguous_location
+KIPLING TO JANE STATIO,KIPLING TO JANE STATIO,1,,,outside_sample_or_ambiguous_location
+KIPLING TO KEELE,KIPLING TO KEELE,2,,,outside_sample_or_ambiguous_location
+LANDSDOWNE STATION,LANDSDOWNE STATION,1,,,outside_sample_or_ambiguous_location
+LANSDOWN TO ISLINGTON,LANSDOWN TO ISLINGTON,1,,,outside_sample_or_ambiguous_location
+LANSDOWNE,LANSDOWNE,1,,,outside_sample_or_ambiguous_location
+LANSDOWNE STATION,LANSDOWNE STATION,180,,,outside_sample_or_ambiguous_location
+LANSDOWNE STATION APPR,LANSDOWNE STATION APPR,1,,,outside_sample_or_ambiguous_location
+LAWRENCE  STATION,LAWRENCE STATION,1,,,outside_sample_or_ambiguous_location
+LAWRENCE STATION,LAWRENCE STATION,314,,,outside_sample_or_ambiguous_location
+LAWRENCE STATION (APPR,LAWRENCE STATION (APPR,2,,,outside_sample_or_ambiguous_location
+LAWRENCE STATION APPRO,LAWRENCE STATION APPRO,1,,,outside_sample_or_ambiguous_location
+LAWRENCE STATION TO YO,LAWRENCE STATION TO YO,1,,,outside_sample_or_ambiguous_location
+LAWRENCE WEST CT,LAWRENCE WEST CT,1,,,outside_sample_or_ambiguous_location
+LAWRENCE WEST STATION,LAWRENCE WEST STATION,250,,,outside_sample_or_ambiguous_location
+LAWRENCE WEST TO SHEPP,LAWRENCE WEST TO SHEPP,1,,,outside_sample_or_ambiguous_location
+LAWRENCE WEST TO ST AN,LAWRENCE WEST TO ST AN,1,,,outside_sample_or_ambiguous_location
+LEASIDE STATION,LEASIDE STATION,5,,,outside_sample_or_ambiguous_location
+LEAVING KIPLING STATIO,LEAVING KIPLING STATIO,1,,,outside_sample_or_ambiguous_location
+LEAVING SHEPPARD STATI,LEAVING SHEPPARD STATI,1,,,outside_sample_or_ambiguous_location
+LESLIE STATION,LESLIE STATION,130,,,outside_sample_or_ambiguous_location
+LESLIE STATION ( APPRO,LESLIE STATION ( APPRO,1,,,outside_sample_or_ambiguous_location
+LESLIE STATION (APPROA,LESLIE STATION (APPROA,2,,,outside_sample_or_ambiguous_location
+LESLIE STATION - APPRO,LESLIE STATION - APPRO,1,,,outside_sample_or_ambiguous_location
+LESLIE STATION - BUS B,LESLIE STATION - BUS B,1,,,outside_sample_or_ambiguous_location
+LESLIE STATION LEAVING,LESLIE STATION LEAVING,1,,,outside_sample_or_ambiguous_location
+LIEN 1 - YONGE-UNIVERS,LIEN 1 - YONGE-UNIVERS,1,,,outside_sample_or_ambiguous_location
+LINE 1,LINE 1,3,,,outside_sample_or_ambiguous_location
+LINE 1 - EARLY ACCESS,LINE 1 - EARLY ACCESS,1,,,outside_sample_or_ambiguous_location
+LINE 1 - YONGE - UNIVE,LINE 1 - YONGE - UNIVE,2,,,outside_sample_or_ambiguous_location
+LINE 1 - YONGE UNIVERS,LINE 1 - YONGE UNIVERS,11,,,outside_sample_or_ambiguous_location
+LINE 1 - YONGE-UNIVERS,LINE 1 - YONGE-UNIVERS,26,,,outside_sample_or_ambiguous_location
+LINE 1 - YONGE-UNIVSER,LINE 1 - YONGE-UNIVSER,2,,,outside_sample_or_ambiguous_location
+LINE 1 - YONGE/UNIVERS,LINE 1 - YONGE/UNIVERS,1,,,outside_sample_or_ambiguous_location
+LINE 1 AND 2 - YONGE U,LINE 1 AND 2 - YONGE U,1,,,outside_sample_or_ambiguous_location
+LINE 1 EARLY ACCESS CL,LINE 1 EARLY ACCESS CL,1,,,outside_sample_or_ambiguous_location
+LINE 1 SUBWAY,LINE 1 SUBWAY,1,,,outside_sample_or_ambiguous_location
+LINE 1 YONGE - UNIVERS,LINE 1 YONGE - UNIVERS,2,,,outside_sample_or_ambiguous_location
+LINE 1 YONGE UNIVERSIT,LINE 1 YONGE UNIVERSIT,27,,,outside_sample_or_ambiguous_location
+LINE 1 YONGE- UNIVERSI,LINE 1 YONGE- UNIVERSI,4,,,outside_sample_or_ambiguous_location
+LINE 1 YONGE-UNIVERIST,LINE 1 YONGE-UNIVERIST,1,,,outside_sample_or_ambiguous_location
+LINE 1 YONGE-UNIVERSIT,LINE 1 YONGE-UNIVERSIT,8,,,outside_sample_or_ambiguous_location
+LINE 1 YUS / LINE 2 BD,LINE 1 YUS / LINE 2 BD,1,,,outside_sample_or_ambiguous_location
+LINE 1 YUS AND LINE 2,LINE 1 YUS AND LINE 2,1,,,outside_sample_or_ambiguous_location
+LINE 1- YONGE UNIVERSI,LINE 1- YONGE UNIVERSI,12,,,outside_sample_or_ambiguous_location
+LINE 1: YONGE-UNIVERIS,LINE 1: YONGE-UNIVERIS,1,,,outside_sample_or_ambiguous_location
+LINE 2,LINE 2,2,,,outside_sample_or_ambiguous_location
+LINE 2 - BLOOR - DANFO,LINE 2 - BLOOR - DANFO,2,,,outside_sample_or_ambiguous_location
+LINE 2 - BLOOR DANFORT,LINE 2 - BLOOR DANFORT,2,,,outside_sample_or_ambiguous_location
+LINE 2 - BLOOR-DANFORT,LINE 2 - BLOOR-DANFORT,15,,,outside_sample_or_ambiguous_location
+LINE 2 - BLOOR-DANFOTH,LINE 2 - BLOOR-DANFOTH,1,,,outside_sample_or_ambiguous_location
+LINE 2 BLOOR - DANFORT,LINE 2 BLOOR - DANFORT,2,,,outside_sample_or_ambiguous_location
+LINE 2 BLOOR DANFORTH,LINE 2 BLOOR DANFORTH,9,,,outside_sample_or_ambiguous_location
+LINE 2 BLOOR- DANFORTH,LINE 2 BLOOR- DANFORTH,2,,,outside_sample_or_ambiguous_location
+LINE 2 BLOOR-DANFORTH,LINE 2 BLOOR-DANFORTH,6,,,outside_sample_or_ambiguous_location
+LINE 2 OPEN CUT AREAS,LINE 2 OPEN CUT AREAS,1,,,outside_sample_or_ambiguous_location
+LINE 2- BLOOR DANFORTH,LINE 2- BLOOR DANFORTH,6,,,outside_sample_or_ambiguous_location
+LINE 2: BLOOR-DANFORTH,LINE 2: BLOOR-DANFORTH,1,,,outside_sample_or_ambiguous_location
+LINE 4 SHEPPARD YONGE,LINE 4 SHEPPARD YONGE,1,,,outside_sample_or_ambiguous_location
+LINE1 - YONGE-UNIVERSI,LINE1 - YONGE-UNIVERSI,1,,,outside_sample_or_ambiguous_location
+LINE1 - YONGE-UNIVSERS,LINE1 - YONGE-UNIVSERS,1,,,outside_sample_or_ambiguous_location
+LINE1 - YOUNGE-UNIVERS,LINE1 - YOUNGE-UNIVERS,1,,,outside_sample_or_ambiguous_location
+LYTTON EE,LYTTON EE,1,,,outside_sample_or_ambiguous_location
+MACDONALD CARTIER EE,MACDONALD CARTIER EE,3,,,outside_sample_or_ambiguous_location
+MACDONALD CARTIER EMER,MACDONALD CARTIER EMER,2,,,outside_sample_or_ambiguous_location
+MAIN STATION,MAIN STATION,3,,,outside_sample_or_ambiguous_location
+MAIN STREET STATION,MAIN STREET STATION,337,,,outside_sample_or_ambiguous_location
+MAIN STREET STATION (A,MAIN STREET STATION (A,1,,,outside_sample_or_ambiguous_location
+MAIN STREET STATION (L,MAIN STREET STATION (L,2,,,outside_sample_or_ambiguous_location
+MAINLINE STORAGE LOG,MAINLINE STORAGE LOG,1,,,outside_sample_or_ambiguous_location
+MALVERN GARAGE,MALVERN GARAGE,1,,,outside_sample_or_ambiguous_location
+MARKDALE EE,MARKDALE EE,1,,,outside_sample_or_ambiguous_location
+MARKDALE EMERGENCY EXI,MARKDALE EMERGENCY EXI,1,,,outside_sample_or_ambiguous_location
+MASSEY CREEK EE,MASSEY CREEK EE,1,,,outside_sample_or_ambiguous_location
+MCBRIEN BUILDING,MCBRIEN BUILDING,4,,,outside_sample_or_ambiguous_location
+MCCOWAN YARD,MCCOWAN YARD,2,,,outside_sample_or_ambiguous_location
+MCDONALD CARTIER EE,MCDONALD CARTIER EE,1,,,outside_sample_or_ambiguous_location
+MORNINGSIDE AND LAWREN,MORNINGSIDE AND LAWREN,1,,,outside_sample_or_ambiguous_location
+MOUNT DENNIS DIVISION,MOUNT DENNIS DIVISION,1,,,outside_sample_or_ambiguous_location
+MUSEUM - OSGOODE,MUSEUM - OSGOODE,1,,,outside_sample_or_ambiguous_location
+MUSEUM STATION,MUSEUM STATION,158,,,outside_sample_or_ambiguous_location
+MUSEUM STATION',MUSEUM STATION',1,,,outside_sample_or_ambiguous_location
+N/END YORK MILLS TO S/,N/END YORK MILLS TO S/,2,,,outside_sample_or_ambiguous_location
+N/O COLLEGE TO S/END S,N/O COLLEGE TO S/END S,1,,,outside_sample_or_ambiguous_location
+N/O FINCH  TO S/O NORT,N/O FINCH TO S/O NORT,1,,,outside_sample_or_ambiguous_location
+N/O FINCH TO S/O NORTH,N/O FINCH TO S/O NORTH,1,,,outside_sample_or_ambiguous_location
+N/O LAWRENCE WEST STAT,N/O LAWRENCE WEST STAT,1,,,outside_sample_or_ambiguous_location
+NORTH HOSTLER - FIRE D,NORTH HOSTLER - FIRE D,1,,,outside_sample_or_ambiguous_location
+NORTH YORK CENTRE,NORTH YORK CENTRE,7,,,outside_sample_or_ambiguous_location
+NORTH YORK CENTRE STAT,NORTH YORK CENTRE STAT,20,,,outside_sample_or_ambiguous_location
+NORTH YORK CTR STATION,NORTH YORK CTR STATION,176,,,outside_sample_or_ambiguous_location
+NORTH YORK STATION,NORTH YORK STATION,2,,,outside_sample_or_ambiguous_location
+OLD MILL STATION,OLD MILL STATION,187,,,outside_sample_or_ambiguous_location
+OLD MILL STATION (APPR,OLD MILL STATION (APPR,1,,,outside_sample_or_ambiguous_location
+OLD MILL STATION (ENTE,OLD MILL STATION (ENTE,6,,,outside_sample_or_ambiguous_location
+OLD MILL STATION (LEAV,OLD MILL STATION (LEAV,1,,,outside_sample_or_ambiguous_location
+OLD MILLS STATION,OLD MILLS STATION,1,,,outside_sample_or_ambiguous_location
+OPEN CUT AREAS,OPEN CUT AREAS,1,,,outside_sample_or_ambiguous_location
+OSGOODE POCKET,OSGOODE POCKET,2,,,outside_sample_or_ambiguous_location
+OSGOODE STATION,OSGOODE STATION,223,,,outside_sample_or_ambiguous_location
+OSGOODE STATION (ENTER,OSGOODE STATION (ENTER,1,,,outside_sample_or_ambiguous_location
+OSGOODE STATION TO COL,OSGOODE STATION TO COL,1,,,outside_sample_or_ambiguous_location
+OSGOODE TO BLOOR,OSGOODE TO BLOOR,1,,,outside_sample_or_ambiguous_location
+OSGOODE TO COLLEGE,OSGOODE TO COLLEGE,2,,,outside_sample_or_ambiguous_location
+OSSINGTON ( APPROACHIN,OSSINGTON ( APPROACHIN,1,,,outside_sample_or_ambiguous_location
+OSSINGTON CENTRE TRACK,OSSINGTON CENTRE TRACK,5,,,outside_sample_or_ambiguous_location
+OSSINGTON STATION,OSSINGTON STATION,316,,,outside_sample_or_ambiguous_location
+OSSINGTON STATION (APP,OSSINGTON STATION (APP,2,,,outside_sample_or_ambiguous_location
+OSSINGTON STATION (LEA,OSSINGTON STATION (LEA,4,,,outside_sample_or_ambiguous_location
+OSSINGTON STATION - ST,OSSINGTON STATION - ST,3,,,outside_sample_or_ambiguous_location
+OSSINGTON STATION TO S,OSSINGTON STATION TO S,1,,,outside_sample_or_ambiguous_location
+OSSINGTON STATION TOWA,OSSINGTON STATION TOWA,1,,,outside_sample_or_ambiguous_location
+OSSINGTON TO JANE,OSSINGTON TO JANE,1,,,outside_sample_or_ambiguous_location
+OSSINGTON TO KEELE STA,OSSINGTON TO KEELE STA,1,,,outside_sample_or_ambiguous_location
+OSSINGTON TO ST GEORGE,OSSINGTON TO ST GEORGE,2,,,outside_sample_or_ambiguous_location
+PAPE,PAPE,1,,,outside_sample_or_ambiguous_location
+PAPE STATION,PAPE STATION,234,,,outside_sample_or_ambiguous_location
+PAPE STATION (APPROACH,PAPE STATION (APPROACH,1,,,outside_sample_or_ambiguous_location
+PIONEER VILLAGE AND VA,PIONEER VILLAGE AND VA,1,,,outside_sample_or_ambiguous_location
+PIONEER VILLAGE STATIO,PIONEER VILLAGE STATIO,129,,,outside_sample_or_ambiguous_location
+PIONEER VILLAGE TO VAU,PIONEER VILLAGE TO VAU,1,,,outside_sample_or_ambiguous_location
+QUEEN ALBERT,QUEEN ALBERT,2,,,outside_sample_or_ambiguous_location
+QUEEN QUAY STATION,QUEEN QUAY STATION,1,,,outside_sample_or_ambiguous_location
+QUEEN STATION,QUEEN STATION,306,,,outside_sample_or_ambiguous_location
+QUEEN STATION (EAST SI,QUEEN STATION (EAST SI,3,,,outside_sample_or_ambiguous_location
+QUEEN STATION (WEST SI,QUEEN STATION (WEST SI,1,,,outside_sample_or_ambiguous_location
+QUEEN STATION - ALBERT,QUEEN STATION - ALBERT,2,,,outside_sample_or_ambiguous_location
+QUEEN STATION - EAST S,QUEEN STATION - EAST S,1,,,outside_sample_or_ambiguous_location
+QUEEN STATION - W/S,QUEEN STATION - W/S,1,,,outside_sample_or_ambiguous_location
+QUEEN STATION - WEST S,QUEEN STATION - WEST S,1,,,outside_sample_or_ambiguous_location
+QUEEN STATION E/S,QUEEN STATION E/S,3,,,outside_sample_or_ambiguous_location
+QUEEN STATION TO ST AN,QUEEN STATION TO ST AN,1,,,outside_sample_or_ambiguous_location
+QUEEN STATION WEST SID,QUEEN STATION WEST SID,1,,,outside_sample_or_ambiguous_location
+QUEEN STATION- EAST SI,QUEEN STATION- EAST SI,1,,,outside_sample_or_ambiguous_location
+QUEEN TO MUSEUM STATIO,QUEEN TO MUSEUM STATIO,1,,,outside_sample_or_ambiguous_location
+QUEEN'S PARK STATION,QUEEN'S PARK STATION,208,,,outside_sample_or_ambiguous_location
+QUEEN'S PARK STATION (,QUEEN'S PARK STATION (,4,,,outside_sample_or_ambiguous_location
+QUEENS PARK STATION,QUEENS PARK STATION,1,,,outside_sample_or_ambiguous_location
+QUEENS QUAY STATION,QUEENS QUAY STATION,1,,,outside_sample_or_ambiguous_location
+ROSEDALE STATION,ROSEDALE STATION,245,,,outside_sample_or_ambiguous_location
+ROSEDALE STATION (APPR,ROSEDALE STATION (APPR,1,,,outside_sample_or_ambiguous_location
+ROSEDALE STATION (ENTE,ROSEDALE STATION (ENTE,1,,,outside_sample_or_ambiguous_location
+ROSEDALE-WELLESLEY STA,ROSEDALE-WELLESLEY STA,1,,,outside_sample_or_ambiguous_location
+ROYAL YORK STATION,ROYAL YORK STATION,250,,,outside_sample_or_ambiguous_location
+ROYAL YORK STATION (AP,ROYAL YORK STATION (AP,1,,,outside_sample_or_ambiguous_location
+ROYAL YORK TO DONLANDS,ROYAL YORK TO DONLANDS,1,,,outside_sample_or_ambiguous_location
+RUNNYMEDE STATION,RUNNYMEDE STATION,174,,,outside_sample_or_ambiguous_location
+RUNNYMEDE STATION (LEA,RUNNYMEDE STATION (LEA,1,,,outside_sample_or_ambiguous_location
+RUNNYMEDE STATION -  A,RUNNYMEDE STATION - A,1,,,outside_sample_or_ambiguous_location
+RUSSELL SUBSTATION,RUSSELL SUBSTATION,1,,,outside_sample_or_ambiguous_location
+SCABOROUGH TOWN CENTRE,SCABOROUGH TOWN CENTRE,1,,,outside_sample_or_ambiguous_location
+SCARBOROUGH CENTRE STA,SCARBOROUGH CENTRE STA,1,,,outside_sample_or_ambiguous_location
+SCARBOROUGH CTR STATIO,SCARBOROUGH CTR STATIO,9,,,outside_sample_or_ambiguous_location
+SCARBOROUGH TOWN CENTE,SCARBOROUGH TOWN CENTE,1,,,outside_sample_or_ambiguous_location
+SCARBOROUGH TOWN CENTR,SCARBOROUGH TOWN CENTR,2,,,outside_sample_or_ambiguous_location
+SHEPPARD  AND YORK MIL,SHEPPARD AND YORK MIL,1,,,outside_sample_or_ambiguous_location
+SHEPPARD - YONGE STATI,SHEPPARD - YONGE STATI,1,S11,Sheppard-Yonge,exact_station_alias
+SHEPPARD HUB,SHEPPARD HUB,1,,,outside_sample_or_ambiguous_location
+SHEPPARD SIGNAL POWER,SHEPPARD SIGNAL POWER,1,,,outside_sample_or_ambiguous_location
+SHEPPARD STATION,SHEPPARD STATION,281,S11,Sheppard-Yonge,exact_station_alias
+SHEPPARD STATION (APPR,SHEPPARD STATION (APPR,4,,,outside_sample_or_ambiguous_location
+SHEPPARD STATION - APP,SHEPPARD STATION - APP,1,,,outside_sample_or_ambiguous_location
+SHEPPARD STATION TO CO,SHEPPARD STATION TO CO,2,,,outside_sample_or_ambiguous_location
+SHEPPARD STATION TO YO,SHEPPARD STATION TO YO,1,,,outside_sample_or_ambiguous_location
+SHEPPARD SUBSTATION,SHEPPARD SUBSTATION,1,,,outside_sample_or_ambiguous_location
+SHEPPARD TAIL,SHEPPARD TAIL,1,,,outside_sample_or_ambiguous_location
+SHEPPARD TO COLLEGE ST,SHEPPARD TO COLLEGE ST,1,,,outside_sample_or_ambiguous_location
+SHEPPARD TO EGLINTON,SHEPPARD TO EGLINTON,1,,,outside_sample_or_ambiguous_location
+SHEPPARD TO EGLINTON L,SHEPPARD TO EGLINTON L,1,,,outside_sample_or_ambiguous_location
+SHEPPARD WEST - FINCH,SHEPPARD WEST - FINCH,1,,,outside_sample_or_ambiguous_location
+SHEPPARD WEST - LAWREN,SHEPPARD WEST - LAWREN,1,,,outside_sample_or_ambiguous_location
+SHEPPARD WEST STATION,SHEPPARD WEST STATION,338,,,outside_sample_or_ambiguous_location
+SHEPPARD WEST TO FINCH,SHEPPARD WEST TO FINCH,1,,,outside_sample_or_ambiguous_location
+SHEPPARD WEST TO WILSO,SHEPPARD WEST TO WILSO,1,,,outside_sample_or_ambiguous_location
+SHEPPARD YONGE STATION,SHEPPARD YONGE STATION,1,S11,Sheppard-Yonge,exact_station_alias
+SHEPPARD- YONGE STATIO,SHEPPARD- YONGE STATIO,1,S11,Sheppard-Yonge,exact_station_alias
+SHEPPARD-YONGE,SHEPPARD-YONGE,1,S11,Sheppard-Yonge,exact_station_alias
+SHEPPARD-YONGE STATION,SHEPPARD-YONGE STATION,306,S11,Sheppard-Yonge,exact_station_alias
+SHEPPARD-YONGE TAIL TR,SHEPPARD-YONGE TAIL TR,2,,,outside_sample_or_ambiguous_location
+SHEPPARDSTATION,SHEPPARDSTATION,1,S11,Sheppard-Yonge,exact_station_alias
+SHERBOURNE STATION,SHERBOURNE STATION,324,,,outside_sample_or_ambiguous_location
+SHPPARD STATION,SHPPARD STATION,1,,,outside_sample_or_ambiguous_location
+SHPPARD STATION TO COL,SHPPARD STATION TO COL,1,,,outside_sample_or_ambiguous_location
+SOUTH HOSTLER,SOUTH HOSTLER,4,,,outside_sample_or_ambiguous_location
+SPADINA BD STATION,SPADINA BD STATION,290,S14,Spadina,exact_station_alias
+SPADINA STATION,SPADINA STATION,43,S14,Spadina,exact_station_alias
+SPADINA TO ST GEORGE B,SPADINA TO ST GEORGE B,1,,,outside_sample_or_ambiguous_location
+SPADINA YUS STATION,SPADINA YUS STATION,215,S14,Spadina,exact_station_alias
+SPADINA YUS STATION TO,SPADINA YUS STATION TO,1,,,outside_sample_or_ambiguous_location
+SPADINA YUS STATION- K,SPADINA YUS STATION- K,1,,,outside_sample_or_ambiguous_location
+ST  ANDREW TO UNION,ST ANDREW TO UNION,1,,,outside_sample_or_ambiguous_location
+ST ANDREW,ST ANDREW,1,,,outside_sample_or_ambiguous_location
+ST ANDREW STATION,ST ANDREW STATION,195,,,outside_sample_or_ambiguous_location
+ST ANDREW STATION - ST,ST ANDREW STATION - ST,2,,,outside_sample_or_ambiguous_location
+ST ANDREW STATION - UN,ST ANDREW STATION - UN,1,,,outside_sample_or_ambiguous_location
+ST ANDREW STATION TO S,ST ANDREW STATION TO S,4,,,outside_sample_or_ambiguous_location
+ST ANDREW STATION TO U,ST ANDREW STATION TO U,1,,,outside_sample_or_ambiguous_location
+ST ANDREW TO ST CLAIR,ST ANDREW TO ST CLAIR,1,,,outside_sample_or_ambiguous_location
+ST ANDREW TO ST GEORGE,ST ANDREW TO ST GEORGE,3,,,outside_sample_or_ambiguous_location
+ST CLAIR,ST CLAIR,1,,,outside_sample_or_ambiguous_location
+ST CLAIR E OF YONGE,ST CLAIR E OF YONGE,1,,,outside_sample_or_ambiguous_location
+ST CLAIR STATION,ST CLAIR STATION,406,,,outside_sample_or_ambiguous_location
+ST CLAIR STATION (ENTE,ST CLAIR STATION (ENTE,1,,,outside_sample_or_ambiguous_location
+ST CLAIR STATION (LEAV,ST CLAIR STATION (LEAV,1,,,outside_sample_or_ambiguous_location
+ST CLAIR STATION - FIN,ST CLAIR STATION - FIN,1,,,outside_sample_or_ambiguous_location
+ST CLAIR STATION - UPP,ST CLAIR STATION - UPP,1,,,outside_sample_or_ambiguous_location
+ST CLAIR STATION TO CO,ST CLAIR STATION TO CO,1,,,outside_sample_or_ambiguous_location
+ST CLAIR TO ST ANDREW,ST CLAIR TO ST ANDREW,1,,,outside_sample_or_ambiguous_location
+ST CLAIR TO YORK MILLS,ST CLAIR TO YORK MILLS,1,,,outside_sample_or_ambiguous_location
+ST CLAIR WEST,ST CLAIR WEST,1,,,outside_sample_or_ambiguous_location
+ST CLAIR WEST AUTOMATI,ST CLAIR WEST AUTOMATI,1,,,outside_sample_or_ambiguous_location
+ST CLAIR WEST STATION,ST CLAIR WEST STATION,310,,,outside_sample_or_ambiguous_location
+ST CLAIR WEST TO ST AN,ST CLAIR WEST TO ST AN,4,,,outside_sample_or_ambiguous_location
+ST GEORGE  STATION TO,ST GEORGE STATION TO,1,,,outside_sample_or_ambiguous_location
+ST GEORGE (YUS) STATIO,ST GEORGE (YUS) STATIO,1,S03,St George,exact_station_alias
+ST GEORGE - DUPONT STA,ST GEORGE - DUPONT STA,1,,,outside_sample_or_ambiguous_location
+ST GEORGE BD STATION,ST GEORGE BD STATION,324,S03,St George,exact_station_alias
+ST GEORGE BD STATION (,ST GEORGE BD STATION (,4,,,outside_sample_or_ambiguous_location
+ST GEORGE BD STATION-B,ST GEORGE BD STATION-B,1,,,outside_sample_or_ambiguous_location
+ST GEORGE STATION,ST GEORGE STATION,9,S03,St George,exact_station_alias
+ST GEORGE STATION - OS,ST GEORGE STATION - OS,1,,,outside_sample_or_ambiguous_location
+ST GEORGE TO BROADVIEW,ST GEORGE TO BROADVIEW,1,,,outside_sample_or_ambiguous_location
+ST GEORGE TO LAWRENCE,ST GEORGE TO LAWRENCE,1,,,outside_sample_or_ambiguous_location
+ST GEORGE TO SPADINA,ST GEORGE TO SPADINA,1,,,outside_sample_or_ambiguous_location
+ST GEORGE YU STATION,ST GEORGE YU STATION,1,S03,St George,exact_station_alias
+ST GEORGE YUS STATION,ST GEORGE YUS STATION,351,S03,St George,exact_station_alias
+ST PATRICK STATION,ST PATRICK STATION,184,,,outside_sample_or_ambiguous_location
+ST PATRICK STATION (LE,ST PATRICK STATION (LE,1,,,outside_sample_or_ambiguous_location
+ST PATRICK STATION TO,ST PATRICK STATION TO,1,,,outside_sample_or_ambiguous_location
+ST. ANDREW STATION,ST. ANDREW STATION,7,,,outside_sample_or_ambiguous_location
+ST. CLAIR STATION,ST. CLAIR STATION,9,,,outside_sample_or_ambiguous_location
+ST. CLAIR TO BLOOR,ST. CLAIR TO BLOOR,1,,,outside_sample_or_ambiguous_location
+ST. CLAIR WEST,ST. CLAIR WEST,1,,,outside_sample_or_ambiguous_location
+ST. CLAIR WEST STATION,ST. CLAIR WEST STATION,9,,,outside_sample_or_ambiguous_location
+ST. CLAIR WEST TO ST.,ST. CLAIR WEST TO ST.,1,,,outside_sample_or_ambiguous_location
+ST. GEORGE STATION,ST. GEORGE STATION,16,S03,St George,exact_station_alias
+ST. GEORGE TO ST. ANDR,ST. GEORGE TO ST. ANDR,2,,,outside_sample_or_ambiguous_location
+ST. PATRICK STATION,ST. PATRICK STATION,5,,,outside_sample_or_ambiguous_location
+STC,STC,1,,,outside_sample_or_ambiguous_location
+STR. CLAIR WEST STATIO,STR. CLAIR WEST STATIO,1,,,outside_sample_or_ambiguous_location
+SUBWAY CLOSURE,SUBWAY CLOSURE,1,,,outside_sample_or_ambiguous_location
+SUBWAY CLOSURE: KIPLIN,SUBWAY CLOSURE: KIPLIN,2,,,outside_sample_or_ambiguous_location
+SUBWAY CLOSURE: LAWREN,SUBWAY CLOSURE: LAWREN,1,,,outside_sample_or_ambiguous_location
+SUBWAY OPS BLDG,SUBWAY OPS BLDG,1,,,outside_sample_or_ambiguous_location
+SUBWAY OPS BUILDING,SUBWAY OPS BUILDING,1,,,outside_sample_or_ambiguous_location
+SUBWAY: LINE 1 (YONGE-,SUBWAY: LINE 1 (YONGE-,1,,,outside_sample_or_ambiguous_location
+SUMMERHILL STATION,SUMMERHILL STATION,166,,,outside_sample_or_ambiguous_location
+SYSTEM WIDE,SYSTEM WIDE,2,,,outside_sample_or_ambiguous_location
+SYSTEMWIDE,SYSTEMWIDE,2,,,outside_sample_or_ambiguous_location
+TEDDINGTON EE,TEDDINGTON EE,3,,,outside_sample_or_ambiguous_location
+THE POND EMERGENCY EXI,THE POND EMERGENCY EXI,1,,,outside_sample_or_ambiguous_location
+TMU STATION,TMU STATION,49,,,outside_sample_or_ambiguous_location
+TMU STATION (APPROACHI,TMU STATION (APPROACHI,1,,,outside_sample_or_ambiguous_location
+TORO RD EE,TORO RD EE,1,,,outside_sample_or_ambiguous_location
+TORONTO TRANSIT COMMII,TORONTO TRANSIT COMMII,1,,,outside_sample_or_ambiguous_location
+TORONTO TRANSIT COMMIS,TORONTO TRANSIT COMMIS,52,,,outside_sample_or_ambiguous_location
+TOROTOTO TRANSIT COMMI,TOROTOTO TRANSIT COMMI,1,,,outside_sample_or_ambiguous_location
+TRACK ACTIVIVITY LOG,TRACK ACTIVIVITY LOG,1,,,outside_sample_or_ambiguous_location
+TRACK LEVEL ACTIVITY,TRACK LEVEL ACTIVITY,1,,,outside_sample_or_ambiguous_location
+TRANSIT CONTROL,TRANSIT CONTROL,1,,,outside_sample_or_ambiguous_location
+TRANSIT CONTROL CENTRE,TRANSIT CONTROL CENTRE,1,,,outside_sample_or_ambiguous_location
+UNION,UNION,1,S02,Union,exact_station_alias
+UNION - TO ST ANDREW,UNION - TO ST ANDREW,1,,,outside_sample_or_ambiguous_location
+UNION CENTER TRACK,UNION CENTER TRACK,1,,,outside_sample_or_ambiguous_location
+UNION STATION,UNION STATION,473,S02,Union,exact_station_alias
+UNION STATION ( TOWARD,UNION STATION ( TOWARD,1,,,outside_sample_or_ambiguous_location
+UNION STATION (B/W),UNION STATION (B/W),1,,,outside_sample_or_ambiguous_location
+UNION STATION (CENTRE,UNION STATION (CENTRE,1,,,outside_sample_or_ambiguous_location
+UNION STATION (ENTERIN,UNION STATION (ENTERIN,2,,,outside_sample_or_ambiguous_location
+UNION STATION (TO FINC,UNION STATION (TO FINC,1,,,outside_sample_or_ambiguous_location
+UNION STATION (TO KING,UNION STATION (TO KING,7,,,outside_sample_or_ambiguous_location
+UNION STATION (TO ST A,UNION STATION (TO ST A,3,,,outside_sample_or_ambiguous_location
+UNION STATION (TO VMC),UNION STATION (TO VMC),1,,,outside_sample_or_ambiguous_location
+UNION STATION (TOWARDS,UNION STATION (TOWARDS,17,,,outside_sample_or_ambiguous_location
+UNION STATION (UNIVERS,UNION STATION (UNIVERS,1,,,outside_sample_or_ambiguous_location
+UNION STATION (YONGE L,UNION STATION (YONGE L,1,,,outside_sample_or_ambiguous_location
+UNION STATION (YONGE P,UNION STATION (YONGE P,1,,,outside_sample_or_ambiguous_location
+UNION STATION - BOOTH,UNION STATION - BOOTH,1,,,outside_sample_or_ambiguous_location
+UNION STATION - KING,UNION STATION - KING,1,,,outside_sample_or_ambiguous_location
+UNION STATION - NB TO,UNION STATION - NB TO,1,,,outside_sample_or_ambiguous_location
+UNION STATION - ST AND,UNION STATION - ST AND,5,,,outside_sample_or_ambiguous_location
+UNION STATION - TO KIN,UNION STATION - TO KIN,2,,,outside_sample_or_ambiguous_location
+UNION STATION - TO ST,UNION STATION - TO ST,1,,,outside_sample_or_ambiguous_location
+UNION STATION 1,UNION STATION 1,1,S02,Union,station_platform_annotation
+UNION STATION TO  KING,UNION STATION TO KING,1,,,outside_sample_or_ambiguous_location
+UNION STATION TO FINCH,UNION STATION TO FINCH,1,,,outside_sample_or_ambiguous_location
+UNION STATION TO KING,UNION STATION TO KING,32,,,outside_sample_or_ambiguous_location
+UNION STATION TO ST AN,UNION STATION TO ST AN,22,,,outside_sample_or_ambiguous_location
+UNION STATION TO ST. A,UNION STATION TO ST. A,2,,,outside_sample_or_ambiguous_location
+UNION STATION TO VMC,UNION STATION TO VMC,1,,,outside_sample_or_ambiguous_location
+UNION STATION TOWARD K,UNION STATION TOWARD K,1,,,outside_sample_or_ambiguous_location
+UNION STATION TOWARD S,UNION STATION TOWARD S,2,,,outside_sample_or_ambiguous_location
+UNION STATION TOWARDS,UNION STATION TOWARDS,9,,,outside_sample_or_ambiguous_location
+UNION STATION- KING,UNION STATION- KING,1,,,outside_sample_or_ambiguous_location
+UNION STATION- ST ANDR,UNION STATION- ST ANDR,1,,,outside_sample_or_ambiguous_location
+UNION STATION- TO ST A,UNION STATION- TO ST A,1,,,outside_sample_or_ambiguous_location
+UNION TO KING,UNION TO KING,5,,,outside_sample_or_ambiguous_location
+UNION TO KING STATION,UNION TO KING STATION,1,,,outside_sample_or_ambiguous_location
+UNION TO KING STATIONS,UNION TO KING STATIONS,6,,,outside_sample_or_ambiguous_location
+UNION TO ST ANDREW,UNION TO ST ANDREW,5,,,outside_sample_or_ambiguous_location
+UNION TO ST ANDREW PLA,UNION TO ST ANDREW PLA,1,,,outside_sample_or_ambiguous_location
+UNION TO ST ANDREW STA,UNION TO ST ANDREW STA,6,,,outside_sample_or_ambiguous_location
+UNION TOWARD ST ANDREW,UNION TOWARD ST ANDREW,1,,,outside_sample_or_ambiguous_location
+UNION TOWARDS TO KING,UNION TOWARDS TO KING,1,,,outside_sample_or_ambiguous_location
+UNKNOWN LOCATION,UNKNOWN LOCATION,1,,,outside_sample_or_ambiguous_location
+VARIOUS LOCATIONS,VARIOUS LOCATIONS,1,,,outside_sample_or_ambiguous_location
+VARIOUS LOCATIONS LINE,VARIOUS LOCATIONS LINE,1,,,outside_sample_or_ambiguous_location
+VARIOUS STATIONS,VARIOUS STATIONS,1,,,outside_sample_or_ambiguous_location
+VARIOUS STATIONS - SYS,VARIOUS STATIONS - SYS,1,,,outside_sample_or_ambiguous_location
+VAUGHAN MC STATION,VAUGHAN MC STATION,63,,,outside_sample_or_ambiguous_location
+VAUGHAN MC STATION  -,VAUGHAN MC STATION -,1,,,outside_sample_or_ambiguous_location
+VAUGHAN MC STATION (PL,VAUGHAN MC STATION (PL,3,,,outside_sample_or_ambiguous_location
+VAUGHAN MC STATION - P,VAUGHAN MC STATION - P,1,,,outside_sample_or_ambiguous_location
+VAUGHAN MC STATION PLA,VAUGHAN MC STATION PLA,8,,,outside_sample_or_ambiguous_location
+VAUGHAN MC STATION- PL,VAUGHAN MC STATION- PL,2,,,outside_sample_or_ambiguous_location
+VAUGHAN METRO CENTRE,VAUGHAN METRO CENTRE,1,,,outside_sample_or_ambiguous_location
+VAUGHAN METRO CENTRE S,VAUGHAN METRO CENTRE S,1,,,outside_sample_or_ambiguous_location
+VICTORIA PARK - WARDEN,VICTORIA PARK - WARDEN,1,,,outside_sample_or_ambiguous_location
+VICTORIA PARK STATION,VICTORIA PARK STATION,468,S10,Victoria Park,exact_station_alias
+VICTORIA PARK TO KENNE,VICTORIA PARK TO KENNE,3,,,outside_sample_or_ambiguous_location
+VICTORIA PARK TO WARDE,VICTORIA PARK TO WARDE,5,,,outside_sample_or_ambiguous_location
+VMC,VMC,2,,,outside_sample_or_ambiguous_location
+VMC PL 1,VMC PL 1,1,,,outside_sample_or_ambiguous_location
+VMC PLATFORM # 1,VMC PLATFORM # 1,1,,,outside_sample_or_ambiguous_location
+VMC PLATFORM 1,VMC PLATFORM 1,2,,,outside_sample_or_ambiguous_location
+VMC STATION,VMC STATION,391,,,outside_sample_or_ambiguous_location
+VMC STATION ( PLAT 2 ),VMC STATION ( PLAT 2 ),1,,,outside_sample_or_ambiguous_location
+VMC STATION ( PLATFORM,VMC STATION ( PLATFORM,1,,,outside_sample_or_ambiguous_location
+VMC STATION (ENTERING),VMC STATION (ENTERING),1,,,outside_sample_or_ambiguous_location
+VMC STATION (LEAVING),VMC STATION (LEAVING),1,,,outside_sample_or_ambiguous_location
+VMC STATION (PLAT #2),VMC STATION (PLAT #2),1,,,outside_sample_or_ambiguous_location
+VMC STATION (PLAT 1),VMC STATION (PLAT 1),1,,,outside_sample_or_ambiguous_location
+VMC STATION (PLATFORM,VMC STATION (PLATFORM,16,,,outside_sample_or_ambiguous_location
+VMC STATION (PLATFORM),VMC STATION (PLATFORM),1,,,outside_sample_or_ambiguous_location
+VMC STATION - PLAT 1,VMC STATION - PLAT 1,5,,,outside_sample_or_ambiguous_location
+VMC STATION - PLAT 2,VMC STATION - PLAT 2,3,,,outside_sample_or_ambiguous_location
+VMC STATION - PLATFORM,VMC STATION - PLATFORM,6,,,outside_sample_or_ambiguous_location
+VMC STATION - TAIL 2,VMC STATION - TAIL 2,1,,,outside_sample_or_ambiguous_location
+VMC STATION P2,VMC STATION P2,1,,,outside_sample_or_ambiguous_location
+VMC STATION PL 1,VMC STATION PL 1,1,,,outside_sample_or_ambiguous_location
+VMC STATION PL 2,VMC STATION PL 2,3,,,outside_sample_or_ambiguous_location
+VMC STATION PL2,VMC STATION PL2,1,,,outside_sample_or_ambiguous_location
+VMC STATION PLAT 1,VMC STATION PLAT 1,2,,,outside_sample_or_ambiguous_location
+VMC STATION PLAT 2,VMC STATION PLAT 2,2,,,outside_sample_or_ambiguous_location
+VMC STATION PLATFORM #,VMC STATION PLATFORM #,2,,,outside_sample_or_ambiguous_location
+VMC STATION PLATFORM 1,VMC STATION PLATFORM 1,7,,,outside_sample_or_ambiguous_location
+VMC STATION PLATFORM 2,VMC STATION PLATFORM 2,11,,,outside_sample_or_ambiguous_location
+VMC STATION- PLAT 1,VMC STATION- PLAT 1,1,,,outside_sample_or_ambiguous_location
+VMC STATION- PLAT 2,VMC STATION- PLAT 2,1,,,outside_sample_or_ambiguous_location
+VMC STATION- PLATFORM,VMC STATION- PLATFORM,1,,,outside_sample_or_ambiguous_location
+VMC TO PIONEER VILLAGE,VMC TO PIONEER VILLAGE,2,,,outside_sample_or_ambiguous_location
+W/O WARDEN TO E/O KENN,W/O WARDEN TO E/O KENN,1,,,outside_sample_or_ambiguous_location
+WARDEN,WARDEN,2,S09,Warden,exact_station_alias
+WARDEN STATION,WARDEN STATION,544,S09,Warden,exact_station_alias
+WARDEN STATION (APPROA,WARDEN STATION (APPROA,15,,,outside_sample_or_ambiguous_location
+WARDEN STATION (DEPART,WARDEN STATION (DEPART,2,,,outside_sample_or_ambiguous_location
+WARDEN STATION (ENTERI,WARDEN STATION (ENTERI,5,,,outside_sample_or_ambiguous_location
+WARDEN STATION (IN TUN,WARDEN STATION (IN TUN,1,,,outside_sample_or_ambiguous_location
+WARDEN STATION (LEAVIN,WARDEN STATION (LEAVIN,4,,,outside_sample_or_ambiguous_location
+WARDEN STATION LEAVING,WARDEN STATION LEAVING,1,,,outside_sample_or_ambiguous_location
+WARDEN STATION TO KENN,WARDEN STATION TO KENN,1,,,outside_sample_or_ambiguous_location
+WARDEN STATION(APPROAC,WARDEN STATION(APPROAC,1,,,outside_sample_or_ambiguous_location
+WARDEN TO KENNEDY,WARDEN TO KENNEDY,3,,,outside_sample_or_ambiguous_location
+WARDEN TO KENNEDY STAT,WARDEN TO KENNEDY STAT,1,,,outside_sample_or_ambiguous_location
+WELBECK,WELBECK,1,,,outside_sample_or_ambiguous_location
+WELLESLEY STATION,WELLESLEY STATION,446,,,outside_sample_or_ambiguous_location
+WELLESLEY STATION (DUN,WELLESLEY STATION (DUN,1,,,outside_sample_or_ambiguous_location
+WELLESLEY STATION - DU,WELLESLEY STATION - DU,2,,,outside_sample_or_ambiguous_location
+WELLSELEY STATION,WELLSELEY STATION,1,,,outside_sample_or_ambiguous_location
+WILFRED EMERGENCY EXIT,WILFRED EMERGENCY EXIT,1,,,outside_sample_or_ambiguous_location
+WILSO STATION,WILSO STATION,1,,,outside_sample_or_ambiguous_location
+WILSON CAR HOUSE,WILSON CAR HOUSE,2,,,outside_sample_or_ambiguous_location
+WILSON CARHOUSE,WILSON CARHOUSE,8,,,outside_sample_or_ambiguous_location
+WILSON DIVISION,WILSON DIVISION,2,,,outside_sample_or_ambiguous_location
+WILSON GARAGE,WILSON GARAGE,1,,,outside_sample_or_ambiguous_location
+WILSON HOSTLER,WILSON HOSTLER,2,,,outside_sample_or_ambiguous_location
+WILSON HOSTLER 2,WILSON HOSTLER 2,1,,,outside_sample_or_ambiguous_location
+WILSON HUSTLER ONE,WILSON HUSTLER ONE,1,,,outside_sample_or_ambiguous_location
+WILSON SOUTH HOSLER,WILSON SOUTH HOSLER,1,,,outside_sample_or_ambiguous_location
+WILSON SOUTH HOSTLER,WILSON SOUTH HOSTLER,1,,,outside_sample_or_ambiguous_location
+WILSON STATION,WILSON STATION,620,S15,Wilson,exact_station_alias
+WILSON STATION (APPROA,WILSON STATION (APPROA,6,,,outside_sample_or_ambiguous_location
+WILSON STATION (DEPART,WILSON STATION (DEPART,1,,,outside_sample_or_ambiguous_location
+WILSON STATION (LEAVIN,WILSON STATION (LEAVIN,1,,,outside_sample_or_ambiguous_location
+WILSON STATION APPROAC,WILSON STATION APPROAC,1,,,outside_sample_or_ambiguous_location
+WILSON STATION TO SHEP,WILSON STATION TO SHEP,1,,,outside_sample_or_ambiguous_location
+WILSON STATION(APPROAC,WILSON STATION(APPROAC,1,,,outside_sample_or_ambiguous_location
+WILSON T & S,WILSON T & S,1,,,outside_sample_or_ambiguous_location
+WILSON T&S BUILDING,WILSON T&S BUILDING,1,,,outside_sample_or_ambiguous_location
+WILSON TRACK AND STRUC,WILSON TRACK AND STRUC,3,,,outside_sample_or_ambiguous_location
+WILSON TRAINING CENTRE,WILSON TRAINING CENTRE,1,,,outside_sample_or_ambiguous_location
+WILSON YARD,WILSON YARD,19,,,outside_sample_or_ambiguous_location
+WILSON YARD - NORTH HO,WILSON YARD - NORTH HO,1,,,outside_sample_or_ambiguous_location
+WOODBINE STATION,WOODBINE STATION,285,,,outside_sample_or_ambiguous_location
+WOODBINE STATION (APPR,WOODBINE STATION (APPR,2,,,outside_sample_or_ambiguous_location
+WOODBINE STATION TO BR,WOODBINE STATION TO BR,1,,,outside_sample_or_ambiguous_location
+WOODBINE TO COXWELL,WOODBINE TO COXWELL,1,,,outside_sample_or_ambiguous_location
+YONGE - UNIVERSITY AND,YONGE - UNIVERSITY AND,4,,,outside_sample_or_ambiguous_location
+YONGE - UNIVERSITY- SP,YONGE - UNIVERSITY- SP,1,,,outside_sample_or_ambiguous_location
+YONGE - UNIVERSITY/BLO,YONGE - UNIVERSITY/BLO,1,,,outside_sample_or_ambiguous_location
+YONGE -UNIVERSITY AND,YONGE -UNIVERSITY AND,4,,,outside_sample_or_ambiguous_location
+YONGE AND BLOOR,YONGE AND BLOOR,3,S01,Bloor-Yonge,exact_station_alias
+YONGE AND UNIVERSITY S,YONGE AND UNIVERSITY S,1,,,outside_sample_or_ambiguous_location
+YONGE BD STATION,YONGE BD STATION,512,S01,Bloor-Yonge,exact_station_alias
+YONGE BD STATION (LEAV,YONGE BD STATION (LEAV,1,,,outside_sample_or_ambiguous_location
+YONGE BD TO PAPE STATI,YONGE BD TO PAPE STATI,2,,,outside_sample_or_ambiguous_location
+YONGE STATION,YONGE STATION,9,S01,Bloor-Yonge,exact_station_alias
+YONGE UNIVERSITTY - BL,YONGE UNIVERSITTY - BL,1,,,outside_sample_or_ambiguous_location
+YONGE UNIVERSITY - BLO,YONGE UNIVERSITY - BLO,2,,,outside_sample_or_ambiguous_location
+YONGE UNIVERSITY - SPA,YONGE UNIVERSITY - SPA,1,,,outside_sample_or_ambiguous_location
+YONGE UNIVERSITY AND B,YONGE UNIVERSITY AND B,8,,,outside_sample_or_ambiguous_location
+YONGE UNIVERSITY LINE,YONGE UNIVERSITY LINE,35,,,outside_sample_or_ambiguous_location
+YONGE UNIVERSITY SPADI,YONGE UNIVERSITY SPADI,3,,,outside_sample_or_ambiguous_location
+"YONGE UNIVERSITY, LINE","YONGE UNIVERSITY, LINE",1,,,outside_sample_or_ambiguous_location
+YONGE UNIVERSITY/ BLOO,YONGE UNIVERSITY/ BLOO,1,,,outside_sample_or_ambiguous_location
+YONGE UNIVERVISTY SUBW,YONGE UNIVERVISTY SUBW,1,,,outside_sample_or_ambiguous_location
+YONGE UNIVESITY LINE 1,YONGE UNIVESITY LINE 1,1,,,outside_sample_or_ambiguous_location
+YONGE- UNIVERSITY AND,YONGE- UNIVERSITY AND,1,,,outside_sample_or_ambiguous_location
+YONGE- UNIVERSTIY AND,YONGE- UNIVERSTIY AND,1,,,outside_sample_or_ambiguous_location
+YONGE-BLOOR,YONGE-BLOOR,1,S01,Bloor-Yonge,exact_station_alias
+YONGE-DUNDAS SQUARE,YONGE-DUNDAS SQUARE,1,,,outside_sample_or_ambiguous_location
+YONGE-UNIVERISTY AND B,YONGE-UNIVERISTY AND B,1,,,outside_sample_or_ambiguous_location
+YONGE-UNIVERISTY-SPADI,YONGE-UNIVERISTY-SPADI,1,,,outside_sample_or_ambiguous_location
+YONGE-UNIVERSITY AND B,YONGE-UNIVERSITY AND B,321,,,outside_sample_or_ambiguous_location
+YONGE-UNIVERSITY-SPADI,YONGE-UNIVERSITY-SPADI,4,,,outside_sample_or_ambiguous_location
+YONGE-UNIVRESITY LINE,YONGE-UNIVRESITY LINE,1,,,outside_sample_or_ambiguous_location
+YONGE/UNIVERSITY AND B,YONGE/UNIVERSITY AND B,4,,,outside_sample_or_ambiguous_location
+YONGE/UNIVERSITY LINE,YONGE/UNIVERSITY LINE,1,,,outside_sample_or_ambiguous_location
+YORK AND ADELAIDE,YORK AND ADELAIDE,1,,,outside_sample_or_ambiguous_location
+YORK MILLS,YORK MILLS,1,,,outside_sample_or_ambiguous_location
+YORK MILLS STATION,YORK MILLS STATION,291,,,outside_sample_or_ambiguous_location
+YORK MILLS STATION (AP,YORK MILLS STATION (AP,2,,,outside_sample_or_ambiguous_location
+YORK MILLS STATION (EN,YORK MILLS STATION (EN,2,,,outside_sample_or_ambiguous_location
+YORK MILLS STATION CEN,YORK MILLS STATION CEN,1,,,outside_sample_or_ambiguous_location
+YORK MILLS STATION(APP,YORK MILLS STATION(APP,1,,,outside_sample_or_ambiguous_location
+YORK MILLS TO EGLINTON,YORK MILLS TO EGLINTON,1,,,outside_sample_or_ambiguous_location
+YORK MILLS TO SHEPPARD,YORK MILLS TO SHEPPARD,1,,,outside_sample_or_ambiguous_location
+YORK UNIVERISTY TO PIO,YORK UNIVERISTY TO PIO,1,,,outside_sample_or_ambiguous_location
+YORK UNIVERSITY LINE 1,YORK UNIVERSITY LINE 1,1,,,outside_sample_or_ambiguous_location
+YORK UNIVERSITY STATIO,YORK UNIVERSITY STATIO,114,,,outside_sample_or_ambiguous_location
+YORKDALE STATION,YORKDALE STATION,188,,,outside_sample_or_ambiguous_location
+YORKDALE TO LAWRENCE W,YORKDALE TO LAWRENCE W,1,,,outside_sample_or_ambiguous_location
+YORKDALE TO WILSON,YORKDALE TO WILSON,1,,,outside_sample_or_ambiguous_location
+YORKDLAE STATION,YORKDLAE STATION,1,,,outside_sample_or_ambiguous_location
+YOUNG-UNIVERSITY-SPADI,YOUNG-UNIVERSITY-SPADI,1,,,outside_sample_or_ambiguous_location
+YOUNGE UNIVERSITY LINE,YOUNGE UNIVERSITY LINE,2,,,outside_sample_or_ambiguous_location
+YUS,YUS,1,,,outside_sample_or_ambiguous_location

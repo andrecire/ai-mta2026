@@ -1,0 +1,32 @@
+{
+  "publisher": "Toronto Transit Commission / City of Toronto Open Data",
+  "dataset_url": "https://open.toronto.ca/dataset/ttc-subway-delay-data/",
+  "retrieved_date_local": "2026-11-07",
+  "timezone": "America/Toronto",
+  "license": "open-government-licence-toronto",
+  "metadata_modified": "2026-10-29T14:39:48.368252",
+  "data_last_refreshed": "2026-10-26 12:50:40.95352",
+  "files": [
+    {
+      "path": "raw/ttc-subway-delay-data-since-2025.csv",
+      "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/0b6e5c52-e993-46d6-8d74-8602ee224457/download/ttc-subway-delay-data-since-2025.csv",
+      "resource_id": "0b6e5c52-e993-46d6-8d74-8602ee224457",
+      "bytes": 3234026,
+      "sha256": "06d22d47b6634c81ab6944b3ced3dfe5c1ee6bffd009df17afcd3ffaa8248c55"
+    },
+    {
+      "path": "raw/code-descriptions.csv",
+      "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/b2d8f5e0-0997-46b5-8abd-caa685a0290b/download/code-descriptions.csv",
+      "resource_id": "b2d8f5e0-0997-46b5-8abd-caa685a0290b",
+      "bytes": 5610,
+      "sha256": "30122b4eabf204ed5747fcff70cae41b748ec64e49007380166231d2abc2f45c"
+    },
+    {
+      "path": "raw/ttc-subway-delay-readme.xlsx",
+      "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/ca43ac3d-3940-4315-889b-a9375e7b8aa4/download/ttc-subway-delay-readme.xlsx",
+      "resource_id": "ca43ac3d-3940-4315-889b-a9375e7b8aa4",
+      "bytes": 12704,
+      "sha256": "6592db6d44cca296bfce9c25bd0f9ba236ae552a28f92df5546ccbec1b135acd"
+    }
+  ]
+}

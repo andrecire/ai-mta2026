@@ -1,0 +1,53 @@
+{
+  "year": 2025,
+  "stations": 15,
+  "station_time_options": 45,
+  "source_snapshot_rows_all_years": 47915,
+  "source_rows_2025": 25737,
+  "network_dates_present": 365,
+  "source_month_counts_2025": {
+    "2025-01": 2106,
+    "2025-02": 2274,
+    "2025-03": 1986,
+    "2025-04": 2117,
+    "2025-05": 2175,
+    "2025-06": 1941,
+    "2025-07": 2122,
+    "2025-08": 2719,
+    "2025-09": 1813,
+    "2025-10": 2027,
+    "2025-11": 2215,
+    "2025-12": 2242
+  },
+  "identical_rows_beyond_first_2025_retained": 57,
+  "identical_rows_beyond_first_eligible_retained": 13,
+  "exclusion_counts_mutually_exclusive": {
+    "outside_sample_or_ambiguous_location": 15804,
+    "outside_three_time_windows": 5198,
+    "included": 2370,
+    "weekend": 2365
+  },
+  "selected_station_records_all_times_2025": 9933,
+  "training_log_rows": 708,
+  "training_log_rows_before_zero_delay_filter": 1782,
+  "zero_minute_training_log_rows_removed": 1074,
+  "training_windows": 8775,
+  "test_windows": 2970,
+  "training_weekdays": 195,
+  "test_weekdays": 66,
+  "training_zero_log_windows": 7304,
+  "training_positive_target_windows": 604,
+  "test_positive_target_windows": 208,
+  "training_target_rate": 0.06883190883190883,
+  "test_target_rate": 0.07003367003367003,
+  "unmapped_codes_2025": [
+    "PUTO",
+    "TFPD",
+    "XXXXX"
+  ],
+  "unmapped_codes_eligible": [
+    "PUTO"
+  ],
+  "all_validation_assertions_passed": true,
+  "zero_interpretation": "No matching positive-delay record; station opening and reporting completeness not established."
+}

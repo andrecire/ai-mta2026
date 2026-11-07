@@ -1,0 +1,46 @@
+date,day_of_week,station_id,station,time_window
+2025-10-06,Monday,S01,Bloor-Yonge,07:00-09:00
+2025-10-06,Monday,S01,Bloor-Yonge,12:00-14:00
+2025-10-06,Monday,S01,Bloor-Yonge,16:00-18:00
+2025-10-06,Monday,S02,Union,07:00-09:00
+2025-10-06,Monday,S02,Union,12:00-14:00
+2025-10-06,Monday,S02,Union,16:00-18:00
+2025-10-06,Monday,S03,St George,07:00-09:00
+2025-10-06,Monday,S03,St George,12:00-14:00
+2025-10-06,Monday,S03,St George,16:00-18:00
+2025-10-06,Monday,S04,Kennedy,07:00-09:00
+2025-10-06,Monday,S04,Kennedy,12:00-14:00
+2025-10-06,Monday,S04,Kennedy,16:00-18:00
+2025-10-06,Monday,S05,Finch,07:00-09:00
+2025-10-06,Monday,S05,Finch,12:00-14:00
+2025-10-06,Monday,S05,Finch,16:00-18:00
+2025-10-06,Monday,S06,Kipling,07:00-09:00
+2025-10-06,Monday,S06,Kipling,12:00-14:00
+2025-10-06,Monday,S06,Kipling,16:00-18:00
+2025-10-06,Monday,S07,Eglinton,07:00-09:00
+2025-10-06,Monday,S07,Eglinton,12:00-14:00
+2025-10-06,Monday,S07,Eglinton,16:00-18:00
+2025-10-06,Monday,S08,Dundas,07:00-09:00
+2025-10-06,Monday,S08,Dundas,12:00-14:00
+2025-10-06,Monday,S08,Dundas,16:00-18:00
+2025-10-06,Monday,S09,Warden,07:00-09:00
+2025-10-06,Monday,S09,Warden,12:00-14:00
+2025-10-06,Monday,S09,Warden,16:00-18:00
+2025-10-06,Monday,S10,Victoria Park,07:00-09:00
+2025-10-06,Monday,S10,Victoria Park,12:00-14:00
+2025-10-06,Monday,S10,Victoria Park,16:00-18:00
+2025-10-06,Monday,S11,Sheppard-Yonge,07:00-09:00
+2025-10-06,Monday,S11,Sheppard-Yonge,12:00-14:00
+2025-10-06,Monday,S11,Sheppard-Yonge,16:00-18:00
+2025-10-06,Monday,S12,Don Mills,07:00-09:00
+2025-10-06,Monday,S12,Don Mills,12:00-14:00
+2025-10-06,Monday,S12,Don Mills,16:00-18:00
+2025-10-06,Monday,S13,Islington,07:00-09:00
+2025-10-06,Monday,S13,Islington,12:00-14:00
+2025-10-06,Monday,S13,Islington,16:00-18:00
+2025-10-06,Monday,S14,Spadina,07:00-09:00
+2025-10-06,Monday,S14,Spadina,12:00-14:00
+2025-10-06,Monday,S14,Spadina,16:00-18:00
+2025-10-06,Monday,S15,Wilson,07:00-09:00
+2025-10-06,Monday,S15,Wilson,12:00-14:00
+2025-10-06,Monday,S15,Wilson,16:00-18:00

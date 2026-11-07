@@ -1,0 +1,16 @@
+station_id,station,subway_lines_2025
+S01,Bloor-Yonge,1;2
+S02,Union,1
+S03,St George,1;2
+S04,Kennedy,2
+S05,Finch,1
+S06,Kipling,2
+S07,Eglinton,1
+S08,Dundas,1
+S09,Warden,2
+S10,Victoria Park,2
+S11,Sheppard-Yonge,1;4
+S12,Don Mills,4
+S13,Islington,2
+S14,Spadina,1;2
+S15,Wilson,1

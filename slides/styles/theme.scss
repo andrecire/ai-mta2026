@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+$body-bg: #ffffff;
+$body-color: #182c3e;
+$link-color: #226a85;
+$presentation-heading-color: #182c3e;
+$font-family-sans-serif: "Avenir Next", "Segoe UI", sans-serif;
+$presentation-heading-font: "Avenir Next", "Segoe UI", sans-serif;
+$presentation-font-size-root: 28px;
+$presentation-heading-text-transform: none;
+$presentation-heading-font-weight: 500;
+$code-color: #226a85;
+$code-block-bg: #f4f7f9;
+/*-- scss:rules --*/
+.reveal .progress { height: 2px; color: #226a85; }
+.reveal .controls { color: #226a85; }
+.reveal .slide-number { background: transparent; color: #637587; font-size: 13px; bottom: 18px; right: 24px; }
+.reveal .slide-menu-button { display: none; }

@@ -1,0 +1,2 @@
+# Preserve downloaded source bytes and CSV line endings for recorded checksums.
+*.csv -text
