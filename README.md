@@ -5,7 +5,7 @@ Andre A. Cire · andre.cire@rotman.utoronto.ca
 
 An interactive, 21-slide workshop using Toronto TTC subway delay data to explore data, identify patterns, make predictions, and choose station–time assignments.
 
-**[Open the workshop slides](https://andrecire.github.io/ai-mta2026/)** · [GitHub repository](https://github.com/andrecire/ai-mta2026)
+**[Open the workshop slides](https://www.andre-cire.com/ai-mta2026/)** · [GitHub repository](https://github.com/andrecire/ai-mta2026)
 
 ## Slides and data
 
