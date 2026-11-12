@@ -24,7 +24,10 @@ format:
     touch: true
     html-math-method: mathml
     embed-resources: true
-    scroll-view: false
+    view: default
+    scroll-view:
+      activate: false
+      activation-width: 0
     include-after-body: components/scripts.html
 ---
 
@@ -73,6 +76,12 @@ format:
   <g class="cover-cycle-step" style="--phase:9s" transform="translate(90 250)"><circle r="34" class="cover-node"/><g class="cover-icon"><rect x="-17" y="-17" width="34" height="34" rx="4"/><rect x="-8" y="-8" width="16" height="16" rx="2" class="cover-icon-accent"/><path d="M-10 -17 V-25 M0 -17 V-25 M10 -17 V-25 M-10 17 V25 M0 17 V25 M10 17 V25 M-17 -10 H-25 M-17 0 H-25 M-17 10 H-25 M17 -10 H25 M17 0 H25 M17 10 H25"/></g><text x="-6" y="59" text-anchor="middle" class="cover-cycle-label">Technology</text></g>
 </svg>
 </figure>
+<div class="cover-access">
+  <a href="https://www.andre-cire.com/ai-mta2026/" target="_blank" rel="noopener" aria-label="Open the workshop slides">
+    <img src="assets/workshop-qr.svg" width="164" height="164" alt="QR code for https://www.andre-cire.com/ai-mta2026/">
+  </a>
+  <div><p>Open the workshop slides</p><a href="https://www.andre-cire.com/ai-mta2026/" target="_blank" rel="noopener">www.andre-cire.com/ai-mta2026/</a></div>
+</div>
 ```
 
 ::: {.notes}

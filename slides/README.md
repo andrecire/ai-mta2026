@@ -34,6 +34,7 @@ The first twenty-one slides are included, following `../CONTENT.md`:
 - **Generate PDF** opens a separate print-layout tab, reveals slide builds and example charts, and opens the browser print dialog. Select **Save as PDF**, enable background graphics, and disable browser headers and footers. The print tab also has a Save as PDF button to retry after cancelling. The original presentation remains in place. The handout uses the default chart/prompt choices; live interactions remain in the HTML deck.
 
 - Use **Contents** in the bottom-left corner to jump to any slide. Close the menu with × or Escape.
+- On phones, use the slide arrows to reveal each step, then tap the interactive controls. Landscape orientation gives the controls more room. Automatic scroll view is disabled so slide builds and controls work the same way as on desktop.
 
 - Click a blank part of the slide, or press **Space / Right Arrow**, to reveal the next build or slide.
 - Press **Left Arrow** to go back, **Esc** for overview, **F** for fullscreen, and **S** for speaker view.
@@ -123,6 +124,8 @@ conda run -n networkcc python scripts/check_slides.py
 ```
 
 Checks cover exactly twenty-one slides, animation builds, forward/back navigation, delay-log examples and the training CSV link, the three-pair selection limit and passenger total, token generation/reset, exercises, basic data questions, prompt-copy fallback, keyboard interaction, offline assets, and content fit at common screen sizes. Screenshots and the test report go to `/tmp/mta-workshop-slide-qa/`.
+
+For phone regression checks, install the WebKit browser with `conda run -n networkcc python -m playwright install webkit`, then run `conda run -n networkcc python scripts/check_mobile.py` from `slides/`. This checks portrait and landscape touch interactions in Chromium and WebKit, including slide 3's selection grid and the chart controls. Screenshots go to `/tmp/mta-workshop-mobile-qa/`.
 
 ## Later-month downloads
 

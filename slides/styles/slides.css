@@ -42,7 +42,12 @@ body{margin:0;background:#fff}
 .workshop-event{max-width:580px;margin-top:34px;position:relative;z-index:2}
 .reveal .workshop-event p{font-size:23px;line-height:1.4;margin:0 0 6px}
 .reveal .workshop-event .workshop-date{font-size:21px;color:var(--muted);margin:0}
-.reveal .cover-cycle{position:absolute;right:20px;top:20px;width:600px;height:600px;margin:0;pointer-events:none;z-index:1}
+.reveal .cover-cycle{position:absolute;right:100px;top:10px;width:440px;height:440px;margin:0;pointer-events:none;z-index:1}
+.reveal .cover-access{position:absolute;right:35px;top:460px;width:570px;display:flex;align-items:center;gap:20px;z-index:2}
+.reveal .cover-access>a{display:block;flex:none;line-height:0}
+.reveal .cover-access img{display:block;width:164px;height:164px;max-width:none;max-height:none;margin:0;background:#fff}
+.reveal .cover-access p{font-size:23px;line-height:1.35;margin:0 0 8px;color:var(--teal)}
+.reveal .cover-access>div>a{font-size:21px;line-height:1.4;white-space:nowrap}
 .cover-sky{position:absolute;left:0;top:0;width:1280px;height:620px;pointer-events:none;fill:#d3e5e2;stroke:#b7d1cc;stroke-width:1.5;opacity:.45}
 .cover-drifter{offset-rotate:0deg;offset-distance:var(--drift-start,0%)}
 .cover-drifter-title{offset-path:path("M48 62 H592 Q625 62 625 95 V312 Q625 340 592 340 H48 Q12 340 12 312 V95 Q12 62 48 62 Z")}
